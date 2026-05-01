@@ -1,0 +1,22 @@
+# Huge Folders
+**/posters/
+
+# Python bits
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+env/
+
+# Environment / Secret variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+##
+data/raw/
+*.gzdata/raw/
+*.gz

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300">
+  <!-- Background -->
+  <rect width="200" height="300" fill="#0a0a16"/>
+  <!-- Inner border -->
+  <rect x="8" y="8" width="184" height="284" rx="4" fill="#131326" stroke="#2a2a4a" stroke-width="1"/>
+
+  <!-- Film strip holes top row -->
+  <rect x="18" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="44" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="70" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="96" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="122" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="148" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="166" y="16" width="16" height="11" rx="2" fill="#0d0d1a"/>
+
+  <!-- Film strip holes bottom row -->
+  <rect x="18" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="44" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="70" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="96" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="122" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="148" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+  <rect x="166" y="273" width="16" height="11" rx="2" fill="#0d0d1a"/>
+
+  <!-- Camera lens outer ring -->
+  <circle cx="100" cy="150" r="52" fill="#0d0d1a" stroke="#2a2a4a" stroke-width="2"/>
+  <!-- Camera lens middle ring -->
+  <circle cx="100" cy="150" r="38" fill="#131326" stroke="#f5a623" stroke-width="1.5"/>
+  <!-- Camera lens inner -->
+  <circle cx="100" cy="150" r="24" fill="#0a0a16" stroke="#2a2a4a" stroke-width="1"/>
+  <!-- Lens reflection dot -->
+  <circle cx="93" cy="143" r="5" fill="#f5a623" opacity="0.4"/>
+  <!-- Center dot -->
+  <circle cx="100" cy="150" r="4" fill="#f5a623"/>
+
+  <!-- Top text -->
+  <text x="100" y="62" text-anchor="middle"
+        fill="#f5a623" font-size="9" font-family="Arial, sans-serif"
+        font-weight="bold" letter-spacing="2">TOLLYWOOD TIMELINE</text>
+
+  <!-- Bottom text -->
+  <text x="100" y="232" text-anchor="middle"
+        fill="#888" font-size="8.5" font-family="Arial, sans-serif">
+    POSTER NOT AVAILABLE
+  </text>
+  <text x="100" y="246" text-anchor="middle"
+        fill="#555" font-size="7.5" font-family="Arial, sans-serif">
+    IMDb datasets do not include
+  </text>
+  <text x="100" y="257" text-anchor="middle"
+        fill="#555" font-size="7.5" font-family="Arial, sans-serif">
+    poster images
+  </text>
+</svg>

@@ -1,0 +1,457 @@
+/* ─── Indian flag colors ────────────────────────────────────────────────────
+   Saffron  #FF9933
+   White    #FFFFFF
+   Green    #138808
+   Navy     #000080  (Ashoka Chakra)
+────────────────────────────────────────────────────────────────────────── */
+
+/* ─── Reset ────────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background: #f5f5f0;
+  color: #1a1a2e;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a { color: #FF9933; text-decoration: none; }
+a:hover { text-decoration: underline; color: #ffb366; }
+
+/* ─── Site title (centered, very top) ─────────────────────────────────────── */
+.site-title {
+  text-align: center;
+  padding: 1.1rem 1rem 0.3rem;
+  background: #f5f5f0;
+}
+.site-title a {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #FF9933;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.site-title a:hover { color: #138808; text-decoration: none; }
+
+/* ─── Floating pill navbar ─────────────────────────────────────────────────── */
+.navbar-wrap {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 1rem 1rem;
+  background: #f5f5f0;
+}
+.navbar-blob {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: #000080;
+  border-radius: 999px;
+  padding: 0.55rem 2rem;
+  box-shadow: 0 4px 18px rgba(0,0,128,0.25);
+}
+.navbar-blob a {
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.navbar-blob a:hover { color: #FF9933; text-decoration: none; }
+.nav-divider { color: #ffffff55; font-size: 0.8rem; }
+
+/* ─── Container ────────────────────────────────────────────────────────────── */
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 2rem;
+  flex: 1;
+}
+
+/* ─── Sort buttons ─────────────────────────────────────────────────────────── */
+.sort-row { margin-top: 0.5rem; }
+.sort-label { font-size: 0.82rem; color: #666; font-weight: 600; }
+.sort-btn {
+  display: inline-block;
+  padding: 0.28rem 0.75rem;
+  border-radius: 999px;
+  border: 1.5px solid #000080;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #000080;
+  background: transparent;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+.sort-btn:hover { background: #000080; color: #fff; text-decoration: none; }
+.sort-active { background: #000080; color: #fff; }
+
+/* ─── Hero ─────────────────────────────────────────────────────────────────── */
+.hero {
+  text-align: center;
+  padding: 3.5rem 1rem 2rem;
+}
+.hero h1 {
+  font-size: 2.6rem;
+  color: #FF9933;
+  letter-spacing: 1px;
+  margin-bottom: 0.7rem;
+}
+.hero-sub {
+  font-size: 1rem;
+  color: #555577;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* ─── Stats Grid ───────────────────────────────────────────────────────────── */
+.stats-grid {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+.stat-card {
+  background: #ffffff;
+  border: 1px solid #000080;
+  border-top: 3px solid #FF9933;
+  border-radius: 10px;
+  padding: 1.4rem 2.2rem;
+  text-align: center;
+  min-width: 150px;
+}
+.stat-number { font-size: 2rem; font-weight: 700; color: #FF9933; }
+.stat-label  { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+
+/* ─── Timeline Section ─────────────────────────────────────────────────────── */
+.section-heading {
+  font-size: 1.3rem;
+  color: #FF9933;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #000080;
+}
+.timeline-section { margin: 2rem 0; }
+
+.timeline-track {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  position: relative;
+  padding-left: 2.5rem;
+}
+
+/* Vertical line — saffron to green, Indian flag top-to-bottom */
+.timeline-track::before {
+  content: "";
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, #FF9933, #ffffff 50%, #138808);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 0.8rem;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: -1.9rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #FF9933;
+  border: 2px solid #f5f5f0;
+  z-index: 1;
+}
+
+/* Decade card */
+.decade-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+  border: 1px solid #000080;
+  border-left: 3px solid #FF9933;
+  border-radius: 8px;
+  padding: 0.9rem 1.4rem;
+  transition: background 0.2s, border-color 0.2s, transform 0.1s;
+  text-decoration: none;
+}
+.decade-card:hover {
+  background: #eef0f8;
+  border-left-color: #138808;
+  transform: translateX(4px);
+  text-decoration: none;
+}
+.decade-label { font-size: 1.1rem; font-weight: 700; color: #FF9933; min-width: 60px; }
+.decade-count { font-size: 0.88rem; color: #555577; flex: 1; padding-left: 1rem; }
+.decade-arrow { color: #138808; font-size: 1rem; }
+
+/* ─── About Section ────────────────────────────────────────────────────────── */
+.about-section {
+  background: #ffffff;
+  border: 1px solid #000080;
+  border-radius: 10px;
+  padding: 1.5rem 2rem;
+  margin-top: 2rem;
+}
+.about-section h2 { font-size: 1.1rem; color: #FF9933; margin-bottom: 1rem; }
+.about-section ul { list-style: disc; padding-left: 1.4rem; }
+.about-section li { margin-bottom: 0.6rem; color: #444466; font-size: 0.92rem; }
+.about-section code {
+  background: #eef0f8;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.88rem;
+  color: #FF9933;
+}
+
+/* ─── Page Header ──────────────────────────────────────────────────────────── */
+.page-header { margin-bottom: 1.5rem; }
+.page-header h1 { font-size: 1.9rem; color: #FF9933; margin: 0.3rem 0; }
+.page-sub { color: #888; font-size: 0.92rem; }
+.back-link { font-size: 0.85rem; color: #888; display: inline-block; margin-bottom: 0.4rem; }
+.back-link:hover { color: #FF9933; }
+
+/* ─── Search Form ──────────────────────────────────────────────────────────── */
+.search-form {
+  background: #ffffff;
+  border: 1px solid #000080;
+  border-radius: 8px;
+  padding: 1.1rem 1.4rem;
+  margin-bottom: 1.2rem;
+}
+.form-row {
+  display: flex;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.form-row + .form-row { margin-top: 0.7rem; }
+
+.search-input, .filter-input {
+  padding: 0.5rem 0.85rem;
+  border: 1px solid #000080;
+  border-radius: 6px;
+  background: #f5f5f0;
+  color: #1a1a2e;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.search-input { flex: 1; min-width: 180px; }
+.search-input:focus, .filter-input:focus { border-color: #FF9933; }
+select.filter-input option { background: #f5f5f0; }
+
+/* ─── Buttons ──────────────────────────────────────────────────────────────── */
+.btn {
+  display: inline-block;
+  background: #FF9933;
+  color: #f5f5f0;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  border: 2px solid #FF9933;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  text-decoration: none;
+}
+.btn:hover { background: #138808; border-color: #138808; color: #fff; text-decoration: none; }
+.btn-outline { background: transparent; color: #FF9933; }
+.btn-outline:hover { background: #FF9933; color: #f5f5f0; }
+.btn-sm { padding: 0.3rem 0.8rem; font-size: 0.82rem; }
+
+/* ─── Results count ────────────────────────────────────────────────────────── */
+.results-count { color: #777; font-size: 0.88rem; margin-bottom: 1rem; }
+
+/* ─── Movie Card Grid ──────────────────────────────────────────────────────── */
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.85rem;
+}
+
+.movie-card {
+  background: #ffffff;
+  border: 1px solid #e0e4f0;
+  border-left: 3px solid #FF9933;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  transition: border-left-color 0.18s, box-shadow 0.18s;
+}
+.movie-card:hover {
+  border-left-color: #138808;
+  box-shadow: 0 2px 10px rgba(0,0,128,0.1);
+}
+
+.card-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  line-height: 1.3;
+  margin-bottom: 0.2rem;
+}
+.card-title a { color: inherit; }
+.card-title a:hover { color: #FF9933; text-decoration: none; }
+
+.card-year {
+  font-size: 0.76rem;
+  color: #000080;
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+
+.card-director {
+  font-size: 0.76rem;
+  color: #777;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ─── Data Table ───────────────────────────────────────────────────────────── */
+.table-wrapper { overflow-x: auto; }
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.data-table thead { background: #000080; }
+.data-table th {
+  padding: 0.7rem 1rem;
+  text-align: left;
+  font-size: 0.82rem;
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  border-bottom: 1px solid #FF9933;
+}
+.data-table td {
+  padding: 0.6rem 1rem;
+  font-size: 0.88rem;
+  color: #333355;
+  border-bottom: 1px solid #eef0f8;
+}
+.data-table tbody tr:last-child td { border-bottom: none; }
+.data-table tbody tr:hover { background: #f0f0ff; }
+.imdb-link { color: #666; font-size: 0.8rem; }
+
+.no-results { color: #666; font-style: italic; padding: 1.5rem 0; }
+
+/* ─── Detail Pages ─────────────────────────────────────────────────────────── */
+.detail-header { margin-bottom: 1.5rem; }
+.detail-header h1 { font-size: 2rem; color: #FF9933; margin: 0.3rem 0; }
+.original-title { color: #888; font-size: 0.9rem; margin-bottom: 0.6rem; }
+
+.detail-meta {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  background: #ffffff;
+  border: 1px solid #000080;
+  border-radius: 10px;
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1.8rem;
+}
+.meta-item { display: flex; flex-direction: column; }
+.meta-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; color: #666; margin-bottom: 0.2rem; }
+.meta-value { font-size: 0.95rem; color: #1a1a2e; font-weight: 500; }
+
+.detail-synopsis { margin-bottom: 2rem; }
+.detail-synopsis h2 { font-size: 1.1rem; color: #FF9933; margin-bottom: 0.7rem; }
+.synopsis-text { color: #333355; line-height: 1.7; font-size: 0.95rem; }
+.synopsis-note { margin-top: 0.8rem; color: #666; font-size: 0.8rem; }
+
+h2 { font-size: 1.2rem; color: #FF9933; margin-bottom: 1rem; }
+h1 { font-size: 1.8rem; color: #FF9933; margin-bottom: 1rem; }
+
+/* ─── Synopsis & Plot ──────────────────────────────────────────────────────── */
+.synopsis-text {
+  color: #333;
+  line-height: 1.75;
+  font-size: 0.96rem;
+  margin-bottom: 1.5rem;
+  max-width: 760px;
+}
+.no-content { color: #999; font-style: italic; }
+
+.plot-details {
+  margin-bottom: 2rem;
+  max-width: 760px;
+}
+.plot-summary {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #000080;
+  padding: 0.6rem 1rem;
+  background: #eef0ff;
+  border: 1.5px solid #000080;
+  border-radius: 6px;
+  list-style: none;
+  user-select: none;
+  transition: background 0.15s;
+}
+.plot-summary:hover { background: #dde0ff; }
+/* Hide the default triangle on Safari/Firefox */
+.plot-summary::-webkit-details-marker { display: none; }
+.plot-summary::before {
+  content: "▶";
+  font-size: 0.7rem;
+  color: #000080;
+  transition: transform 0.2s;
+}
+details[open] .plot-summary::before { transform: rotate(90deg); }
+details[open] .plot-summary {
+  border-radius: 6px 6px 0 0;
+  border-bottom: none;
+}
+.spoiler-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #cc4400;
+  background: #fff3ee;
+  border: 1px solid #cc4400;
+  border-radius: 4px;
+  padding: 0.1rem 0.4rem;
+}
+.plot-body {
+  padding: 1.1rem 1.2rem;
+  background: #f8f8ff;
+  border: 1.5px solid #000080;
+  border-top: none;
+  border-radius: 0 0 6px 6px;
+  font-size: 0.92rem;
+  color: #333;
+  line-height: 1.75;
+  white-space: pre-wrap;
+}
+
+/* ─── Footer ───────────────────────────────────────────────────────────────── */
+.footer {
+  background: #000080;
+  border-top: 3px solid #FF9933;
+  color: #555577;
+  text-align: center;
+  padding: 1.2rem;
+  font-size: 0.8rem;
+}
+.footer a { color: #FF9933; }
+.footer-note { margin-top: 0.3rem; font-size: 0.75rem; color: #aaaacc; }

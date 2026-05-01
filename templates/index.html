@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block title %}Home – Tollywood Timeline{% endblock %}
+
+{% block content %}
+
+<!-- Hero -->
+<div class="hero">
+  <h1>Tollywood Timeline</h1>
+  <p class="hero-sub">
+    A decade-by-decade dataset of Telugu cinema from 1930 to 2024.
+    Filtered using official indiancine.ma and Wikipedia region and language metadata: no external sources.
+  </p>
+</div>
+
+<!-- Stats Row -->
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-number">{{ stats.num_films }}</div>
+    <div class="stat-label">Curated Films</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-number">{{ stats.num_decades }}</div>
+    <div class="stat-label">Decades Covered</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-number">{{ stats.num_connections }}</div>
+    <div class="stat-label">Cast &amp; Crew Records</div>
+  </div>
+</div>
+
+<!-- Timeline: 10 Decade Cards -->
+<section class="timeline-section">
+  <h2 class="section-heading">Browse by Decade</h2>
+  <div class="timeline-track">
+
+    {% for d in decade_stats %}
+    <div class="timeline-item">
+      <!-- Vertical line connector (decorative) -->
+      <div class="timeline-dot"></div>
+
+      <a href="{{ url_for('decade', decade_str=d.label) }}" class="decade-card">
+        <div class="decade-label">{{ d.label }}</div>
+        <div class="decade-count">{{ d.count }} film{{ 's' if d.count != 1 else '' }}</div>
+        <div class="decade-arrow">→</div>
+      </a>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>
+
+<!-- About -->
+<section class="about-section">
+  <h2>About This Project</h2>
+  <ul>
+    <li>
+      <strong>Source:</strong>
+      <a href="https://indiancine.ma" target="_blank">Indiancine.ma</a>:
+      an open archive of Indian cinema. Data fetched via their public JSON API.
+    </li>
+    <li>
+      <strong>Filtering:</strong>
+      Films were queried directly by <em>language = "Telugu"</em> using the
+      indiancine.ma API, which tags each film with its original production language.
+    </li>
+    <li>
+      <strong>Scope:</strong>
+      Telugu films from 1930–2024, capped at 100 per decade using a
+      spread sample so every year in the decade is represented.
+    </li>
+    <li>
+      <strong>Posters:</strong>
+      Fetched directly from indiancine.ma's image CDN and cached locally.
+    </li>
+    <li>
+      <strong>Synopses:</strong>
+      Real plot summaries from the indiancine.ma database where available.
+    </li>
+  </ul>
+</section>
+
+{% endblock %}

@@ -1,0 +1,3595 @@
+person_id,person_name,role,film_count,known_for
+a-bhimsingh,A. Bhimsingh,director,20,"BHCQ, BECX, JYP, NLT, MDG"
+a-chandra,A. Chandra,director,1,AFOB
+a-gokul-krishna,A. Gokul Krishna,director,1,BDLY
+a-harsha,A. Harsha,director,1,BGDD
+a-jagannathan,A. Jagannathan,director,9,"BETV, BFUL, BEZW, CKSY, AAGN"
+a-jay-murugan,A. Jay Murugan,director,1,BIBR
+a-karunakaran,A. Karunakaran,director,11,"AQCR, ARKY, ASMK, ATSA, AULY"
+a-kasilingam,A. Kasilingam,director,3,"FYZ, BHMY, BJCK"
+a-kodandarami-reddy,A. Kodandarami Reddy,director,79,"VEP, VUB, VXX, WOA, WYA"
+a-mahadev,A. Mahadev,director,1,BWRQ
+a-majeed,A. Majeed,director,2,"BHXR, BGIX"
+a-mallikarjun,A. Mallikarjun,director,4,"BIDY, AVPC, AXQI, BDGG"
+a-mani,A. Mani,director,1,BEBX
+a-mohan-gandhi,A. Mohan Gandhi,director,34,"SBI, ZCM, AAKY, AAOI, AASA"
+a-prabhakar-rao,A. Prabhakar Rao,director,1,BFYE
+a-raghurami-reddy,A. Raghurami Reddy,director,3,"ABNP, AFII, AEUG"
+a-raj-k-s-gopi,A. Raj. K.S. Gopi,director,2,"BFQO, BGQU"
+a-rajasekhar,A. Rajasekhar,director,1,AWCI
+a-saimadhav,A. Saimadhav,director,1,BJGE
+a-salam,A. Salam,director,1,BGSK
+a-sriram-reddy,A. Sriram Reddy,director,1,UMA
+a-sushanth-reddy,A. Sushanth Reddy,director,1,BGSY
+a-venkatesh,A. Venkatesh,director,11,"BDGL, BHOK, BDOA, BEDU, BJSQ"
+a-venugopal,A. Venugopal,director,1,AJEA
+a-vijay,A. Vijay,director,1,BFKH
+a-vincent,A. Vincent,director,1,BELW
+a-c-chandra-kumar,A.C. Chandra Kumar,director,1,BHFJ
+a-c-trilogchandar,A.C. Trilogchandar,director,5,"MIL, BDHL, BGXM, BJWB, OPP"
+a-c-trilogchander,A.C. Trilogchander,director,3,"BJAG, MEI, RJQ"
+a-c-trilokachander,A.C. Trilokachander,director,1,KUZ
+a-c-trilokchandar,A.C. Trilokchandar,director,6,"BFPG, BDYM, BDWL, BDQD, UBH"
+a-k,A.K.,director,1,DAWH
+a-k-kambhampati,A.K. Kambhampati,director,1,BDYV
+a-k-khambampati,A.K. Khambampati,director,1,BPGZ
+a-k-ravi-varma,A.K. Ravi Varma,director,1,BHTM
+a-k-sajan,A.K. Sajan,director,3,"BFEN, BJCM, BKUU"
+a-k-sekhar,A.K. Sekhar,director,1,MFK
+a-k-velan,A.K. Velan,director,1,MBW
+a-l-apparao,A.L. Apparao,director,1,MKY
+a-l-vijay,A.L. Vijay,director,6,"BEGJ, BIYF, BESM, BARD, BDXE"
+a-m-jyothi-krishna,A.M. Jyothi Krishna,director,1,ASVH
+a-m-ratnam,A.M. Ratnam,director,2,"AHDL, AJUJ"
+a-m-saminulla,A.M. Saminulla,director,2,"BHEQ, BJTI"
+a-m-r-ramesh,A.M.R. Ramesh,director,1,BKRE
+a-n-bose,A.N. Bose,director,1,BHFQ
+a-n-b-kumar,A.N.B. Kumar,director,1,BFAT
+a-p-arjun,A.P. Arjun,director,1,CYTN
+a-p-chandra,A.P. Chandra,director,2,"AIKH, BDQI"
+a-p-nagarajan,A.P. Nagarajan,director,14,"BJNL, BILS, BHRM, BFTR, BGMS"
+a-p-sinha,A.P. Sinha,director,1,BMLO
+a-r-annapareddy,A.R. AnnapaReddy,director,11,"BROE, BTUI, BTXS, BULV, BVNL"
+a-r-chandra,A.R. Chandra,director,1,BDWA
+a-r-gandhi-krishna,A.R. Gandhi Krishna,director,2,"BDZA, BISS"
+a-r-janardhan,A.R. Janardhan,director,1,BIML
+a-r-murugadoss,A.R. Murugadoss,director,7,"ATVQ, AUUA, BENH, AZGC, BARR"
+a-r-raja,A.R. Raja,director,1,BGWG
+a-r-rajaji,A.R. Rajaji,director,1,BJCG
+a-r-ramesh,A.R. Ramesh,director,5,"BGQD, BGJO, BIUB, BION, BILB"
+a-r-sreedhar,A.R. Sreedhar,director,1,DBVJ
+a-r-k-mohan-rao,A.R.K. Mohan Rao,director,1,AJHU
+a-s-geethakrishna,A.S. Geethakrishna,director,7,"ACFS, ADWG, AFWU, AHFD, AJVC"
+a-s-prakash-rao,A.S. Prakash Rao,director,1,BHED
+a-s-prakasham,A.S. Prakasham,director,1,AAAM
+a-s-ravi-kumar-chowdary,A.S. Ravi Kumar Chowdary,director,8,"ASGG, ATQB, AUFL, AVNR, AXLA"
+a-s-a-swamy,A.S.A. Swamy,director,6,"HIG, BEJQ, BHFF, BDQY, BINB"
+a-s-k-ramu-kumar,A.S.K. Ramu Kumar,director,1,BIBX
+a-t-joy,A.T. Joy,director,2,"BGKA, BFUH"
+a-t-krishna-swamy,A.T. Krishna Swamy,director,1,HHW
+a-t-raghu,A.T. Raghu,director,3,"BHUJ, BGVU, BFRO"
+a-t-ravi,A.T. Ravi,director,1,BDEL
+a-v-k-prasanth-babu,A.V.K. Prasanth Babu,director,3,"BUWF, BUAJ, BXLP"
+a-v-m-murugan,A.V.M. Murugan,director,1,BGBN
+a-v-s,A.V.S,director,5,"APRH, ARKI, ASWB, BETP, BDMM"
+a-v-s-adinarayana,A.V.S. Adinarayana,director,2,"BHLQ, BHXD"
+a-v-v-naidu,A.V.V. Naidu,director,1,ATSD
+aadhi,Aadhi,director,1,AQNM
+aadhiraju-anandmohan,Aadhiraju Anandmohan,director,2,"RSV, TTZ"
+aakella,Aakella,director,1,AOJC
+aakella-vamsikrishna,Aakella Vamsikrishna,director,2,"AWBO, BFJM"
+aakula-raghava,Aakula Raghava,director,1,BDRQ
+aamancharla,Aamancharla,director,1,EBD
+aamancharla-gopala-rao,Aamancharla Gopala Rao,director,1,BJUM
+aamancharla-seshagiri-rao,Aamancharla Seshagiri Rao,director,10,"JKN, KAP, KKT, NEK, BIYW"
+abbas-mastan,Abbas-Mastan,director,1,BJZJ
+abhas-shrivastava,Abhas Shrivastava,director,1,CGAM
+abhi,Abhi,director,1,NEP
+abhilash,Abhilash,director,1,BVFV
+abhilash-makkena,Abhilash Makkena,director,2,"BYLP, CHHH"
+abhilash-reddy,Abhilash Reddy,director,1,BYVQ
+abhinav-reddy-erasani,Abhinav Reddy Erasani,director,1,BUBS
+abhinav-velagaleti,Abhinav Velagaleti,director,1,BIQS
+abhiraj,Abhiraj,director,1,BRMR
+abhiram-pilla,Abhiram Pilla,director,1,CEEX
+abimanyu,Abimanyu,director,1,BHUS
+acharya,Acharya,director,2,"GKW, IXD"
+acharya-athreya,Acharya Athreya,director,1,KDQ
+addala-narayana-rao,Addala Narayana Rao,director,3,"JRP, MTP, BGFD"
+adesh-prasad,Adesh Prasad,director,1,BLEV
+adharsh,Adharsh,director,1,BELF
+adhi-aravala,Adhi Aravala,director,1,DAHJ
+adhik-ravichandran,Adhik Ravichandran,director,1,BDKI
+aditya-chopra,Aditya Chopra,director,1,BIYK
+aditya-kumar,Aditya Kumar,director,1,ASMM
+aditya-om,Aditya Om,director,2,"BTEN, BJJW"
+adivi-sesh,Adivi Sesh,director,3,"BEUY, BEIH, BOGJ"
+adurthi-sai-bhaskar,Adurthi Sai Bhaskar,director,1,AOSI
+adurthi-subbarao,Adurthi Subbarao,director,28,"HBI, IOK, IOZ, JEO, JPU"
+agasthian,Agasthian,director,1,CNSG
+agasthiyan,Agasthiyan,director,6,"BJVO, BICC, BHGQ, BETQ, ASQH"
+agasthya-manju,Agasthya Manju,director,2,"CXIJ, CYWP"
+ahammed-khabeer,Ahammed Khabeer,director,1,CYMQ
+ahindra-chowdary,Ahindra Chowdary,director,2,"BOW, CMC"
+aishwarya-addala,Aishwarya Addala,director,1,BKZP
+aishwarya-dhanush,Aishwarya Dhanush,director,1,BBFO
+ajay,Ajay,director,1,ASVK
+ajay-andrews-nuthakki,Ajay Andrews Nuthakki,director,1,CBNH
+ajay-bhupathi,Ajay Bhupathi,director,1,CGRO
+ajay-bhuyan,Ajay Bhuyan,director,3,"BFSB, BIKJ, CEPK"
+ajay-ejjada,Ajay Ejjada,director,1,BVSB
+ajay-ikkurthi,Ajay Ikkurthi,director,1,CFMG
+ajay-kumar-ketineni,Ajay Kumar Ketineni,director,9,"AGXR, AHYY, AIKG, AIRE, AJVN"
+ajay-nathari,Ajay Nathari,director,1,AXYQ
+ajay-sai-manikandan,Ajay Sai Manikandan,director,1,CZBY
+ajay-sastry,Ajay Sastry,director,1,AVZK
+ajay-voddirala,Ajay Voddirala,director,1,BKYI
+ajit-nag,Ajit Nag,director,1,BYMF
+akash-dixit,Akash Dixit,director,1,BHBC
+akelia-peri-srinivas,Akelia Peri Srinivas,director,1,CGKQ
+akilan,Akilan,director,1,BHHO
+akki-viswanadha-reddy,Akki Viswanadha Reddy,director,1,BQLV
+akkineni-kutumba-rao,Akkineni Kutumba Rao,director,4,"AFPB, BHCS, BIGO, BDQN"
+akkineni-sanjeevi-rao,Akkineni Sanjeevi Rao,director,9,"LOL, MUK, NNC, NSP, NUV"
+akrosh-kumar-oguri,Akrosh Kumar Oguri,director,1,BFZM
+akshara-kumar,Akshara Kumar,director,1,BWUG
+akshat-ajay-sharma,Akshat Ajay Sharma,director,2,"BUPW, CBPO"
+akshath-ajay-sharma,Akshath Ajay Sharma,director,1,BDPA
+aktar-nawaz,Aktar Nawaz,director,1,BGT
+akumarthy-baburao,Akumarthy Baburao,director,2,"BHSC, BIJR"
+alagam-perumal,Alagam Perumal,director,1,BEJB
+alagu-raja-sundaram,Alagu Raja Sundaram,director,1,BJHM
+alahari,Alahari,director,2,"BESD, BEPL"
+alanj,Alanj,director,1,BRGY
+alaparthy-ravindra-prakash,Alaparthy Ravindra Prakash,director,1,BFNY
+aleka-chowdary-vemula,Aleka Chowdary Vemula,director,1,BIUE
+ali-mohammed,Ali Mohammed,director,1,BKVP
+alister-grierson,Alister Grierson,director,1,BJEU
+allam-bhuvan-kumar,Allam Bhuvan Kumar,director,1,BKZG
+allani-sreedhar,Allani Sreedhar,director,1,CQJD
+allani-sridhar,Allani Sridhar,director,5,"AOLG, AIDB, ATAM, BDOD, AEXG"
+aluri-ravi,Aluri Ravi,director,2,"VDH, XSR"
+amal-neerad,Amal Neerad,director,2,"BHDW, BFEY"
+amar-kamepalli,Amar Kamepalli,director,1,BIZT
+amar-nalla,Amar Nalla,director,1,BFRX
+amar-viswaraj,Amar Viswaraj,director,1,CXBP
+amarnath-sandipamu,Amarnath Sandipamu,director,5,"CTCW, CTFU, BQCX, BYMF, CFTP"
+ambili,Ambili,director,1,BFUZ
+ameer-john,Ameer John,director,1,ZTI
+ameer-sultan,Ameer Sultan,director,2,"BIPE, BFMW"
+amin,Amin,director,1,CDG
+amit-saxena,Amit Saxena,director,1,BGLP
+amjad-hussain,Amjad Hussain,director,1,BPXA
+amma-rajasekhar,Amma Rajasekhar,director,6,"AUNR, AUSH, AVLX, BEDB, BEGA"
+ammineni-madhava-sai,Ammineni Madhava Sai,director,1,ASRY
+amrutham,Amrutham,director,2,"UMI, BFCG"
+an-bose,An Bose,director,1,BOYQ
+anand-chakravarthy,Anand Chakravarthy,director,1,BHFW
+anand-gandhi,Anand Gandhi,director,1,BLEV
+anand-p-raju,Anand P. Raju,director,4,"BGSA, BDXQ, BJPA, BGFY"
+anand-ranga,Anand Ranga,director,1,AWWB
+anand-sankarapu,Anand Sankarapu,director,1,BHBR
+anand-shankar,Anand Shankar,director,2,"BEFV, CGCS"
+anandaprasad-kafoor,Anandaprasad Kafoor,director,1,CWP
+anant-narayana-mahadevan,Anant Narayana Mahadevan,director,1,BHFU
+anantha-perumal,Anantha Perumal,director,1,CEGW
+anbu,Anbu,director,1,BJFZ
+andru-aadamson,Andru Aadamson,director,1,BHZZ
+aneesh-krishna,Aneesh Krishna,director,1,CFOF
+angad-ojha,Angad Ojha,director,1,CHTH
+ani-kanneganti,Ani Kanneganti,director,1,BAGP
+anil,Anil,director,5,"ADKA, BDRA, AYPW, BGQQ, BZYK"
+anil-baindur,Anil Baindur,director,1,BDNS
+anil-boyidapu,Anil Boyidapu,director,1,AXMU
+anil-c-menon,Anil C. Menon,director,1,BFFU
+anil-gopi-reddy,Anil Gopi Reddy,director,1,CCDQ
+anil-gopireddy,Anil Gopireddy,director,1,BGVD
+anil-jesan-guduru,Anil Jesan Guduru,director,1,BFXN
+anil-k-nair,Anil K. Nair,director,1,CTYE
+anil-kanneganti,Anil Kanneganti,director,1,BDZX
+anil-kishore,Anil Kishore,director,2,"APTM, BJNM"
+anil-kumar,Anil Kumar,director,3,"CMSS, BFHJ, BPKT"
+anil-pg-raj,Anil Pg Raj,director,1,CWUN
+anil-ravipudi,Anil Ravipudi,director,5,"BUFX, BIUC, BILZ, BKWN, CXUF"
+anil-srikantam,Anil Srikantam,director,1,CEXL
+anil-sunkara,Anil Sunkara,director,1,BAVI
+anil-thota,Anil Thota,director,1,CZSK
+anisetty-subbarao,Anisetty Subbarao,director,1,NKM
+anish-krishna,Anish Krishna,director,1,BFIS
+anish-kuruvilla,Anish Kuruvilla,director,3,"AVOQ, BEPN, CUNX"
+anjana-ali-khan,Anjana Ali Khan,director,1,BFTO
+anjanaarya,Anjanaarya,director,1,BIUI
+anjaneyulu,Anjaneyulu,director,1,CZOK
+anji-srinu,Anji Srinu,director,1,CURH
+anji-srinu-srinu-yarajala,Anji Srinu (Srinu Yarajala),director,5,"BFSW, ATCU, BEUR, BIAL, BDIN"
+anjibabu-madhala,Anjibabu Madhala,director,1,BHPX
+annam-chandra-shekar,Annam Chandra Shekar,director,1,CXIU
+annapareddy-promode-vbr,Annapareddy Promode Vbr,director,3,"CWOA, CWSQ, DBUO"
+anoop,Anoop,director,1,BRGG
+anshul-sinha,Anshul Sinha,director,1,CZGB
+antony,Antony,director,1,BEDP
+antony-d-souza,Antony D. Souza,director,1,BDLU
+antony-hickox,Antony Hickox,director,1,BGBW
+antony-m-dawson,Antony M Dawson,director,1,BEBM
+anu-mohan,Anu Mohan,director,3,"BHDH, BENZ, BDXH"
+anu-prasad,Anu Prasad,director,6,"BUNY, BXNX, BXPO, BZEQ, CCHD"
+anubhav-sinha,Anubhav Sinha,director,1,BGEQ
+anudeep,Anudeep,director,1,BXRB
+anuj-shrivastava,Anuj Shrivastava,director,2,"CDLL, CGAM"
+anup-bhandari,Anup Bhandari,director,1,CGNS
+anurag-basu,Anurag Basu,director,1,BFVO
+apoorva-lakhia,Apoorva Lakhia,director,1,BBDQ
+appaji-konda,Appaji Konda,director,1,BGDU
+arasu,Arasu,director,1,CRVU
+arigela-kondal-rao,Arigela Kondal Rao,director,1,ATLC
+arivalagan,Arivalagan,director,1,BITU
+arjun,Arjun,director,2,"BFBQ, BRCH"
+arjun-jandyala,Arjun Jandyala,director,1,CYBL
+arjun-kumar,Arjun Kumar,director,1,BRBX
+arjun-reddy,Arjun Reddy,director,1,AWYO
+arjun-sarja,Arjun Sarja,director,10,"BJBR, BFQU, BEEN, BILB, BGZS"
+arjun-y-k,Arjun Y.K.,director,1,CFUU
+aron-ayaan,Aron Ayaan,director,3,"BTYD, BURF, CGLP"
+aroor-pattabhi,Aroor Pattabhi,director,2,"BIVW, BIMY"
+arpudhan,Arpudhan,director,2,"ATIS, BJLH"
+arshad-khan,Arshad Khan,director,1,CDDV
+arun-dasyam,Arun Dasyam,director,2,"BFWH, BRKE"
+arun-iqbal-khan-chowdary,Arun Iqbal Khan Chowdary,director,1,CGGY
+arun-krishna,Arun Krishna,director,1,BIXS
+arun-kumar,Arun Kumar,director,1,BDVA
+arun-kumar-pujari,Arun Kumar Pujari,director,1,CFSN
+arun-pandian,Arun Pandian,director,2,"BJWG, BHIJ"
+arun-pawar,Arun Pawar,director,2,"BEZP, BXYM"
+arun-raj,Arun Raj,director,1,BHDI
+arun-rudra,Arun Rudra,director,1,BEFB
+arun-singaraju,Arun Singaraju,director,1,AYDE
+arunakanth,Arunakanth,director,1,BFGM
+arvind-siddharth,Arvind Siddharth,director,1,BYPW
+arya-ayaan,Arya Ayaan,director,3,"BTYD, BURF, CGLP"
+aryans-kartheek-kandhi,Aryans Kartheek Kandhi,director,1,BXHU
+asha-khan,Asha Khan,director,2,"BJIW, BJLD"
+ashish-ray,Ashish Ray,director,1,DASO
+ashok-alle,Ashok Alle,director,1,BFRW
+ashok-bhushan,Ashok Bhushan,director,1,BJQG
+ashok-g,Ashok G.,director,1,CDTE
+ashok-koralath,Ashok Koralath,director,1,CZLR
+ashok-kumar-agarwal,Ashok Kumar Agarwal,director,9,"ACKY, AEAL, BDOJ, BJON, AGSC"
+ashok-raj,Ashok Raj,director,1,CRSL
+ashok-reddy-yaramada,Ashok Reddy Yaramada,director,1,BHDX
+ashokan,Ashokan,director,1,BHUP
+ashutosh-gowariker,Ashutosh Gowariker,director,1,BJFQ
+ashwak-anjibabu-madhala,Ashwak Anjibabu Madhala,director,1,BFWB
+ashwin-kumar-madasu,Ashwin Kumar Madasu,director,1,DABQ
+ashwin-saravanan,Ashwin Saravanan,director,1,CXXY
+ashwini-kumar,Ashwini Kumar,director,1,AECJ
+asish-kumar,Asish Kumar,director,1,BGOE
+aswani-kumar-v,Aswani Kumar V.,director,1,CYLG
+aswin-kumar,Aswin Kumar,director,1,BEEH
+atagjendrad,Atagjendrad,director,1,BEGR
+athyam-soorya,Athyam Soorya,director,1,ENY
+atlee,Atlee,director,2,"BJFI, BIHB"
+atlee-kumar,Atlee Kumar,director,2,"BYNZ, CBFC"
+atluri-madhusudhana-rao,Atluri Madhusudhana Rao,director,1,BIZB
+atul-garg,Atul Garg,director,1,CRKO
+avasarala-srinivas,Avasarala Srinivas,director,2,"BJAY, BENY"
+avinash-kokati,Avinash Kokati,director,1,CZQY
+ayodhya-kumar-krishnam-shetty,Ayodhya Kumar Krishnam Shetty,director,1,BISE
+ayodhyakumar-krishnamsetty,Ayodhyakumar Krishnamsetty,director,2,"CUQH, CDER"
+ayyappa-p-sharma,Ayyappa P. Sharma,director,4,"BHRC, BFXV, BGBH, BGFA"
+azggar-alii,Azggar Alii,director,1,DBQX
+aziz-naser,Aziz Naser,director,1,AXMU
+b-ashok-rao,B. Ashok Rao,director,1,BHPS
+b-balakrishna-reddy,B. Balakrishna Reddy,director,1,BDZN
+b-bhaskar-rao,B. Bhaskar Rao,director,19,"QJL, SWY, WOE, WYZ, BIRH"
+b-chinni-krishna,B. Chinni Krishna,director,2,"AZKO, BGOX"
+b-dorairaj,B. Dorairaj,director,1,BEQA
+b-gopal,B. Gopal,director,26,"ABGA, ABQV, ACMQ, ADDC, AEHO"
+b-harinarayana,B. Harinarayana,director,5,"BHKQ, OPN, PGS, QAL, BDZP"
+b-harinaryana,B. Harinaryana,director,1,CKIT
+b-jafar,B. Jafar,director,1,BJQC
+b-jaya,B. Jaya,director,6,"ASPI, AUBY, BIGS, AWCR, BAEL"
+b-jeevan-reddy,B. Jeevan Reddy,director,1,CXYR
+b-krishna-reddy,B. Krishna Reddy,director,1,BDRE
+b-mallesh,B. Mallesh,director,1,BHGA
+b-narasimha-rao,B. Narasimha Rao,director,1,VNZ
+b-narasinga-rao,B. Narasinga Rao,director,6,"YAG, ABXZ, BLMO, ACPE, AEZH"
+b-nityanandam,B. Nityanandam,director,1,BDSN
+b-padmanabam,B. Padmanabam,director,8,"NQE, NXQ, BCFC, OUZ, QJH"
+b-prithviraj,B. Prithviraj,director,1,BDKN
+b-raja,B. Raja,director,1,BFFA
+b-ramamurthy,B. Ramamurthy,director,1,BGES
+b-ramesh-rayulu,B. Ramesh Rayulu,director,1,BGZZ
+b-ramyasri,B. Ramyasri,director,1,BILQ
+b-sai-krishna,B. Sai Krishna,director,1,APRO
+b-satya,B. Satya,director,2,"BFFP, BFMK"
+b-satya-naidu,B. Satya Naidu,director,2,"ACKJ, ASHV"
+b-subhash,B. Subhash,director,1,BKBP
+b-sukumar,B. Sukumar,director,5,"ATCY, AVDW, BBHL, BIUG, BDEN"
+b-suresh-raj,B. Suresh Raj,director,1,BHNF
+b-unni-krishnan,B. Unni Krishnan,director,1,BIMU
+b-venkata-krishna,B. Venkata Krishna,director,1,BDWT
+b-vijaya-reddy,B. Vijaya Reddy,director,1,MFI
+b-vittalacharya,B. Vittalacharya,director,42,"HEU, IOP, JCS, JGA, JJN"
+b-vittalacharya-srinivas,B. Vittalacharya Srinivas,director,6,"MHM, NBE, NFF, OBW, ZUC"
+b-a-subbarao,B.A. Subbarao,director,20,"FYP, GJS, AKVT, HIJ, ALAV"
+b-k-mohan,B.K. Mohan,director,1,BJXS
+b-l-nandan-rao,B.L. Nandan Rao,director,1,TVH
+b-l-v-prasad,B.L.V. Prasad,director,8,"XUI, ZZN, BGDE, BDXI, BGHH"
+b-n-reddi,B.N. Reddi,director,11,"CYR, DEO, DHC, EGI, AKCS"
+b-n-r,B.N.R,director,2,"QKL, BFVZ"
+b-r-panthulu,B.R. Panthulu,director,15,"BGHC, IWT, JHI, BCDF, ALDN"
+b-r-ravi-shankar,B.R. Ravi Shankar,director,1,BHXG
+b-r-srinivas,B.R. Srinivas,director,1,AAFH
+b-s-narayana,B.S. Narayana,director,16,"JOW, KRA, KYF, LWB, LWQ"
+b-s-prakash-rao,B.S. Prakash Rao,director,1,BEWT
+b-s-raju,B.S. Raju,director,1,BHDE
+b-s-ranga,B.S. Ranga,director,12,"HFN, HWO, AKZF, IJI, BJVV"
+b-s-vasu,B.S. Vasu,director,1,BGDQ
+b-v-bala-guru,B.V. Bala Guru,director,1,BGHF
+b-v-nandini-reddy,B.V. Nandini Reddy,director,4,"AYHZ, BAYV, BEED, CZUI"
+b-v-padmanaba-charya,B.V. Padmanaba Charya,director,1,BFMN
+b-v-padmanaba-rao,B.V. Padmanaba Rao,director,1,ZSS
+b-v-prasad,B.V. Prasad,director,24,"LUJ, NSW, ONG, PEB, PXL"
+b-v-ramana,B.V. Ramana,director,4,"ASQM, ATFW, AURQ, AVZX"
+b-v-ramana-reddy,B.V. Ramana Reddy,director,8,"AGEO, AHAM, AIYC, BJMP, ATKO"
+b-v-ramanandam,B.V. Ramanandam,director,3,"CWB, EOA, GHG"
+b-v-s-ravi,B.V.S. Ravi,director,2,"AZLH, BKXY"
+b-v-v-chowdary,B.V.V. Chowdary,director,1,BIBG
+b-v-v-chowdhary,B.V.V. Chowdhary,director,1,AXJJ
+baali-srirangam,Baali Srirangam,director,1,BGJX
+babji,Babji,director,4,"BICR, ARGX, BHSD, DAFY"
+babu-janardhan,Babu Janardhan,director,1,BDGS
+babu-maharaj,Babu Maharaj,director,1,BDWD
+babu-neelakantam,Babu Neelakantam,director,1,BZFK
+babu-nimmagadda,Babu Nimmagadda,director,1,ATNL
+babu-sivan,Babu Sivan,director,1,BIYQ
+babubhai-mistri,Babubhai Mistri,director,12,"BIQY, BHBM, BGRY, BHJD, BEBV"
+baburaj,Baburaj,director,1,BIDE
+baby,Baby,director,9,"BJTQ, BMHU, BDHJ, BJBM, BGQH"
+badran,Badran,director,2,"BJNE, BETX"
+badri,Badri,director,1,BJQE
+badri-venkatesh,Badri Venkatesh,director,1,BFOJ
+bakhrudeen,Bakhrudeen,director,1,ARAP
+bakkiyaraj-kannan,Bakkiyaraj Kannan,director,1,BKOR
+bala,Bala,director,8,"BHNQ, BEKE, BFAE, BIIM, BFIQ"
+bala-bodepudi,Bala Bodepudi,director,1,CFQR
+bala-sai-karthik-ch,Bala Sai Karthik CH,director,1,CGRL
+bala-shekaran,Bala Shekaran,director,1,CQDK
+balachari,Balachari,director,1,ATPJ
+balagonda-anjaneyulu,Balagonda Anjaneyulu,director,1,BIMH
+balaiah-m,Balaiah M.,director,1,CKBZ
+balaiah-mannava,Balaiah Mannava,director,7,"WFE, XWI, YSO, ZXZ, ABFH"
+balajee,Balajee,director,1,BEAZ
+balaji,Balaji,director,1,BKAZ
+balaji-mohan,Balaji Mohan,director,3,"BIFI, BGOA, CFPC"
+balaji-n-sai,Balaji N. Sai,director,1,BIFD
+balaji-sanala,Balaji Sanala,director,1,CZVQ
+balaji-shakthivel,Balaji Shakthivel,director,4,"BFIN, BDJB, BEAF, BHLW"
+balaraju-m,Balaraju M.,director,1,DAEA
+balasekharan,Balasekharan,director,5,"ARVI, ARWX, BIPI, ATCN, BDER"
+balkrishna-narayan-rao,Balkrishna Narayan Rao,director,1,DMI
+ballem-venu-madhav,Ballem Venu Madhav,director,1,CSTV
+ballem-venumadhav,Ballem Venumadhav,director,1,BFQR
+balu,Balu,director,1,CVZE
+balu-anand,Balu Anand,director,2,"BEZR, BIVC"
+balu-mahendra,Balu Mahendra,director,12,"BDSC, BHGV, BIPR, BFQM, WVY"
+bandela-eshwar-rao,Bandela Eshwar Rao,director,2,"ACKU, AENM"
+bandi-krishna-rao,Bandi Krishna Rao,director,1,BKBQ
+bandi-ramesh,Bandi Ramesh,director,1,ASCP
+bapu,Bapu,director,37,"MQY, MUY, NHJ, NTJ, NWQ"
+barathi-babu,Barathi Babu,director,1,CZQE
+bargavan,Bargavan,director,1,BJXD
+barry-sonnenfeld,Barry Sonnenfeld,director,1,BHCI
+basava-shankar-eeday,Basava Shankar Eeday,director,1,CXUA
+basheer-alluri,Basheer Alluri,director,1,DAMK
+basu-bhattacharya,Basu Bhattacharya,director,1,BJWA
+bejoy-nambiar,Bejoy Nambiar,director,1,BHRY
+bellam-ramakrishna-reddy,Bellam Ramakrishna Reddy,director,2,"BENE, BWEM"
+benny-chan,Benny Chan,director,1,BJZS
+bhalji-pendharkar,Bhalji Pendharkar,director,1,BHRN
+bhanu-kiran-challa,Bhanu Kiran Challa,director,4,"BIRD, BDQL, BEHF, CDLQ"
+bhanu-prakash,Bhanu Prakash,director,1,CWXO
+bhanu-prakash-balusu,Bhanu Prakash Balusu,director,1,BVXX
+bhanu-shankar,Bhanu Shankar,director,2,"BFLM, ATOZ"
+bhanu-shankar-chowdary,Bhanu Shankar Chowdary,director,1,BFRC
+bhanuchandar,Bhanuchandar,director,2,"AJIL, BFEE"
+bhanuprakash-balusu,Bhanuprakash Balusu,director,2,"BILD, BGWM"
+bhanusree-teja,Bhanusree Teja,director,1,CGAM
+bharat-kamma,Bharat Kamma,director,1,CXMG
+bharat-parepalli,Bharat Parepalli,director,2,"BOQE, BTIB"
+bharath-bala,Bharath Bala,director,1,BGKQ
+bharath-parepalli,Bharath Parepalli,director,18,"AGRZ, AIMP, AIRC, AJWQ, BIPV"
+bharathan,Bharathan,director,11,"BKCK, BKAO, BIPN, BKBO, BIZJ"
+bharathi,Bharathi,director,1,BENS
+bharathi-ganesh,Bharathi Ganesh,director,2,"BGLN, BDGK"
+bharathi-kannan-p-s,Bharathi Kannan P.S.,director,3,"ARXB, BFBJ, BGLE"
+bharathi-mohan,Bharathi Mohan,director,1,BDTZ
+bharathi-srinivas,Bharathi Srinivas,director,1,BFBZ
+bharathi-vasu,Bharathi-Vasu,director,4,"BHLK, ZCX, BISK, BFDS"
+bharathirajaa,Bharathirajaa,director,16,"UKO, UWM, WCJ, BKBK, BEWN"
+bhargava,Bhargava,director,4,"XIQ, BGXB, ZDK, BHAU"
+bhargavan,Bhargavan,director,2,"BDPT, BIHL"
+bhaskar,Bhaskar,director,5,"AJNX, AUKI, AWAI, AXWQ, BBAX"
+bhaskar-babu,Bhaskar Babu,director,1,BFCY
+bhaskar-bandi,Bhaskar Bandi,director,1,BXKA
+bhaskar-raja,Bhaskar Raja,director,1,BFBY
+bhaskar-rao-vendrathi,Bhaskar Rao Vendrathi,director,1,BHJZ
+bhaskarrao-vedrathi,Bhaskarrao Vedrathi,director,1,BSCT
+bhavani-shankar,Bhavani Shankar,director,1,BFVT
+bhavani-shankar-kaipa,Bhavani Shankar Kaipa,director,1,CUIP
+bheemaneni-srinivasa-rao,Bheemaneni Srinivasa Rao,director,11,"AOWR, AQCA, BFPJ, AQCJ, APRK"
+bheeram-mastan-rao,Bheeram Mastan Rao,director,6,"TRB, USG, VZR, XET, ZFR"
+bhimavarapu-narasimha-rao,Bhimavarapu Narasimha Rao,director,2,"DCU, IRG"
+bhimeswara-rao-munjuluri,Bhimeswara Rao Munjuluri,director,2,"VUK, BEUC"
+billa-r-krishnamurthy,Billa R. Krishnamurthy,director,1,BIEE
+bipin,Bipin,director,1,BIFE
+birsa-dasgupta,Birsa Dasgupta,director,1,CDMH
+bl-prasad,Bl Prasad,director,1,DABV
+blessy,Blessy,director,1,BGFV
+bobbili-bhanu,Bobbili Bhanu,director,1,BJJU
+bobby-kolli,Bobby Kolli,director,3,"BXYO, BKVZ, DBPG"
+boina-subbarao,Boina Subbarao,director,28,"SPM, SXK, SZA, TQY, UHA"
+bola-shankar-sunkara,Bola Shankar Sunkara,director,1,BROH
+bolla-subbarao,Bolla Subbarao,director,3,"HHL, JAA, LBT"
+bommisetty-santhosh-ganesh-deepak,Bommisetty Santhosh Ganesh Deepak,director,1,CEJJ
+bondugula-srinivas-reddy,Bondugula Srinivas Reddy,director,1,CRXA
+boopathy-pandian,Boopathy Pandian,director,1,CRUF
+boyapati-kameswara-rao,Boyapati Kameswara Rao,director,1,BFRJ
+boyapati-srinu,Boyapati Srinu,director,9,"ATSJ, AVMD, AYBR, AZUR, BEYX"
+bryan-singer,Bryan Singer,director,1,BFGK
+bvr-shivakumar,Bvr Shivakumar,director,1,CESH
+c-durai-pandian,C. Durai Pandian,director,1,BDTQ
+c-gangadhar,C. Gangadhar,director,1,BDSR
+c-pullaiah,C. Pullaiah,director,22,"BHJ, BLH, BXO, BZE, CPJ"
+c-rajadurai,C. Rajadurai,director,1,BHCV
+c-ranganath,C. Ranganath,director,1,BIGC
+c-rudraiah,C. Rudraiah,director,1,BHBV
+c-seetharam,C. Seetharam,director,1,MQU
+c-siva-kumar,C. Siva Kumar,director,1,ARAG
+c-srinivas-reddy,C. Srinivas Reddy,director,1,RBQ
+c-sundar,C. Sundar,director,15,"BIEV, BHUL, BILB, BIXD, BGNG"
+c-supreeth-krishna,C. Supreeth Krishna,director,1,BXYV
+c-umamaheshwara-rao,C. Umamaheshwara Rao,director,1,CKSQ
+c-umamaheswara-rao,C. Umamaheswara Rao,director,7,"WXU, AADO, AGML, AJPK, APGF"
+c-vaikuntarama-sharma,C. Vaikuntarama Sharma,director,2,"PIE, BDYA"
+c-c-srinivas,C.C. Srinivas,director,1,AVZC
+c-g-dhar,C.G. Dhar,director,1,AHFY
+c-h-narayana-murthy,C.H. Narayana Murthy,director,1,ALLI
+c-h-srinivas,C.H. Srinivas,director,2,"BFMG, BDUB"
+c-h-subba-reddy,C.H. Subba Reddy,director,1,BDLR
+c-h-venkat,C.H. Venkat,director,6,"AIZD, BIOI, BJNX, BFNS, BHSM"
+c-h-m-krishna,C.H.M. Krishna,director,1,BEJN
+c-k-surendra,C.K. Surendra,director,1,BDFP
+c-m-karnan,C.M. Karnan,director,1,BFOL
+c-p-dixit,C.P. Dixit,director,1,HSZ
+c-p-jambulingam,C.P. Jambulingam,director,3,"BHYM, BFNC, BHYJ"
+c-p-kolappan,C.P. Kolappan,director,1,BFEJ
+c-s-bose,C.S. Bose,director,2,"ACEA, AIBQ"
+c-s-rao,C.S. Rao,director,50,"HTU, IPK, ITK, IXC, ALCP"
+c-s-reddy,C.S. Reddy,director,1,BSHK
+c-s-r-krishnan,C.S.R. Krishnan,director,1,BIAP
+c-v-akshar,C.V. Akshar,director,1,BRDO
+c-v-ganesh,C.V. Ganesh,director,3,"WRM, BISR, ANSS"
+c-v-kumar,C.V. Kumar,director,1,CXYG
+c-v-rajendran,C.V. Rajendran,director,14,"BGZO, BFUC, BFVP, BJME, BJOJ"
+c-v-ramanji,C.V. Ramanji,director,1,RPV
+c-v-ranganatha-das,C.V. Ranganatha Das,director,4,"BKBR, HSY, INH, KYD"
+c-v-reddy,C.V. Reddy,director,3,"AJGS, BFJT, AUQO"
+c-v-sasikumar,C.V. Sasikumar,director,1,BFTU
+c-v-sridhar,C.V. Sridhar,director,24,"HEO, JQK, BJKH, BEVJ, BDKV"
+c-v-r-k-giridhar,C.V.R.K. Giridhar,director,1,BIQD
+caarthick-raju,Caarthick Raju,director,1,CZSL
+carl-schenkel,Carl Schenkel,director,1,BGVV
+carthyk-arjun,Carthyk-Arjun,director,1,DAGI
+cha-chuen-yee,Cha Chuen Yee,director,1,BIYI
+chacha,Chacha,director,2,"BHWI, BGHV"
+chachi,Chachi,director,1,DASU
+chadalavada-srinivasa-rao,Chadalavada Srinivasa Rao,director,1,BETT
+chai-dingari,Chai Dingari,director,1,CBKD
+chaitanya-chakravarthy,Chaitanya Chakravarthy,director,1,BAMK
+chaitanya-dantuluri,Chaitanya Dantuluri,director,1,BPPS
+chaitanya-dhantuluri,Chaitanya Dhantuluri,director,2,"AWIF, BDDP"
+chakrapani,Chakrapani,director,2,"RWC, BDFH"
+chakravarthy,Chakravarthy,director,6,"QGO, RSU, RZX, BIGH, BHAF"
+chakravarty-devulapalli,Chakravarty Devulapalli,director,2,"CUHM, CWWD"
+chakri-tholeti,Chakri Tholeti,director,2,"BGJH, AZQX"
+chalam,Chalam,director,1,BGDY
+chalapthi-malladi,Chalapthi Malladi,director,1,CSRC
+chalasani-ramarao,Chalasani Ramarao,director,1,AFDQ
+chanda-govinda-reddy,Chanda Govinda Reddy,director,1,BKMX
+chandan-arora,Chandan Arora,director,1,BHXP
+chandan-samireddy,Chandan Samireddy,director,1,BVMD
+chandoo-mondeti,Chandoo Mondeti,director,3,"BQZY, BKNL, CGUX"
+chandra,Chandra,director,2,"BIOK, BHZX"
+chandra-kumar,Chandra Kumar,director,1,BJUJ
+chandra-mahesh,Chandra Mahesh,director,9,"AQVZ, BFDA, ARNM, ASDY, BGMU"
+chandra-mohan,Chandra Mohan,director,2,"JHD, BEOT"
+chandra-mohan-chintada,Chandra Mohan Chintada,director,1,BKSP
+chandra-sekhar-yeleti,Chandra Sekhar Yeleti,director,2,"BNYQ, BXEM"
+chandra-siddhartha,Chandra Siddhartha,director,8,"ASOB, ATBP, AVFY, AVUK, AXEX"
+chandragira-maharaja,Chandragira Maharaja,director,1,BJQU
+chandrakant,Chandrakant,director,3,"BJEM, BIUZ, BDPL"
+chandrakanth,Chandrakanth,director,1,BDJX
+chandramouli,Chandramouli,director,1,BJMB
+chandrasekhar-nagathihalli,Chandrasekhar Nagathihalli,director,3,"BHJP, BGCC, BFDF"
+chandrasekhar-reddy,Chandrasekhar Reddy,director,1,BRAF
+chandrasekhar-yeleti,Chandrasekhar Yeleti,director,6,"ASNP, ATRI, AVII, AWWV, BFUV"
+chandrashekar-kanuri,Chandrashekar Kanuri,director,1,CGPA
+chandru,Chandru,director,1,GFX
+chandu,Chandu,director,3,"BBGH, BFIA, BGVC"
+chandu-dukuntla,Chandu Dukuntla,director,1,CBAN
+chandu-mondeti,Chandu Mondeti,director,1,BFEG
+chanti-gnanamani,Chanti Gnanamani,director,1,BEIQ
+chaplin,Chaplin,director,1,BDDA
+charan,Charan,director,1,ASSH
+charan-kasinadhuni,Charan Kasinadhuni,director,2,"BOBR, CHYM"
+charan-lakkakula,Charan Lakkakula,director,1,CCCE
+charan-tej,Charan Tej,director,1,CDQC
+charanraj,Charanraj,director,1,BFSZ
+charu-rai,Charu Rai,director,1,BVJ
+chekuri-krishna-rao,Chekuri Krishna Rao,director,1,ZKY
+chendu-muddu,Chendu Muddu,director,1,BFRU
+chenni-chiranjeevi,Chenni Chiranjeevi,director,1,BDQA
+cherag-ruparel,Cherag Ruparel,director,1,DANF
+cheran,Cheran,director,2,"BHWU, BJKG"
+chetan-maddineni,Chetan Maddineni,director,1,CWWD
+chetan-sharma,Chetan Sharma,director,1,BAQH
+chi-guru-dutt,Chi Guru Dutt,director,1,BEXB
+chi-gurudutt,Chi Gurudutt,director,2,"CSEE, CTDD"
+chimakurthi-haribabu,Chimakurthi Haribabu,director,1,BFFK
+chimbudeven,Chimbudeven,director,1,BUHU
+chindodi-bangaresh,Chindodi Bangaresh,director,1,WAJ
+chinna,Chinna,director,2,"ACHP, AWGQ"
+chinna-kameswara-rao,Chinna Kameswara Rao,director,1,DBW
+chinna-papisetty,Chinna Papisetty,director,1,DATL
+chinni-charan,Chinni Charan,director,1,BHHY
+chintalapudi-venkat,Chintalapudi Venkat,director,1,BGRE
+chitra-lakshman,Chitra Lakshman,director,2,"BGQO, BECC"
+chitrapu-narasimha-rao,Chitrapu Narasimha Rao,director,7,"BNG, BWA, CHZY, CEK, CJT"
+chitrapu-narayana-murthy,Chitrapu Narayana Murthy,director,1,IBE
+chitrapu-narayana-rao,Chitrapu Narayana Rao,director,1,CIDZ
+chitrapu-narayanamurthy,Chitrapu Narayanamurthy,director,16,"CPV, DCM, DGY, DMP, DYN"
+chittor-v-nagaiah,Chittor V. Nagaiah,director,3,"ENP, GUM, LHM"
+cho-dong-o,Cho Dong O,director,1,BJJN
+cholarajan,Cholarajan,director,6,"BJJY, BFQZ, AETX, BGNC, AGAS"
+chris-weitz,Chris Weitz,director,1,BIHX
+christopher-nolan,Christopher Nolan,director,1,BELJ
+chunia,Chunia,director,1,BJNG
+cory-yuen,Cory Yuen,director,1,BEAS
+cross-belt-mani,Cross Belt Mani,director,1,ACJR
+d-diwakar,D. Diwakar,director,1,BDYR
+d-gowtham,D. Gowtham,director,1,BDZL
+d-madhunag,D. Madhunag,director,1,BFXA
+d-maniraj,D. Maniraj,director,1,BIFS
+d-pandu,D. Pandu,director,3,"BGJK, BILO, BJDB"
+d-prabhakar,D. Prabhakar,director,2,"BJSE, BIMF"
+d-rajendra-babu,D. Rajendra Babu,director,1,CPOL
+d-rajendrababu,D. Rajendrababu,director,5,"ZBK, BGML, BDRJ, BGST, BGTN"
+d-ramakrishna,D. Ramakrishna,director,1,BDQO
+d-rangarao,D. Rangarao,director,13,"BFWI, BEOL, BFGE, BIYP, BJRA"
+d-ravi-kumar,D. Ravi Kumar,director,1,BJEJ
+d-sabapathi,D. Sabapathi,director,1,BIIX
+d-shankar,D. Shankar,director,1,BKBD
+d-shankar-singh,D. Shankar Singh,director,2,"BJUD, BHFZ"
+d-yella-reddy,D. Yella Reddy,director,1,BZHV
+d-yoganand,D. Yoganand,director,29,"GSO, HKI, HOV, HUZ, HYU"
+d-g-gune,D.G. Gune,director,1,CMA
+d-k-suresh,D.K. Suresh,director,1,ASVC
+d-l-ramachandar,D.L. Ramachandar,director,2,"CZS, HLZ"
+d-s-kannan,D.S. Kannan,director,2,"CSTO, BDMI"
+d-s-kotnis,D.S. Kotnis,director,1,EKP
+d-s-prakash-rao,D.S. Prakash Rao,director,7,"PDJ, QRH, RDT, RVN, TJH"
+d-s-ramesh-selvan,D.S. Ramesh Selvan,director,1,BIFU
+d-s-p,D.S.P,director,1,BFAG
+d-v-narasaraju,D.V. Narasaraju,director,1,ANLY
+d-v-sahadeva-reddy,D.V. Sahadeva Reddy,director,4,"BEIG, BEGX, BGZE, BDJW"
+d-v-k-nageshwara-rao,D.V.K. Nageshwara Rao,director,1,BDUL
+d-v-r-kalinga,D.V.R. Kalinga,director,1,BGPY
+d-v-sahadeva-reddy,D.V.Sahadeva Reddy,director,1,EEFL
+dk-boyapati,DK Boyapati,director,1,CDKP
+dalapathi,Dalapathi,director,2,"BHEF, BJJM"
+daniel-monzaa,Daniel Monzaa,director,1,BEUF
+danunjaya,Danunjaya,director,1,BHDF
+darapaneni-padmanaba-rao,Darapaneni Padmanaba Rao,director,1,CPOV
+darling-swamy,Darling Swamy,director,1,BHLT
+das,Das,director,1,BGYN
+dasaradh,Dasaradh,director,2,"ASYN, BYBQ"
+dasaradhan,Dasaradhan,director,1,BFNV
+dasari-narayana-rao,Dasari Narayana Rao,director,118,"PJD, QCX, QFX, QLY, PXZ"
+dasari-sairam,Dasari Sairam,director,1,BZZU
+datta-dharmadhikari,Datta Dharmadhikari,director,1,BERL
+davala-mallik,Davala Mallik,director,1,ASXG
+davala-satyam,Davala Satyam,director,11,"UUD, VJH, BHLI, BDTI, XCB"
+david-a-prior,David A. Prior,director,1,BJSG
+david-f-price,David F. Price,director,1,BENJ
+david-lister,David Lister,director,1,BGYS
+david-palmieri,David Palmieri,director,1,BDHC
+david-r-ellis,David R. Ellis,director,1,BGEH
+david-warth,David Warth,director,1,BJLX
+david-yates,David Yates,director,1,BDKM
+dayakar-reddy,Dayakar Reddy,director,1,BKOI
+dayakar-vasanth,Dayakar Vasanth,director,1,BPUI
+dayal,Dayal,director,1,BDIA
+dayanand-reddy,Dayanand Reddy,director,1,BKMP
+deepak,Deepak,director,1,BKAM
+deepak-reddy,Deepak Reddy,director,1,BNIA
+deepak-shivdasani,Deepak Shivdasani,director,1,BGCB
+deepak-tijori,Deepak Tijori,director,1,BGHN
+deepan,Deepan,director,1,BITL
+deepan-chakravarthy,Deepan Chakravarthy,director,1,BFNT
+deepthi-ganta,Deepthi Ganta,director,1,CWPE
+deerath-singh,Deerath Singh,director,1,BDBO
+delsirani,Delsirani,director,1,BGFL
+dennis-joseph,Dennis Joseph,director,2,"ACOL, BDIS"
+derekwan,Derekwan,director,1,BHLO
+desagan,Desagan,director,1,BHGI
+dev,Dev,director,1,BUFN
+deva-charan,Deva Charan,director,1,BJIY
+deva-katta,Deva Katta,director,4,"AUFN, AXYH, AZPD, BDPI"
+devadaanam,Devadaanam,director,1,CDQS
+devadas-kanakala,Devadas Kanakala,director,6,"SWZ, UTP, UZQ, VAH, BFHD"
+devanand,Devanand,director,1,AUMP
+devaraj,Devaraj,director,1,AGQX
+devaraj-palan,Devaraj Palan,director,1,CQBG
+devaraj-mohan,Devaraj-Mohan,director,1,BEGT
+devarapalli,Devarapalli,director,1,CSSG
+devendar-dhuva,Devendar Dhuva,director,1,BDDH
+devi-prasad,Devi Prasad,director,6,"ARYW, ATIO, BIVP, AVPM, BAZJ"
+dhakar,Dhakar,director,1,BXLF
+dhana-koteswara-rao,Dhana Koteswara Rao,director,1,ABUX
+dhanunjaya-dattu,Dhanunjaya Dattu,director,1,BENI
+dhanvignesh-aamuri,Dhanvignesh Aamuri,director,1,BQIX
+dharani,Dharani,director,4,"BIXZ, AUIC, BHVD, BGSF"
+dharapaneni-padmanaba-rao,Dharapaneni Padmanaba Rao,director,1,BILJ
+dharendar,Dharendar,director,1,BDEG
+dharmavarapu-subramanyam,Dharmavarapu Subramanyam,director,1,BFSL
+dharmesh-darshan,Dharmesh Darshan,director,1,BJYO
+dharmesh-shah,Dharmesh Shah,director,1,BUQC
+dhasarathan,Dhasarathan,director,1,BGMZ
+dhavala-satyam,Dhavala Satyam,director,2,"YOH, AXRU"
+dheeraj-raju-pusapati,Dheeraj Raju Pusapati,director,1,BSBY
+dhirubhai-desai,Dhirubhai Desai,director,1,BGUX
+dhonthireddy-achutha-reddy,Dhonthireddy Achutha Reddy,director,1,BHDU
+dhruv-sekhar,Dhruv Sekhar,director,1,BKXK
+dhruv-shinde,Dhruv Shinde,director,1,CEUP
+diamond-ratna-babu,Diamond Ratna Babu,director,1,CXCR
+dileep-polan,Dileep Polan,director,1,AYYB
+dileep-raj,Dileep Raj,director,1,CZYE
+dilip-kumar-tamil-dir,Dilip Kumar (Tamil Dir),director,1,BHUT
+dilip-kumar-salvadi,Dilip Kumar Salvadi,director,1,CXOS
+dinesh-babu,Dinesh Babu,director,6,"BESW, AOCV, BEYY, BDKO, BFHN"
+dinesh-majji,Dinesh Majji,director,1,CFPG
+dominic-sena,Dominic Sena,director,1,BDIE
+don-kaskareli,Don Kaskareli,director,1,BEGS
+don-sandy,Don Sandy,director,1,CYAL
+donald-f-glut,Donald F Glut,director,1,BFHX
+dorai-bagavan,Dorai-Bagavan,director,2,"BEVS, BFZV"
+dorairaj,Dorairaj,director,1,BDMO
+doss-ramasamy,Doss Ramasamy,director,1,BKRJ
+douglas-kung,Douglas Kung,director,1,BDDN
+dr-l-srinath,Dr L. Srinath,director,1,BDFD
+dr-n-sivaprasad,Dr N. Sivaprasad,director,4,"AGEP, AHXH, AJXS, BGMC"
+dr-rajarao,Dr Rajarao,director,1,GYR
+dr-anand-eslavath,Dr. Anand Eslavath,director,1,BGHP
+dr-kiran,Dr. Kiran,director,2,"BDJA, BEAM"
+dr-p-v-pati,Dr. P.V. Pati,director,1,DCL
+dr-rangarao-guthikonda,Dr. Rangarao Guthikonda,director,4,"BEOF, BFQE, AHID, BDTN"
+dr-ranjith,Dr. Ranjith,director,1,AGUV
+dr-rao,Dr. Rao,director,1,BDDZ
+dronamraju-chinna-kameshwarao,Dronamraju Chinna Kameshwarao,director,1,DBW
+dronamraju-chinna-kameswara-rao,Dronamraju Chinna Kameswara Rao,director,1,CPF
+druvanag,Druvanag,director,1,BFBA
+dsrk-gutti,Dsrk Gutti,director,1,BXQI
+dulam-satyanarayana,Dulam Satyanarayana,director,3,"CTAI, BNXC, BVRD"
+duncan-mc-lanchlan,Duncan Mc Lanchlan,director,1,BEZH
+durai,Durai,director,8,"BJWX, UEX, BERA, BFWW, BGSR"
+durga-prasad,Durga Prasad,director,1,DAKS
+durga-prasad-chinni,Durga Prasad Chinni,director,1,BRFV
+durga-shankarnath,Durga Shankarnath,director,1,AWXL
+durgam-rao,Durgam Rao,director,1,CDKF
+duvvuru-ramireddy,Duvvuru Ramireddy,director,1,CNS
+dwarakesh,Dwarakesh,director,2,"BFBC, BFKS"
+e-krishna-chaithanya,E Krishna Chaithanya,director,1,CZZY
+e-mohan-das,E. Mohan Das,director,2,"TQF, BINP"
+e-nivas,E. Nivas,director,1,BGFS
+e-prabhakar-reddy,E. Prabhakar Reddy,director,1,BJER
+e-prakash-reddy,E. Prakash Reddy,director,1,BJAI
+e-ramdas,E. Ramdas,director,1,BILB
+e-sathibabu,E. Sathibabu,director,8,"ARKD, ASAW, ASWE, ATKJ, AUKV"
+e-satthi-babu,E. Satthi Babu,director,2,"CSLQ, BKOZ"
+e-srinivas,E. Srinivas,director,1,ATMS
+e-k-chaitanya,E.K. Chaitanya,director,1,BJEQ
+e-p-reddy,E.P. Reddy,director,1,BGWO
+e-s-n-murthy,E.S.N. Murthy,director,1,IDW
+e-v-v-satyanarayana,E.V.V. Satyanarayana,director,50,"ADPH, AKAV, AFDW, AOLY, AFNP"
+eashwar,Eashwar,director,2,"CWXU, DADH"
+ebel-ferri,Ebel Ferri,director,1,BHNI
+editor-shankar,Editor Shankar,director,1,BFWF
+eeranki-sharma,Eeranki Sharma,director,5,"SDM, TFN, TYM, XAV, ABMV"
+eeswar,Eeswar,director,1,BKYG
+ekta-kapoor,Ekta Kapoor,director,1,BPWP
+eleti-ramarao,Eleti Ramarao,director,2,"AEHY, BDNW"
+ellen-cabot,Ellen Cabot,director,1,BEPO
+ellis-duncan,Ellis Duncan,director,2,"EFX, EGM"
+elluri-mallikarjun,Elluri Mallikarjun,director,1,AJTS
+elred-kumar,Elred Kumar,director,1,BGUH
+erra-apparao,Erra Apparao,director,2,"HKX, IHC"
+erram-venugopal,Erram Venugopal,director,1,BHRB
+erramaneni-chandramouli,Erramaneni Chandramouli,director,1,BGBA
+eshwar-ganapati,Eshwar Ganapati,director,1,BEIP
+eswar,Eswar,director,4,"BIIV, BEFI, AWDC, AYBA"
+eswar-surapu,Eswar Surapu,director,1,CWWD
+excel-san,Excel San,director,1,BHTQ
+f-nagoor,F. Nagoor,director,2,"BFOS, HEF"
+faarooq-roy,Faarooq Roy,director,1,BXDH
+fani-prakash,Fani Prakash,director,1,BGWZ
+farhan-akthar,Farhan Akthar,director,1,BGGO
+fazil,Fazil,director,5,"BJZA, BDWH, AGXJ, BDVM, BJKA"
+feng-zhenzhi,Feng Zhenzhi,director,1,BHSY
+fight-master-vicky,Fight Master Vicky,director,1,BDEW
+firoz-raza,Firoz Raza,director,1,BDTE
+francis-lawrence,Francis Lawrence,director,1,BERJ
+frank-coraci,Frank Coraci,director,1,BDGM
+g-anil-kumar,G. Anil Kumar,director,13,"YFE, ZLQ, ZNM, ZRX, AAPP"
+g-ashok,G. Ashok,director,5,"BIOO, AXDQ, AZCJ, BJND, BKQK"
+g-bhupathi-pandian,G. Bhupathi Pandian,director,5,"BFNJ, BFHH, BELH, BIPP, BJHB"
+g-eswar-reddy,G. Eswar Reddy,director,1,BDHY
+g-ganesh,G. Ganesh,director,1,UVH
+g-hari-babu,G. Hari Babu,director,3,"BEOB, ASHU, BJJS"
+g-kabirdas,G. Kabirdas,director,1,JOE
+g-kamal,G. Kamal,director,1,BFKI
+g-karthik-reddy,G. Karthik Reddy,director,1,DBQU
+g-kicha,G. Kicha,director,2,"BFFV, BGGN"
+g-krishna-murthy,G. Krishna Murthy,director,5,"LGT, OYB, RHF, STC, BGEL"
+g-krishna-prasad,G. Krishna Prasad,director,1,BZVO
+g-mohan,G. Mohan,director,1,BHUX
+g-murali-prasad,G. Murali Prasad,director,1,BDQW
+g-murali-vardhan,G. Murali Vardhan,director,1,BRFP
+g-naga-koteswara-rao,G. Naga Koteswara Rao,director,1,BJTZ
+g-nageswara-reddy,G. Nageswara Reddy,director,18,"BBEK, ARQL, ASCX, ASVL, ASVT"
+g-neelakanta-reddy,G. Neelakanta Reddy,director,9,"BFAS, ASKS, ASUP, AUCW, BELI"
+g-prajith,G. Prajith,director,1,BKVR
+g-prasi,G. Prasi,director,1,BDZR
+g-prem-kumar,G. Prem Kumar,director,1,BGUJ
+g-rajendar,G. Rajendar,director,1,BDVU
+g-ram-suresh,G. Ram Suresh,director,2,"ACNE, AHIG"
+g-ramakrishna-dir,G. Ramakrishna (Dir),director,1,OWS
+g-ramakrishnan,G. Ramakrishnan,director,1,BDQH
+g-ramaraju,G. Ramaraju,director,1,BNYC
+g-ramesh,G. Ramesh,director,1,CRSL
+g-ravicharan-reddy,G. Ravicharan Reddy,director,2,"AVVK, BFNF"
+g-satyamurthy,G. Satyamurthy,director,3,"BGMD, AGID, AIWH"
+g-sekhar,G. Sekhar,director,1,BINC
+g-seshagiri-rao,G. Seshagiri Rao,director,1,RNB
+g-siva,G. Siva,director,1,BGKD
+g-siva-murthy,G. Siva Murthy,director,1,BEOG
+g-siva-prasad-reddy,G. Siva Prasad Reddy,director,1,CQMR
+g-sivaprasad-reddy,G. Sivaprasad Reddy,director,1,AWDN
+g-surendra-reddy,G. Surendra Reddy,director,2,"AJPS, BJMF"
+g-varalakshmi,G. Varalakshmi,director,1,NAL
+g-vasantha-balan,G. Vasantha Balan,director,4,"BGMJ, BHUK, BFEZ, BHIK"
+g-venkata-ramana-reddy,G. Venkata Ramana Reddy,director,2,"ARIK, AUPM"
+g-venkateswara-rao,G. Venkateswara Rao,director,1,CYN
+g-vishwanath,G. Vishwanath,director,18,"BJCT, KUF, LAO, BIUJ, LJI"
+g-vishwanathan,G. Vishwanathan,director,1,MKX
+g-b-vijay,G.B. Vijay,director,2,"BDHT, BJYF"
+g-c-sekhar,G.C. Sekhar,director,10,"SHP, STP, SVD, BIKD, ULM"
+g-d-joshi,G.D. Joshi,director,1,HRP
+g-k-muddha-raj,G.K. Muddha Raj,director,1,BEIF
+g-k-murthy,G.K. Murthy,director,1,PPW
+g-k-ramu,G.K. Ramu,director,1,BFHR
+g-l-surendra,G.L. Surendra,director,1,BERF
+g-l-b-srinivas,G.L.B. Srinivas,director,1,BGSH
+g-m-kumar,G.M. Kumar,director,1,BGLR
+g-m-g-kumar,G.M.G. Kumar,director,1,BJHA
+g-n-dinesh-kumar,G.N. Dinesh Kumar,director,1,BEGK
+g-n-rangarajan,G.N. Rangarajan,director,5,"BCFD, BINN, BGSZ, BHSP, BHOT"
+g-n-velumani,G.N. Velumani,director,1,POD
+g-p-raju,G.P. Raju,director,1,BIGT
+g-r-krishna,G.R. Krishna,director,1,CYGU
+g-r-krishna-reddy,G.R. Krishna Reddy,director,1,BJAP
+g-r-nathan,G.R. Nathan,director,2,"BIRS, BFAX"
+g-r-rao,G.R. Rao,director,3,"EZW, GBT, IOT"
+g-s-fanikar,G.S. Fanikar,director,1,BGNQ
+g-s-mani,G.S. Mani,director,1,BDHN
+g-s-rao,G.S. Rao,director,1,BDCY
+g-s-reddy,G.S. Reddy,director,1,BIDJ
+g-s-vijayan,G.S. Vijayan,director,1,BJDP
+g-s-s-p-kalyan,G.S.S.P. Kalyan,director,1,BGYD
+g-t-prasad,G.T. Prasad,director,1,BHWQ
+g-v-iyer,G.V. Iyer,director,1,AGOV
+g-v-prabhakar,G.V. Prabhakar,director,1,AMME
+g-v-prabhakar-rao,G.V. Prabhakar Rao,director,1,PBJ
+g-v-vijayanand,G.V. Vijayanand,director,1,BEZG
+g-v-r-seshagiri-rao,G.V.R. Seshagiri Rao,director,10,"NBO, NPX, NTM, OCN, OHE"
+gaddam-v-ramana-reddy,Gaddam V. Ramana Reddy,director,1,BDZE
+gagan-gopal-mulka,Gagan Gopal Mulka,director,1,CFLA
+gajulapalli-trivikram,Gajulapalli Trivikram,director,1,BKPN
+galidine-bangaru-babu,Galidine Bangaru Babu,director,1,CEDF
+gana-murali,Gana Murali,director,1,BJGJ
+gana-murali-saragadam,Gana Murali Saragadam,director,1,BJRK
+gandhi,Gandhi,director,2,"BJGO, BDEP"
+gandhi-manohar,Gandhi Manohar,director,2,"BEFZ, BHKR"
+ganesh-muthyala,Ganesh Muthyala,director,1,BYSP
+ganesh-raj,Ganesh Raj,director,1,BHTB
+ganesh-yallapragada,Ganesh Yallapragada,director,1,CXIP
+ganga,Ganga,director,1,BEAN
+ganga-sidharth,Ganga Sidharth,director,1,BRDB
+gangadhar,Gangadhar,director,1,XOL
+gangadhar-panday,Gangadhar Panday,director,1,CCSV
+gangai-amaran,Gangai Amaran,director,2,"ZTL, BDVP"
+gangaraju-gunnam,Gangaraju Gunnam,director,3,"APCH, AUGV, BDIH"
+gangarapu-lakshman,Gangarapu Lakshman,director,1,BZKB
+garlla-satyanarayana-murthy,Garlla Satyanarayana Murthy,director,1,BDDD
+gattu-narender,Gattu Narender,director,1,BQUY
+gauri-shinde,Gauri Shinde,director,1,BLTV
+gautami-challagulla,Gautami Challagulla,director,1,CAQM
+gautami-krishnan,Gautami Krishnan,director,2,"BXDW, CBHV"
+gautham-menon,Gautham Menon,director,8,"BJKV, BHOZ, BGKH, BEMQ, BILI"
+gavini-krishna,Gavini Krishna,director,1,YZI
+gedhada-anand-babu,Gedhada Anand Babu,director,5,"AEER, AGAI, AJBB, BHAA, BJNW"
+geetha-priya,Geetha Priya,director,4,"BGPV, BFSI, BHYE, BGSB"
+gentem-venugopal,Gentem Venugopal,director,1,BDQS
+gerard-pires,Gerard Pires,director,1,BIVF
+gerry-lively,Gerry Lively,director,1,BHFL
+ghantasala-balaramaiah,Ghantasala Balaramaiah,director,8,"DJN, DTW, DQU, EKV, EZG"
+ghantasala-radhakrishnaiah,Ghantasala Radhakrishnaiah,director,1,BHMS
+giduthuri-r-tirumalai,Giduthuri R. Tirumalai,director,1,BJOD
+giduthuri-suryam,Giduthuri Suryam,director,10,"MEQ, NBT, NCL, NNR, OLR"
+giri-reddy,Giri Reddy,director,1,BEDJ
+giribabu,Giribabu,director,5,"QDW, RUK, AAHD, AEUQ, AVZG"
+giribabu-bandaru,Giribabu Bandaru,director,1,BITG
+giridhar,Giridhar,director,6,"AMKA, UXW, XQB, XRL, BHOU"
+giridhar-gopal,Giridhar Gopal,director,1,CEIJ
+gitanjali-selvaraghavan,Gitanjali Selvaraghavan,director,1,BXDI
+gitanjali-sriraghava,Gitanjali Sriraghava,director,1,BXDI
+glb-srinivas,Glb Srinivas,director,1,CDEG
+gnana-rajasekharan,Gnana Rajasekharan,director,1,BFBF
+goerge-prasad,Goerge Prasad,director,1,AEXN
+gokul,Gokul,director,2,"BFIF, BWTP"
+gollapati-nageswara-rao,Gollapati Nageswara Rao,director,2,"BHXZ, BDJO"
+gollapudi-srinivas,Gollapudi Srinivas,director,1,AICZ
+goona-nagendra-prasad,Goona Nagendra Prasad,director,2,"VEM, BHLN"
+goona-prasad,Goona Prasad,director,1,BKBG
+gopal-b,Gopal B.,director,2,"ASDN, AWTQ"
+gopal-g-perumal,Gopal G. Perumal,director,1,BFFQ
+gopalakrishna,Gopalakrishna,director,2,"BJOV, DAEF"
+gopesh,Gopesh,director,1,CUJG
+gopesh-vibu,Gopesh Vibu,director,1,BIRB
+gopi,Gopi,director,1,BDNO
+gopi-ganesh,Gopi Ganesh,director,2,"BDPY, CDVX"
+gopi-karthik,Gopi Karthik,director,2,"BYPG, CASO"
+gopichand,Gopichand,director,1,BFYA
+gopichand-malineni,Gopichand Malineni,director,2,"AXKF, BKQD"
+gopichand-mallineni,Gopichand Mallineni,director,3,"AZRG, BAWF, BIZV"
+gopikrishnan,Gopikrishnan,director,2,"BGKY, BHGT"
+gopinath-reddy,Gopinath Reddy,director,1,BRHN
+gorey-saif-ali,Gorey Saif Ali,director,1,BBCQ
+gosangi-subbarao,Gosangi Subbarao,director,3,"BHNR, BKAV, BIFQ"
+gottiginti-srinivas,Gottiginti Srinivas,director,1,BHOH
+goutam-ghosh,Goutam Ghosh,director,1,TZI
+goutham-rajkumar,Goutham Rajkumar,director,1,CEFW
+goverdhan-reddy,Goverdhan Reddy,director,1,BXKV
+govi,Govi,director,3,"BEBB, BXKV, BJJK"
+govind-menon,Govind Menon,director,1,BDWK
+govind-varaha,Govind Varaha,director,2,"BJLL, BEGV"
+gowrav,Gowrav,director,1,BJCC
+gowri-shankar,Gowri Shankar,director,3,"BNGI, BRGV, BPOI"
+gowtam-tinnanuri,Gowtam Tinnanuri,director,2,"CBCD, CYLF"
+gowtham,Gowtham,director,1,RFZ
+gowtham-gandi,Gowtham Gandi,director,1,CHMS
+gowtham-patnaik,Gowtham Patnaik,director,1,BJKM
+gowtham-vasudev-menon,Gowtham Vasudev Menon,director,3,"ATFR, AYGS, BAUS"
+graham-baker,Graham Baker,director,1,BDDV
+gssp-kalyan,Gssp Kalyan,director,2,"DBSR, DBSS"
+guda-rama-krishna,Guda Rama Krishna,director,1,AOJB
+gudavalli-ramabrahmam,Gudavalli Ramabrahmam,director,9,"BXV, CPT, CWQ, DBQ, DFV"
+guddu-dhanoa,Guddu Dhanoa,director,1,BEFW
+gummaluri-sastry,Gummaluri Sastry,director,1,BFFE
+gunasekhar,Gunasekhar,director,3,"AUSY, AYFJ, BULW"
+gunnam-gangaraju,Gunnam Gangaraju,director,1,COSY
+gurmeet-ram-rahim-singh,Gurmeet Ram Rahim Singh,director,2,"BTUW, BTUX"
+guru-chindepalli,Guru Chindepalli,director,1,CXTM
+guru-dhanapal,Guru Dhanapal,director,2,"BDUZ, BILB"
+gurudev-kasula,Gurudev Kasula,director,1,BIUM
+gurudutt,Gurudutt,director,1,BHUZ
+gyan-sagar,Gyan Sagar,director,1,BGRB
+h-madhusudhan,H. Madhusudhan,director,2,"BFZH, BDYK"
+h-srinivasadora,H. SrinivasaDora,director,1,CGUX
+h-vasu,H. Vasu,director,2,"BEWW, BDLV"
+h-vinoth,H. Vinoth,director,1,CCSO
+h-l-n-simha,H.L.N. Simha,director,1,AKXQ
+h-m-imran-indramohan,H.M. Imran (Indramohan),director,1,BHRG
+h-m-reddy,H.M. Reddy,director,8,"APC, BHL, COQ, DAC, DAG"
+h-n-shankar,H.N. Shankar,director,1,BEET
+h-n-k-murthy,H.N.K. Murthy,director,1,BGEW
+h-r-sekhar,H.R. Sekhar,director,1,BFLX
+h-s-rajasekhar,H.S. Rajasekhar,director,4,"BJHS, BHYB, BIFR, BKBS"
+h-s-venu,H.S. Venu,director,3,"ODI, PHU, BGLQ"
+h-v-babu,H.V. Babu,director,7,"BZJ, CIP, CZY, DUT, FKR"
+hanu-raghavapudi,Hanu Raghavapudi,director,2,"AZOO, BHNA"
+hanumantha-rao-raghavapudi,Hanumantha Rao Raghavapudi,director,3,"BWYP, CAWQ, CGFP"
+harald-zwart,Harald Zwart,director,1,BJIS
+haranath-policharla,Haranath Policharla,director,2,"AZDR, BEKO"
+hari-dir,Hari (Dir),director,16,"BEZM, BESN, BFFM, BELS, BFII"
+hari-anumolu,Hari Anumolu,director,1,AECS
+hari-charan-prasad,Hari Charan Prasad,director,1,BJFL
+hari-hara-shankara,Hari Hara Shankara,director,1,BSBX
+hari-k-chandhuri,Hari K. Chandhuri,director,1,BDSW
+hari-krishna-reddy,Hari Krishna Reddy,director,1,BEQB
+hari-mrutyumjay,Hari Mrutyumjay,director,1,BQIY
+hari-nath,Hari Nath,director,2,"BQOJ, CGAT"
+hari-shankar,Hari Shankar,director,1,BFXL
+hari-yelleti,Hari Yelleti,director,1,AVOC
+haribabu,Haribabu,director,4,"BIFK, BGUQ, ASWF, AVRG"
+haricharan,Haricharan,director,1,COSY
+haricharan-rao-ayilneni,Haricharan Rao Ayilneni,director,1,CSDB
+harihara,Harihara,director,2,"BKAC, BJEK"
+harihara-shankar,Harihara Shankar,director,1,BGHU
+hariharan,Hariharan,director,1,BFOC
+harikanth-gunamagari,Harikanth Gunamagari,director,2,"BVCI, CDON"
+harikishan,Harikishan,director,1,DADJ
+harilal-desai,Harilal Desai,director,1,DGI
+harinath-babu-b,Harinath Babu B.,director,1,CZTR
+harish,Harish,director,2,"BIOT, BQMI"
+harish-narayan,Harish Narayan,director,1,BFXL
+harish-shankar,Harish Shankar,director,2,"BZZQ, CXXR"
+harishreddy-medagam,Harishreddy Medagam,director,2,"BSGS, BVPT"
+harmesh-malhotra,Harmesh Malhotra,director,2,"BEKM, BIVV"
+harnath-policherla,Harnath Policherla,director,1,CXDK
+harry-nath,Harry Nath,director,1,BUBS
+harsh-enjeti,Harsh Enjeti,director,1,AYEW
+harsha-annavarapu,Harsha Annavarapu,director,1,BRHU
+harsha-p-reddy,Harsha P. Reddy,director,1,BHEW
+harshavardhan,Harshavardhan,director,1,AVTS
+hemanth,Hemanth,director,1,BDUD
+hemanth-karthik,Hemanth Karthik,director,1,CZDU
+hemanth-madhukar,Hemanth Madhukar,director,1,AZKM
+hemanth-puvvada,Hemanth Puvvada,director,1,BHKM
+hemanth-srinivas,Hemanth Srinivas,director,1,DABJ
+hemraj,Hemraj,director,1,BEEK
+heng-simon,Heng Simon,director,1,BENC
+henry,Henry,director,1,BGCW
+himmath-sagar,Himmath Sagar,director,3,"DAYV, DBIX, DBUG"
+hiren-bose,Hiren Bose,director,1,CNG
+homi-wadia,Homi Wadia,director,4,"BJUF, BJDY, NTR, BGVE"
+hridesh-kamble,Hridesh Kamble,director,1,BDSY
+hunsur-krishnamurthy,Hunsur Krishnamurthy,director,9,"JJU, BEUX, ALLN, BEVO, BJFG"
+hussain-sha-kiran,Hussain Sha Kiran,director,2,"BXFW, BIFX"
+hyder-bilgrami,Hyder Bilgrami,director,2,"BROS, BFXE"
+i-ahmad,I. Ahmad,director,2,"BFEQ, BEKD"
+i-ahmed,I. Ahmed,director,1,BOSU
+i-nagabhushana-rao,I. Nagabhushana Rao,director,1,CED
+i-rajkamal,I. Rajkamal,director,1,AEVX
+i-srikanth,I. Srikanth,director,3,"BEOA, ASZG, AVPQ"
+i-g-mahesh,I.G. Mahesh,director,1,BIQT
+i-g-prakash,I.G. Prakash,director,1,CUBI
+i-n-murthy,I.N. Murthy,director,10,"KSE, LII, NDK, NJQ, NSE"
+i-v-sasi,I.V. Sasi,director,18,"BCFL, USV, AMNK, WQC, BDVB"
+iainsoftley,Iainsoftley,director,1,BFOA
+ilan-kannan,Ilan Kannan,director,1,BHZJ
+ilavarasan,Ilavarasan,director,1,AGZK
+imandi-rama-rao,Imandi Rama Rao,director,3,"AAAR, BJKD, ADWS"
+inavolu-prasanna-kumar,Inavolu Prasanna Kumar,director,1,CZFQ
+inayath,Inayath,director,1,BDWP
+indian,Indian,director,1,BEUA
+indra-kumar,Indra Kumar,director,1,BHMA
+indraganti,Indraganti,director,1,CUHN
+indrajit-lankesh,Indrajit Lankesh,director,4,"ATJU, BJHV, CUIF, BTUS"
+indrakumar,Indrakumar,director,1,CNUU
+indran,Indran,director,1,BJXG
+ip-sing-hong,Ip Sing Hong,director,1,BEPF
+iqbal-durrani,Iqbal Durrani,director,1,BFGS
+irene-thalluri,Irene Thalluri,director,1,BFEP
+j-afshaan,J. Afshaan,director,1,BEHH
+j-akash,J. Akash,director,4,"BGIA, BGMA, BETZ, BDWV"
+j-jitendra,J. Jitendra,director,2,"AOYV, BGSV"
+j-karuna-kumar,J. Karuna Kumar,director,1,BIPK
+j-mahendran,J. Mahendran,director,5,"BDJI, BJIZ, BIFB, BGGB, BGPI"
+j-panneer,J. Panneer,director,2,"BDRU, BFUB"
+j-prabhakar-reddy,J. Prabhakar Reddy,director,2,"BHRQ, BGNF"
+j-pullarao,J. Pullarao,director,1,BFOK
+j-ramakrishna,J. Ramakrishna,director,1,ADQK
+j-suresh,J. Suresh,director,1,BJLC
+j-williams,J. Williams,director,2,"XHJ, BFGC"
+j-b-murali-krishna,J.B. Murali Krishna,director,1,CFBG
+j-d-jerry,J.D-Jerry,director,1,BDHB
+j-d-chakravarthi,J.D. Chakravarthi,director,1,CHAR
+j-d-chakravarthy,J.D. Chakravarthy,director,4,"AVUE, AWZO, AYYW, AZOD"
+j-g-krishna,J.G. Krishna,director,4,"BIIB, BFDQ, BDKW, BHCL"
+j-j-prakash-rao,J.J. Prakash Rao,director,2,"BGVF, BIAJ"
+j-j-reddy,J.J. Reddy,director,1,BIPO
+j-k-bharavi,J.K. Bharavi,director,2,"BHNX, BOCX"
+j-k-mon,J.K. Mon,director,1,BEQP
+j-p-chandrababu,J.P. Chandrababu,director,1,BDTL
+j-s-chowdary,J.S. Chowdary,director,1,BJMR
+j-s-rao,J.S. Rao,director,1,BEBQ
+j-v-l-narayana,J.V.L. Narayana,director,1,AUFH
+j-v-r,J.V.R,director,2,"BHUA, BDTT"
+jp-a-y,JP A.Y.,director,1,BFUA
+jab-sindar,Jab Sindar,director,1,BHET
+jabali-sathyacama,Jabali Sathyacama,director,1,CWMY
+jack-west,Jack West,director,1,BIJY
+jackie-chan,Jackie Chan,director,2,"BDIZ, BIKF"
+jagadish,Jagadish,director,1,BEHY
+jagadish-dhaneti,Jagadish Dhaneti,director,1,BGEA
+jagadish-talasila,Jagadish Talasila,director,2,"BWZU, BFJK"
+jagadish-vatarkar,Jagadish Vatarkar,director,1,BGZU
+jagan,Jagan,director,3,"BDCU, BFVB, CZUM"
+jagannath,Jagannath,director,1,YYH
+jagannatha-ramanarayana,Jagannatha Ramanarayana,director,1,ZTT
+jagapathi-rajasekhar,Jagapathi Rajasekhar,director,1,BCEA
+jagarlamudi-radhakrishna-krish,Jagarlamudi Radhakrishna (Krish),director,4,"AVSV, AYFK, BACY, BDML"
+jai,Jai,director,1,CBMW
+jai-nag,Jai Nag,director,1,BFYS
+jai-raaja-singh,Jai Raaja Singh,director,1,CZFR
+jai-ram-kumar,Jai Ram Kumar,director,1,CFWY
+jai-sriram,Jai Sriram,director,1,BEXA
+jain-nani,Jain Nani,director,1,BRGW
+jaishankar-chigurula,Jaishankar Chigurula,director,4,"CTMF, BVHP, BWJM, CBZG"
+jakka-hari-prasad,Jakka Hari Prasad,director,1,BKUY
+james-bond-iii,James Bond III,director,1,BFVW
+james-cameron,James Cameron,director,2,"BITN, BITC"
+jamesgun,Jamesgun,director,1,BHVO
+jampana-chandrasekhar-rao,Jampana Chandrasekhar Rao,director,8,"GBH, HGM, HYN, JDP, INO"
+janaki-soundar,Janaki Soundar,director,1,BJFE
+janakiram,Janakiram,director,1,WKK
+janardhan-maharshi,Janardhan Maharshi,director,6,"AFQF, BGUK, AULP, BGBM, BNUI"
+janardhan-rao-challa,Janardhan Rao Challa,director,1,BHKY
+janardhan-reddy,Janardhan Reddy,director,1,BXUK
+jandhyala,Jandhyala,director,38,"VWO, WTE, WUT, XGR, XUR"
+jarkhill,JarkHill,director,1,BEGF
+jasubhai-trivedi,Jasubhai Trivedi,director,1,BFTL
+jatla-venkataswamy-naidu,Jatla Venkataswamy Naidu,director,1,UER
+javed-afghani-khan,Javed Afghani Khan,director,1,BUSS
+javier-elorrieta,Javier Elorrieta,director,1,BIYO
+jay-parupalli,Jay Parupalli,director,1,CHQP
+jay-k,Jay.k,director,1,CACH
+jaya-b,Jaya B.,director,1,CSID
+jaya-murugan,Jaya Murugan,director,1,CSWW
+jaya-prasad,Jaya Prasad,director,1,AECF
+jaya-ravindra,Jaya Ravindra,director,3,"AWJU, BEGW, BISC"
+jaya-sreesivan,Jaya Sreesivan,director,1,BTSN
+jayachitra,Jayachitra,director,1,BDRD
+jayadeep-manepalli,Jayadeep Manepalli,director,1,DBUL
+jayadevan,Jayadevan,director,4,"BEFT, BFAN, BKCJ, BHHG"
+jayadevi,Jayadevi,director,1,BJQD
+jayant-paranji,Jayant Paranji,director,3,"AQAO, AQWM, CFZX"
+jayanth-c-paranji,Jayanth C. Paranji,director,9,"APPR, APTZ, ASCD, ASLS, ATIM"
+jayaraaj,Jayaraaj,director,3,"BGIS, BHCW, BJWN"
+jayashankarr,Jayashankarr,director,6,"BRAG, BUVW, BTHD, BWMB, BXUE"
+jayashyam,Jayashyam,director,1,BEMV
+jayasimha-edara,Jayasimha Edara,director,1,BUTS
+jayasimha-musan,Jayasimha Musan,director,1,BQEM
+jayendra,Jayendra,director,1,BBHN
+jayendra-panchapakesan,Jayendra Panchapakesan,director,1,BLCB
+jaysree-sivan,Jaysree Sivan,director,1,BIXW
+jeenas-mohammad,Jeenas Mohammad,director,1,BECW
+jeetu-arora,Jeetu Arora,director,1,BTUX
+jeeva-camera,Jeeva (Camera),director,4,"BIVH, BJZE, AVHW, BGKS"
+jeeva-shankar,Jeeva Shankar,director,2,"BFJD, CDBQ"
+jeevita-rajasekhar,Jeevita Rajasekhar,director,4,"BHPR, AVBG, AWZD, BHPA"
+jeevitha-rajashekhar,Jeevitha Rajashekhar,director,1,BOSP
+jennifer-alphonsse,Jennifer Alphonsse,director,1,CTSR
+jennifer-lynch,Jennifer Lynch,director,1,BGBR
+jevil-jackson,Jevil Jackson,director,1,BFJR
+jijo,Jijo,director,1,BIOP
+jimmy-kaufman,Jimmy Kaufman,director,1,BEPM
+jinna,Jinna,director,1,BHXJ
+jithen-benarji,Jithen Benarji,director,1,GDF
+jiyomon,Jiyomon,director,6,"BDQV, BHOR, BHTF, BHID, BHAH"
+jogi-raju-mamidi,Jogi Raju Mamidi,director,1,BKWL
+john,John,director,2,"AQVX, ASHS"
+john-bruno,John Bruno,director,1,BGAX
+john-carter,John Carter,director,1,BHBH
+john-guillermin,John Guillermin,director,1,BHTX
+john-gulazar,John Gulazar,director,1,BGJD
+john-mahendran,John Mahendran,director,1,BKAB
+john-woo,John Woo,director,2,"BIXC, BIEN"
+johni,Johni,director,1,CZRK
+johnny-to,Johnny To,director,1,BFOV
+jon-favreau,Jon Favreau,director,1,BDIU
+jon-tarneltab,Jon Tarneltab,director,1,BHDS
+jonathan-english,Jonathan English,director,1,BHXI
+jonathan-leebusman,Jonathan Leebusman,director,1,BDRX
+jonathan-mostow,Jonathan Mostow,director,1,BELM
+jonnalagadda-srinivasa-rao,Jonnalagadda Srinivasa Rao,director,6,"BJKO, ATOY, BJJD, AWIT, BJAM"
+jonnavithula-ramalingeswara-rao,Jonnavithula Ramalingeswara Rao,director,2,"BEKW, BFCB"
+josaiman,Josaiman,director,6,"BHBU, BHPM, BIYG, BJYH, BDKF"
+jose-punnoose,Jose Punnoose,director,1,BHND
+joseph,Joseph,director,1,BEDQ
+joseph-thaliyath,Joseph Thaliyath,director,2,"JPN, MQH"
+joseph-thaliyath-jr,Joseph Thaliyath Jr,director,1,BJSU
+joshi,Joshi,director,18,"BIJK, BDFB, BEGQ, ACMF, BIBK"
+julius-vaz,Julius Vaz,director,1,BRYC
+junaid,Junaid,director,1,BHXH
+jyothendranath-vemuri,Jyothendranath Vemuri,director,1,ATYF
+jyothi,Jyothi,director,1,AGKM
+jyothi-krishna,Jyothi Krishna,director,1,BKXW
+jyotish-chandra-sinha,Jyotish Chandra Sinha,director,1,DLA
+jyotish-sinha,Jyotish Sinha,director,1,GCA
+k-aditya,K. Aditya,director,3,"BHZV, ACKG, AFAT"
+k-anand,K. Anand,director,2,"BHWX, CSHZ"
+k-anand-chakravarthy,K. Anand Chakravarthy,director,1,CTFZ
+k-anil-krishna,K. Anil Krishna,director,2,"AUHL, AWPX"
+k-baburao,K. Baburao,director,7,"NJU, ODR, OQR, PXK, QOW"
+k-balachandar,K. Balachandar,director,33,"MJD, NPU, OHS, BGLJ, RIA"
+k-balachander,K. Balachander,director,4,"BJLF, SMD, ADDV, BQDV"
+k-balaji,K. Balaji,director,1,ASBY
+k-balu,K. Balu,director,1,BHNL
+k-bapaiah,K. Bapaiah,director,25,"NVC, PUE, QPD, QUX, REL"
+k-bhagyaraj,K. Bhagyaraj,director,21,"BFWX, BETA, BIHW, YVP, ADHV"
+k-bharathi,K. Bharathi,director,1,BDFE
+k-bhaskar-raja,K. Bhaskar Raja,director,1,AIIA
+k-chakravarthy-reddy,K. Chakravarthy Reddy,director,1,CGGN
+k-chandrasekhar,K. Chandrasekhar,director,1,AWHW
+k-damodar-reddy,K. Damodar Reddy,director,1,BHJB
+k-darshan,K. Darshan,director,1,BECT
+k-daya,K. Daya,director,1,BGNX
+k-dhasarath,K. Dhasarath,director,6,"ASKE, AUDW, AWDZ, AYZG, BAYD"
+k-durga-nageswara-rao,K. Durga Nageswara Rao,director,7,"TRL, BKCC, VBQ, BIOG, VGT"
+k-eshwar-rao,K. Eshwar Rao,director,1,QSA
+k-ganesan,K. Ganesan,director,1,BIAV
+k-gunasekhar,K. Gunasekhar,director,10,"AGYG, AJVS, APFE, APUO, ARGF"
+k-hanumantha-reddy,K. Hanumantha Reddy,director,1,AUVO
+k-hemambharadhara-rao,K. Hemambharadhara Rao,director,25,"KDC, LDW, LMX, LVV, MDW"
+k-jayaprakash,K. Jayaprakash,director,1,BEKR
+k-jayaraj,K. Jayaraj,director,2,"BDPD, BEKP"
+k-kameshwara-rao,K. Kameshwara Rao,director,2,"MFH, ZMZ"
+k-karnan,K. Karnan,director,1,BHYR
+k-kishore,K. Kishore,director,1,ATZZ
+k-kranthi-madhav,K. Kranthi Madhav,director,2,"BDPE, BFIO"
+k-krishna-das,K. Krishna Das,director,1,BIQJ
+k-krishna-murthy,K. Krishna Murthy,director,2,"BDPS, BFAK"
+k-madesh,K. Madesh,director,1,BFPX
+k-madhu,K. Madhu,director,6,"AEYI, BHGH, BFZA, BFZC, BEMJ"
+k-mani,K. Mani,director,1,BEHG
+k-manimurugan,K. Manimurugan,director,3,"BEZQ, BILM, BGBJ"
+k-murali-krishna,K. Murali Krishna,director,1,BIFZ
+k-murali-mohan-rao,K. Murali Mohan Rao,director,13,"YBU, YSF, AAOS, AASK, AAXZ"
+k-narasimha,K. Narasimha,director,1,BJNH
+k-narayana,K. Narayana,director,1,BOTW
+k-narayanan,K. Narayanan,director,2,"VFP, YNR"
+k-narendra-babu,K. Narendra Babu,director,1,BHHH
+k-nataraj,K. Nataraj,director,3,"BJCO, BIEC, BIIA"
+k-neelesh,K. Neelesh,director,1,BEGH
+k-padmanaba-sastry,K. Padmanaba Sastry,director,1,BFGP
+k-prabhakar-rao,K. Prabhakar Rao,director,2,"GHX, GPQ"
+k-pradeep-kumar,K. Pradeep Kumar,director,1,CDZF
+k-prasad,K. Prasad,director,1,BJHU
+k-pratyagatma,K. Pratyagatma,director,21,"ALDS, ALFG, KWG, LFH, ALJJ"
+k-raghava-reddy,K. Raghava Reddy,director,1,BFCA
+k-raghavendra-rao,K. Raghavendra Rao,director,93,"QSE, RNH, RTZ, SAN, RZU"
+k-rajan,K. Rajan,director,1,BHFC
+k-rajavarman,K. Rajavarman,director,1,BJAC
+k-rajendra-prasad,K. Rajendra Prasad,director,2,"BGQP, BDRP"
+k-rajeshwar,K. Rajeshwar,director,4,"BJPX, BHKF, BJSL, BFXG"
+k-ram-venki,K. Ram Venki,director,2,"BHVZ, BIOD"
+k-ramakanth,K. Ramakanth,director,1,CXRP
+k-ramana-rao,K. Ramana Rao,director,1,BEEL
+k-ramanath,K. Ramanath,director,1,FVG
+k-rangarajan,K. Rangarajan,director,6,"ZEQ, BEYP, BIWZ, BFJC, ADCG"
+k-rangarao,K. Rangarao,director,7,"ACSP, ADJL, AODX, AGLZ, AIVC"
+k-ravi-prakash,K. Ravi Prakash,director,1,BHZR
+k-rushendar-reddy,K. Rushendar Reddy,director,2,"AGAH, AIHS"
+k-sai-shyam,K. Sai Shyam,director,1,BJAV
+k-satyam,K. Satyam,director,2,"QHJ, QKX"
+k-satyam-editor,K. Satyam (Editor),director,1,BEBN
+k-satyanarayana-satish,K. Satyanarayana (Satish),director,1,AUMF
+k-selvabharathi,K. Selvabharathi,director,1,BJTV
+k-selvaraghavan,K. Selvaraghavan,director,1,BOPF
+k-shajahan,K. Shajahan,director,1,AVHU
+k-shankar,K. Shankar,director,28,"ALAR, BDCC, BDQT, BINZ, BHXL"
+k-siva-nageswara-rao,K. Siva Nageswara Rao,director,17,"AHZU, AIAU, AISU, AIUM, AJVR"
+k-somu,K. Somu,director,4,"BGHJ, BKAE, BJCW, BGBV"
+k-srikanth-ayyangar,K. Srikanth Ayyangar,director,1,BFXO
+k-subhash,K. Subhash,director,10,"BJTM, BGUZ, AHLY, BJQN, BGXR"
+k-subramanyam,K. Subramanyam,director,2,"BXV, BFAA"
+k-suchitra-chandrabose,K. Suchitra Chandrabose,director,1,ATKY
+k-sunil-varma,K. Sunil Varma,director,4,"AFOD, AGAA, AIAF, AIXS"
+k-swarnam,K. Swarnam,director,1,BIDI
+k-thangappan,K. Thangappan,director,1,BCFF
+k-umakanth,K. Umakanth,director,1,BHDY
+k-varadaraja,K. Varadaraja,director,1,AJXR
+k-varaprasad-rao,K. Varaprasad Rao,director,4,"NSN, OBE, OWI, QFB"
+k-vasu,K. Vasu,director,32,"QBG, THV, TTK, TYF, BGOY"
+k-veeru,K. Veeru,director,11,"APIN, BDMF, ARAB, ARGE, BEQW"
+k-vembu,K. Vembu,director,2,"BEUK, GWD"
+k-venkatesh,K. Venkatesh,director,1,CANM
+k-vijaya-bhaskar,K. Vijaya Bhaskar,director,11,"AOHG, AQYC, ARHG, ARUJ, ASGJ"
+k-vijayan,K. Vijayan,director,6,"BJXO, BIRU, BFXW, VLC, BJSH"
+k-vijayasarathy,K. Vijayasarathy,director,1,BHEN
+k-vikram,K. Vikram,director,1,BJMT
+k-vishwanath,K. Vishwanath,director,41,"LLJ, MQI, MYL, NED, NNG"
+k-viswanath,K. Viswanath,director,1,CJSH
+k-a-shanmugavel,K.A. Shanmugavel,director,1,BDKD
+k-b-anand,K.B. Anand,director,1,AUCR
+k-b-krishna,K.B. Krishna,director,1,CYUH
+k-b-tilak,K.B. Tilak,director,11,"HEO, IAW, IJQ, IPO, KGK"
+k-c-bokadia,K.C. Bokadia,director,1,BHUE
+k-g-rajasekhar,K.G. Rajasekhar,director,1,AAYY
+k-i-ranjith,K.I. Ranjith,director,1,BJBS
+k-j-mahadevan,K.J. Mahadevan,director,2,"HII, BHYQ"
+k-k-haridas,K.K. Haridas,director,1,BILY
+k-k-raviraj,K.K. Raviraj,director,2,"BDTK, CRHL"
+k-k-singh,K.K. Singh,director,1,BGAU
+k-l-narasimha-rao,K.L. Narasimha Rao,director,1,BJEH
+k-m-ratnam,K.M. Ratnam,director,1,BJXH
+k-m-reddy,K.M. Reddy,director,1,BJDH
+k-n-t-sastry,K.N.T. Sastry,director,2,"ASYC, AUNM"
+k-p-raju,K.P. Raju,director,1,BDNM
+k-r-kodanda-raman,K.R (Kodanda Raman),director,5,"BGGF, BEUL, BINW, BEVB, BFSR"
+k-r-jewanir,K.R. Jewanir,director,1,BILB
+k-r-seetarama-sastry,K.R. Seetarama Sastry,director,1,ICW
+k-r-venkatesh,K.R. Venkatesh,director,2,"AFLK, BEEJ"
+k-r-vishnu,K.R. Vishnu,director,1,BJJC
+k-r-k,K.R.K,director,1,BJDW
+k-r-k-pavan,K.R.K. Pavan,director,1,AYCZ
+k-r-v-bhaktha,K.R.V. Bhaktha,director,1,BIZK
+k-s,K.S,director,1,BEFN
+k-s-adhiyamaan,K.S. Adhiyamaan,director,2,"AQPM, BGQV"
+k-s-gopalakrishnan,K.S. Gopalakrishnan,director,17,"BJPZ, BGXQ, BEOH, BEVH, BJHP"
+k-s-kumar,K.S. Kumar,director,1,AUWK
+k-s-madhangan,K.S. Madhangan,director,1,BEOQ
+k-s-murthy,K.S. Murthy,director,1,BDFC
+k-s-nageswara-rao,K.S. Nageswara Rao,director,18,"AIZB, APSK, BJSS, BJXY, BGMQ"
+k-s-prakash,K.S. Prakash,director,2,"AGFV, AGRW"
+k-s-prakash-rao,K.S. Prakash Rao,director,28,"FYB, GDO, GWA, HCC, HLJ"
+k-s-prasad,K.S. Prasad,director,2,"RCW, BEFU"
+k-s-rajendra,K.S. Rajendra,director,1,AGQZ
+k-s-rajkumar,K.S. Rajkumar,director,1,BFYP
+k-s-ramachandra-rao,K.S. Ramachandra Rao,director,4,"GFZ, GWD, HAR, INJ"
+k-s-rami-reddy,K.S. Rami Reddy,director,7,"PKT, QRL, QTF, SRN, WQR"
+k-s-ravi,K.S. Ravi,director,1,AFMI
+k-s-ravi-kumar,K.S. Ravi Kumar,director,20,"BJVY, BFMB, BHNW, BFPM, BJXV"
+k-s-ravikumar,K.S. Ravikumar,director,7,"AQXN, AVRD, BALT, BWYM, CFBC"
+k-s-ravindra-bobby,K.S. Ravindra (Bobby),director,2,"BHAG, BEKU"
+k-s-reddy,K.S. Reddy,director,15,"PCC, PMM, PRQ, RBW, RPU"
+k-s-satyanarayana,K.S. Satyanarayana,director,1,YFL
+k-s-sethumadhavan,K.S. Sethumadhavan,director,4,"BFXF, BEOX, BJNT, AJVW"
+k-s-k-chaitanya,K.S.K. Chaitanya,director,1,CBCA
+k-s-r-das,K.S.R. Das,director,1,CJGP
+k-s-r-doss,K.S.R. Doss,director,74,"MBF, NCJ, NIV, NOX, NQR"
+k-s-ravi,K.S.Ravi,director,2,"BIHA, BGKU"
+k-v-anand,K.V. Anand,director,6,"BFDM, BJDZ, BHUN, BHIQ, BIQN"
+k-v-chandranath,K.V. Chandranath,director,1,BDSX
+k-v-guhan,K.V. Guhan,director,1,CWFO
+k-v-jayaram,K.V. Jayaram,director,2,"BIUK, BJRB"
+k-v-nandana-rao,K.V. Nandana Rao,director,10,"MGZ, NCY, NWS, NYM, ORA"
+k-v-phanindra,K.V. Phanindra,director,2,"XST, YVR"
+k-v-raju,K.V. Raju,director,3,"BEUW, BFQI, BJJB"
+k-v-ramana,K.V. Ramana,director,1,AXUG
+k-v-suresh,K.V. Suresh,director,1,BENB
+k-v-r-mahendra,K.V.R. Mahendra,director,1,CXQB
+k-v-s-kutumba-rao,K.V.S. Kutumba Rao,director,6,"OAR, OOG, OQX, PED, PVL"
+k-v-s-prasad-reddy,K.V.S. Prasad Reddy,director,1,ZBT
+k-v-v-satyanarayana,K.V.V. Satyanarayana,director,1,BEZF
+kaata-prasad,Kaata Prasad,director,1,BECR
+kacharla-venkat,Kacharla Venkat,director,1,BROR
+kadaka-thirumaavalavan,Kadaka Thirumaavalavan,director,1,BDUF
+kadambari-kiran-kumar,Kadambari Kiran Kumar,director,1,APCA
+kadaru-nagabhushanam,Kadaru Nagabhushanam,director,17,"DRH, EFH, AKUS, GPK, GWJ"
+kadiri-venkata-reddi,Kadiri Venkata Reddi,director,15,"DMO, EYD, FLQ, GHE, HHR"
+kadiyala-sivaramaiah,Kadiyala Sivaramaiah,director,1,BHTU
+kaige-chen,Kaige Chen,director,1,BJWF
+kajuki,Kajuki,director,1,BECM
+kala-sandeep,Kala Sandeep,director,1,BGWF
+kalaipuli-g-sekhar,Kalaipuli G. Sekhar,director,1,BEMO
+kalaivanan-kannadasan,Kalaivanan Kannadasan,director,4,"BHZU, BDLF, BGDT, BJOQ"
+kalangi-susmitha,Kalangi Susmitha,director,1,CWQB
+kalapatapu-ramgopal,Kalapatapu Ramgopal,director,1,BJUM
+kalees,Kalees,director,1,CYRS
+kalimuthu,Kalimuthu,director,1,BEYF
+kallakuri-sadasivarao,Kallakuri Sadasivarao,director,6,"BDW, BSR, CBO, CFG, COR"
+kalol-sen,Kalol Sen,director,1,BFCO
+kalpana-lazmi,Kalpana Lazmi,director,1,BHNM
+kalpika,Kalpika,director,1,CGIK
+kalyan-krishna,Kalyan Krishna,director,3,"BYDA, BGXX, BKTE"
+kalyan-krishna-kurasala,Kalyan Krishna Kurasala,director,1,BLCA
+kalyan-shankar,Kalyan Shankar,director,1,CBLB
+kalyanji-gogana,Kalyanji Gogana,director,1,CGAA
+kamal,Kamal,director,2,"BIKS, BEIC"
+kamal-ghosh,Kamal Ghosh,director,3,"GYE, GZB, JEQ"
+kamal-haasan,Kamal Haasan,director,4,"BHWF, BIEB, BDXK, CHTM"
+kamalakara-kameshwara-rao,Kamalakara Kameshwara Rao,director,28,"AKXD, ICC, ILU, IWZ, JGT"
+kamaleswar-mukherjee,Kamaleswar Mukherjee,director,1,BZDS
+kanagala-ramesh-chowdary,Kanagala Ramesh Chowdary,director,1,CXFP
+kanagu,Kanagu,director,1,BFIB
+kanaka-shanmugam,Kanaka Shanmugam,director,1,BGBO
+kanakamedala,Kanakamedala,director,1,BHDK
+kanakasena,Kanakasena,director,1,AHMJ
+kanaparthi-sai-nitin,Kanaparthi Sai Nitin,director,2,"BNKU, BNHL"
+kancharla-poornachandar-rao,Kancharla Poornachandar Rao,director,1,AAHZ
+kandi-ramachandra-reddy,Kandi Ramachandra Reddy,director,1,BIBY
+kanmani,Kanmani,director,6,"BDUX, AUJE, BDOQ, AYME, BESJ"
+kannada-prabhakar,Kannada Prabhakar,director,2,"BGPU, BJWY"
+kannan-thamarakkulam,Kannan Thamarakkulam,director,2,"BVKE, CBDK"
+kanuri-chandrasekhar,Kanuri Chandrasekhar,director,1,CGPA
+kapuganti-rajendra,Kapuganti Rajendra,director,2,"AQNW, BDGP"
+karan-chai-phantasi,Karan Chai Phantasi,director,1,BJQX
+karan-razdan,Karan Razdan,director,2,"BGIU, BEAD"
+karanam-p-babji,Karanam P. Babji,director,1,BXGH
+karate-prabhakar,Karate Prabhakar,director,1,BJMC
+karnan,Karnan,director,1,YAP
+karpurapu-anjaneyulu,Karpurapu Anjaneyulu,director,1,BDNF
+karre-thirupathi,Karre Thirupathi,director,1,BGKX
+karre-tirupathi,Karre Tirupathi,director,1,BSJQ
+karthik-g-krish,Karthik G. Krish,director,1,BHWP
+karthik-gattamneni,Karthik Gattamneni,director,2,"BUSF, BJBG"
+karthik-naren,Karthik Naren,director,1,BKQL
+karthik-raghunath,Karthik Raghunath,director,2,"BGNE, BJSA"
+karthik-sabareesh,Karthik Sabareesh,director,1,CFUE
+karthik-subbaraju,Karthik Subbaraju,director,2,"BEZT, BFPV"
+karthik-varma-dandu,Karthik Varma Dandu,director,1,BSPL
+karthik-varma-dhandu,Karthik Varma Dhandu,director,1,BIJQ
+karthik-yallapragada,Karthik Yallapragada,director,1,CXIP
+karthikeya-gopala-krishna,Karthikeya Gopala Krishna,director,2,"AYAC, BGPZ"
+kartikeya,Kartikeya,director,1,BNKJ
+karuna-prakash-v-k-prakash,Karuna Prakash (V.K. Prakash),director,1,AWQV
+karvanan,Karvanan,director,2,"BIPA, BEEE"
+kasinath,Kasinath,director,6,"BIAE, AKBC, BJQY, BDYY, BEME"
+kasthuri-raja,Kasthuri Raja,director,4,"CNRY, BEBD, BFKG, BGHY"
+kasturi-sivarao,Kasturi Sivarao,director,1,FYR
+kasyap-sreenivas,Kasyap Sreenivas,director,1,BOHS
+kathir,Kathir,director,3,"BDPC, BHGR, BEYE"
+katragadda-ravi-teja,Katragadda Ravi Teja,director,4,"AEUK, AFXH, AFZO, AGLC"
+katt-shea-ruden,Katt Shea Ruden,director,1,BDVR
+katta-lalith-kumar-reddy,Katta Lalith Kumar Reddy,director,1,BYGB
+katta-subbarao,Katta Subbarao,director,22,"TSJ, UKJ, UNV, UWH, UWL"
+katuri-mohan-rao,Katuri Mohan Rao,director,1,BFKM
+kaushik,Kaushik,director,1,CDKY
+kavuri-sambasiva-rao,Kavuri Sambasiva Rao,director,1,ACNE
+kedari-suribabu,Kedari Suribabu,director,2,"AIBV, BJQF"
+keerthi-raj,Keerthi Raj,director,1,BGCI
+kemparaj-urs,Kemparaj Urs,director,1,IKZ
+kenaz,Kenaz,director,1,CWYY
+kennath-branag,Kennath Branag,director,1,BHWA
+khaja,Khaja,director,1,BESP
+khaja-afridi,Khaja Afridi,director,1,DBVE
+kiran,Kiran,director,2,"CQFC, AXQQ"
+kiran-bethamcherla,Kiran Bethamcherla,director,1,CYEX
+kiran-govi,Kiran Govi,director,2,"BHNV, CUBF"
+kiran-kanth,Kiran Kanth,director,1,BGGP
+kiran-karnidi,Kiran Karnidi,director,1,BHPW
+kiran-kumar-chebolu,Kiran Kumar Chebolu,director,1,BEQM
+kiran-meegada,Kiran Meegada,director,2,"BEFB, CUQW"
+kiran-rao,Kiran Rao,director,1,BFCZ
+kiran-reddy-thumma,Kiran Reddy Thumma,director,1,BPMT
+kiran-valipa-venkat,Kiran Valipa Venkat,director,1,CHCW
+kirankanth,Kirankanth,director,1,BUCB
+kiruthiga-udhayanidhi,Kiruthiga Udhayanidhi,director,1,BLBY
+kishan-raju,Kishan Raju,director,1,BDGR
+kishore,Kishore,director,1,AHQO
+kishore-bhargav,Kishore Bhargav,director,2,"BNWD, BKBF"
+kishore-kumar,Kishore Kumar,director,1,DBSG
+kishore-kumar-inapanuri,Kishore Kumar Inapanuri,director,7,"BTLF, BYKU, CBKT, CCLA, CWMB"
+kishore-kumar-pardasani,Kishore Kumar Pardasani,director,1,CATY
+kishore-kumar-pardasani-dolly,Kishore Kumar Pardasani (Dolly),director,3,"AWRN, BAWM, BHKV"
+kishore-tirumala,Kishore Tirumala,director,2,"BENQ, BFGO"
+kittu-nalluri,Kittu Nalluri,director,1,BDDE
+kocharlakota-rangarao,Kocharlakota Rangarao,director,2,"BIK, CKB"
+kodali-gopal-rao,Kodali Gopal Rao,director,1,BIFY
+kodali-venkateswara-rao,Kodali Venkateswara Rao,director,1,BDLD
+kodam-anarghya,Kodam Anarghya,director,1,DAKK
+kodanda-rami-reddy-a,Kodanda Rami Reddy A.,director,1,CPOY
+kodavatiganti-dayaa,Kodavatiganti Dayaa,director,1,BOAI
+kodi-ramakrishna,Kodi Ramakrishna,director,103,"VRM, XCQ, XGM, XNH, XSS"
+kodumuri-santosh,Kodumuri Santosh,director,1,CBBI
+kola-nag,Kola Nag,director,1,AUYC
+kolli-bapireddy,Kolli Bapireddy,director,1,ASEH
+kolli-ramgopal,Kolli Ramgopal,director,1,AOXK
+komala-swaminathan,Komala Swaminathan,director,1,BGTE
+kommineni,Kommineni,director,1,UXL
+kommineni-krishnamurthy,Kommineni Krishnamurthy,director,1,YFC
+kommineni-seshagiri-rao,Kommineni Seshagiri Rao,director,24,"SEG, TKY, TRK, TRV, BFOZ"
+konda,Konda,director,3,"ASVQ, BEEF, BIMJ"
+kondamudi-sriramchandra-murthy,Kondamudi Sriramchandra Murthy,director,1,BEOE
+kondaveeti-satyam,Kondaveeti Satyam,director,1,AHEU
+koneru-ravindranath,Koneru Ravindranath,director,3,"XMS, AOXQ, CMYO"
+koneti-srinu,Koneti Srinu,director,1,BEUN
+kongarapi-venkata-ramana,Kongarapi Venkata Ramana,director,1,ATKT
+kookie-v-gulati,Kookie V. Gulati,director,1,BEJM
+koorapati-ramarao,Koorapati Ramarao,director,1,BJDV
+koratala-siva,Koratala Siva,director,5,"BBAC, BIWP, BWRX, BEQJ, CDTS"
+kore-ravibabu,Kore Ravibabu,director,1,BGQG
+korean,Korean,director,1,BGDI
+kosuri,Kosuri,director,1,BIET
+kota-satyanarayana-e-sathibabu,Kota Satyanarayana E. (Sathibabu),director,1,AVNB
+kotapati-sreenu,Kotapati Sreenu,director,1,BIDG
+kotendra-dudyala,Kotendra Dudyala,director,1,CDQP
+koti-vaddineni,Koti Vaddineni,director,1,CELP
+kotte-krishna,Kotte Krishna,director,1,CZEJ
+kovelamudi-bhaskar-rao,Kovelamudi Bhaskar Rao,director,3,"HMQ, INC, IVC"
+kovera,Kovera,director,1,CHPN
+kpn-chawhan,Kpn Chawhan,director,1,CYAK
+kranthi-kumar,Kranthi Kumar,director,1,BMMR
+kranthi-madhav,Kranthi Madhav,director,1,BKVU
+kranthi-ramesh,Kranthi Ramesh,director,1,APYN
+kranthi-sha,Kranthi Sha,director,1,BJNK
+krishna,Krishna,director,2,"BDFY, BIHN"
+krishna-chaitanya,Krishna Chaitanya,director,2,"BICZ, CDZA"
+krishna-das,Krishna Das,director,1,BINY
+krishna-devan,Krishna Devan,director,1,BHYZ
+krishna-ghattamaneni,Krishna Ghattamaneni,director,15,"ABJH, ACFT, CLCW, ACUN, ACYT"
+krishna-k-prasad,Krishna K. Prasad,director,1,BKXJ
+krishna-karthik,Krishna Karthik,director,1,BXLH
+krishna-kishore,Krishna Kishore,director,2,"BKTT, DBSG"
+krishna-kumar,Krishna Kumar,director,2,"BDCA, BGRH"
+krishna-marimuthu,Krishna Marimuthu,director,1,BKVQ
+krishna-mohan,Krishna Mohan,director,1,CZEI
+krishna-murali-posani,Krishna Murali Posani,director,1,CTPU
+krishna-nori,Krishna Nori,director,1,BFYY
+krishna-prasad,Krishna Prasad,director,1,CHFM
+krishna-rao,Krishna Rao,director,3,"IUI, IEY, JXV"
+krishna-rao-keshav,Krishna Rao Keshav,director,2,"BDTY, BIYU"
+krishna-reddy,Krishna Reddy,director,1,ASJY
+krishna-reddy-gangadasu,Krishna Reddy Gangadasu,director,1,BHBD
+krishna-samudrala,Krishna Samudrala,director,1,CXEY
+krishna-vamshi,Krishna Vamshi,director,3,"APDY, AQWS, AWTB"
+krishna-vamsi,Krishna Vamsi,director,16,"AJKH, APRA, APTI, APUH, ARTQ"
+krishna-varma,Krishna Varma,director,2,"BHIO, BKXR"
+krishna-vijay,Krishna Vijay,director,2,"BHPN, DBHO"
+krishnan-panju,Krishnan-Panju,director,12,"BJZR, BHZL, BIOJ, ALHI, MBE"
+krttiventi-nageswarao,Krttiventi Nageswarao,director,1,CDN
+kuchipudi-venkat,Kuchipudi Venkat,director,2,"ATZS, AVVA"
+kulasekhar,Kulasekhar,director,1,BHMM
+kumaar,Kumaar,director,1,BROU
+kumar-nagendra,Kumar Nagendra,director,4,"AZYU, BFDI, BGUE, BYQL"
+kumar-ravilla,Kumar Ravilla,director,1,BFTH
+kumar-sravan,Kumar Sravan,director,1,AZXR
+kumar-vatti,Kumar Vatti,director,1,BKQX
+kumaravelan,Kumaravelan,director,1,BEWK
+kunal-kohli,Kunal Kohli,director,1,CGBO
+kundan-kumar,Kundan Kumar,director,1,BIKP
+kundan-shah,Kundan Shah,director,1,BHTT
+kurien-varnassala,Kurien Varnassala,director,1,BPXL
+kurra-ranga-rao,Kurra Ranga Rao,director,2,"AEPZ, AEVQ"
+kurt-wimmer,Kurt Wimmer,director,1,BHCP
+kushal-kondeti,Kushal Kondeti,director,1,CDFU
+kushal-ruia,Kushal Ruia,director,1,BAPD
+l-b-sriram,L B Sriram,director,3,"CBJY, CZBG, CZNU"
+l-sanjeev,L. Sanjeev,director,1,BKBH
+l-sanjeeva-rao,L. Sanjeeva Rao,director,1,BERC
+l-srinath,L. Srinath,director,1,ASNV
+l-suresh,L. Suresh,director,1,AXQH
+l-venkatesh,L. Venkatesh,director,1,BGMF
+l-k-rao,L.K. Rao,director,1,BFRB
+l-m-balaji,L.M. Balaji,director,1,BIEK
+l-p-ramarao,L.P. Ramarao,director,2,"CPTX, BHMR"
+l-s-ramachandran,L.S. Ramachandran,director,1,GYP
+l-v-adhavan,L.V. Adhavan,director,1,BEJJ
+l-v-prasad,L.V. Prasad,director,12,"EIU, EVG, FBC, FNT, FZX"
+l-y-s-n-bharath,L.Y.S.N. Bharath,director,2,"BNKU, BNHL"
+lakka-radhakrishna,Lakka Radhakrishna,director,1,ZQO
+lakshman-gangarapu,Lakshman Gangarapu,director,1,BFZE
+lakshman-gore,Lakshman Gore,director,1,BJCD
+lakshman-karya,Lakshman Karya,director,1,CETK
+lakshmi-kanth-nadukuru,Lakshmi Kanth Nadukuru,director,1,BAMK
+lakshmi-srinivas,Lakshmi Srinivas,director,1,ATHG
+lakshminarayana-puttamchetty,LakshmiNarayana Puttamchetty,director,4,"CUIK, BRDT, BXTT, BZEK"
+lakshmikanth-chenna,Lakshmikanth Chenna,director,6,"AUML, BGNI, AVZL, BFDJ, CGHF"
+lanka-pratheek-prem-karan,Lanka Pratheek Prem Karan,director,1,BKYB
+lanka-satyam,Lanka Satyam,director,2,"DOE, EHM"
+lankapalli-srinivas,Lankapalli Srinivas,director,1,BSEW
+lawrence-d-souza,Lawrence D. Souza,director,1,BEYI
+lawrence-raghavendra,Lawrence Raghavendra,director,2,"ATJI, BTPD"
+lee-tamahori,Lee Tamahori,director,1,BHEO
+lee-thampson,Lee Thampson,director,1,BEND
+leela-v-prasad,Leela V. Prasad,director,2,"BHAN, BIKH"
+lewis-schoenbrun,Lewis Schoenbrun,director,1,BJNY
+lingan,Lingan,director,1,BEJO
+lion-sai-venkat,Lion Sai Venkat,director,1,BFQP
+liyakath-ali-khan,Liyakath Ali Khan,director,3,"BGVB, BGBE, BILB"
+lokchandar,Lokchandar,director,1,AHGR
+lokesh-kumar-aaron,Lokesh Kumar Aaron,director,1,CHBH
+louis-leteriyyar,Louis Leteriyyar,director,1,BELX
+luis-llosa,Luis Llosa,director,1,BDWG
+luyis-letarar,Luyis Letarar,director,1,BJDL
+m-amarnath-gupta,M. Amarnath Gupta,director,1,BJIH
+m-balu,M. Balu,director,1,BHAC
+m-bhaskar,M. Bhaskar,director,2,"BJRS, BGKV"
+m-chandrasekhar-reddy,M. Chandrasekhar Reddy,director,1,BEMZ
+m-gopinath,M. Gopinath,director,1,BJIK
+m-janaki-ramireddy,M. Janaki Ramireddy,director,1,BJIU
+m-jayadev,M. Jayadev,director,1,ZXF
+m-jayakumar,M. Jayakumar,director,1,BFKD
+m-jayasimha-reddy,M. Jayasimha Reddy,director,1,BHVM
+m-jeevan,M. Jeevan,director,1,BGXC
+m-kalangiyam,M. Kalangiyam,director,1,BESR
+m-karnan,M. Karnan,director,7,"BIDN, PGV, BERR, SVY, BGEM"
+m-krishna,M. Krishna,director,1,BFYK
+m-krishna-chandra,M. Krishna Chandra,director,4,"BHNY, AFIU, BFTN, BHCN"
+m-krishna-mohan-reddy,M. Krishna Mohan Reddy,director,1,AOKZ
+m-krishnan-nair,M. Krishnan Nair,director,6,"BJSC, BIYZ, NDF, NUE, BHHX"
+m-kumar,M. Kumar,director,1,BIDC
+m-kunchako,M. Kunchako,director,1,BHYT
+m-madhu,M. Madhu,director,1,BEQI
+m-mallikarjun-rao,M. Mallikarjun Rao,director,20,"LST, ALLS, MPR, MVR, NGQ"
+m-manivasagam,M. Manivasagam,director,3,"BFIK, BFSK, BHZQ"
+m-mastan,M. Mastan,director,2,"GKW, GQU"
+m-mohan,M. Mohan,director,1,BFBT
+m-muthaiah,M. Muthaiah,director,1,BXFG
+m-nagarjuna-reddy,M. Nagarjuna Reddy,director,2,"ARXG, AUCN"
+m-nagendra-kumar,M. Nagendra Kumar,director,2,"BHAQ, BHVV"
+m-nageswara-rao,M. Nageswara Rao,director,1,NOF
+m-nandakumar,M. Nandakumar,director,3,"AAWA, ACZB, AGIO"
+m-natesan,M. Natesan,director,2,"BHOM, BJTJ"
+m-night-shyamalan,M. Night Shyamalan,director,1,BITD
+m-parthasarathi,M. Parthasarathi,director,1,XKF
+m-prabhakar-reddy,M. Prabhakar Reddy,director,4,"ABFZ, ABYU, BGNS, ADRU"
+m-radhakrishna,M. Radhakrishna,director,1,BDYT
+m-raja,M. Raja,director,1,ARQG
+m-rajasekhar-reddy,M. Rajasekhar Reddy,director,1,AFDV
+m-rajashekara-reddy,M. Rajashekara Reddy,director,1,CKXR
+m-rajesh,M. Rajesh,director,3,"BDKA, BHXT, BJIM"
+m-ramakrishna,M. Ramakrishna,director,1,ACNI
+m-ravi-varma,M. Ravi Varma,director,1,BYCD
+m-rosi-raju,M. Rosi Raju,director,6,"BHWZ, XPY, ZHE, ZKK, ZNO"
+m-saravanan,M. Saravanan,director,3,"AWNP, BHPH, BGDH"
+m-saravanan-dir,M. Saravanan (Dir),director,1,BDNL
+m-sasi-kumar,M. Sasi Kumar,director,2,"BDLG, BFON"
+m-sridhar,M. Sridhar,director,3,"BFEL, BDNI, CHFL"
+m-srinivasa-rao,M. Srinivasa Rao,director,1,BJDA
+m-thirumurugan,M. Thirumurugan,director,1,BKCE
+m-thyagarajan,M. Thyagarajan,director,2,"BDEF, BHLD"
+m-vasu,M. Vasu,director,1,BDMS
+m-vasu-varma,M. Vasu Varma,director,2,"AWPT, BEXK"
+m-vellaiswamy,M. Vellaiswamy,director,2,"BDSL, BFVR"
+m-vemagiri,M. Vemagiri,director,1,BIMT
+m-vinay-babu,M. Vinay Babu,director,1,BGVW
+m-vinod,M. Vinod,director,1,BIYN
+m-yogi,M. Yogi,director,1,ASVU
+m-a-ajij,M.A. Ajij,director,1,AEMK
+m-a-chowdary,M.A. Chowdary,director,2,"BGLU, BIBL"
+m-a-kaja,M.A. Kaja,director,1,BEDM
+m-a-murugesh,M.A. Murugesh,director,1,BGCU
+m-a-thirumugham,M.A. Thirumugham,director,19,"BDSI, BISW, BIVZ, BGEG, BHGS"
+m-d-jayavelan,M.D. Jayavelan,director,1,BJPO
+m-g-balu,M.G. Balu,director,1,BEYT
+m-g-ramachandran,M.G. Ramachandran,director,2,"BDLN, BJVJ"
+m-j-reddy,M.J. Reddy,director,2,"BHTG, BPHE"
+m-k-chowdary,M.K. Chowdary,director,1,BFHB
+m-k-maheswar,M.K. Maheswar,director,1,BFVE
+m-k-i-sukumar,M.K.I. Sukumar,director,1,BJYR
+m-l,M.L,director,1,ZAT
+m-l-tandon,M.L. Tandon,director,3,"CLW, DNI, EGM"
+m-m-a-chinnappa-devar,M.M.A. Chinnappa Devar,director,1,BGJY
+m-m-g-reddy,M.M.G. Reddy,director,1,BEAA
+m-n-raju,M.N. Raju,director,1,BKAY
+m-r-nag,M.R. Nag,director,2,"BDXY, WTP"
+m-r-rajamani,M.R. Rajamani,director,1,BJFW
+m-r-vijayachandar,M.R. Vijayachandar,director,1,ZTF
+m-r-s-mani,M.R.S. Mani,director,1,HAH
+m-s-anbu,M.S. Anbu,director,1,BGHE
+m-s-gopinath,M.S. Gopinath,director,7,"MXZ, PVB, RCZ, RPF, SXI"
+m-s-gupta,M.S. Gupta,director,1,BIUD
+m-s-kota-reddy,M.S. Kota Reddy,director,14,"SFV, RUV, SNN, TKJ, TVJ"
+m-s-narayana,M.S. Narayana,director,2,"ATIA, AUYG"
+m-s-rajasekhar,M.S. Rajasekhar,director,1,BHIF
+m-s-raju,M.S. Raju,director,2,"AWFG, BHNT"
+m-s-ramesh,M.S. Ramesh,director,1,BDFG
+m-s-srichand,M.S. Srichand,director,2,"BHZC, BDKQ"
+m-s-sriram,M.S. Sriram,director,1,SKF
+m-s-n-murthy,M.S.N. Murthy,director,1,QQS
+m-s-p-sarathi,M.S.P. Sarathi,director,1,PPI
+m-v-narayana-rao,M.V. Narayana Rao,director,3,"BINV, BICI, BFJG"
+m-v-raghu,M.V. Raghu,director,2,"ACUP, ADMG"
+m-v-raman,M.V. Raman,director,5,"AKST, AKWT, HUS, BIMB, BFHW"
+m-v-ramana-murthy,M.V. Ramana Murthy,director,1,CHJ
+m-v-sagar,M.V. Sagar,director,1,BDJD
+m-v-satish-kumar,M.V. Satish Kumar,director,1,BFSU
+m-v-s-omkar,M.V.S. Omkar,director,2,"AGCV, AIEP"
+m-k-chowdary,M.k.Chowdary,director,1,CRLM
+maadala-ashwak-anjibabu,Maadala Ashwak Anjibabu,director,1,CRPU
+maanikonda-madhusudhana-rao,Maanikonda Madhusudhana Rao,director,1,TKL
+madan,Madan,director,5,"AURD, AVTN, AWWU, BDDK, BKZW"
+madan-mohan,Madan Mohan,director,2,"BIKL, AHPN"
+madan-patel,Madan Patel,director,2,"BDXC, BHIL"
+madan-t-jawahar,Madan T. Jawahar,director,1,BJZD
+madan-thapa,Madan Thapa,director,1,CDMN
+maddhali-venkateswara-rao,Maddhali Venkateswara Rao,director,1,BJIO
+maddhirala,Maddhirala,director,1,BJGA
+maddineni-ramesh,Maddineni Ramesh,director,2,"AUOL, BFNM"
+madhala-koteswara-rao,Madhala Koteswara Rao,director,1,BGNB
+madhu,Madhu,director,3,"WRE, BJDH, BFKE"
+madhu-mahankali,Madhu Mahankali,director,2,"AUNG, BHBI"
+madhu-varma,Madhu Varma,director,1,DBAT
+madhubabu,Madhubabu,director,3,"BFVN, XQK, XQO"
+madhukar,Madhukar,director,1,EMT
+madhumita-sundararaman,Madhumita Sundararaman,director,1,BTZD
+madhur-bhandarkar,Madhur Bhandarkar,director,1,BIGQ
+madhura-sridhar,Madhura Sridhar,director,3,"AYBX, AYTB, BEKB"
+madhuravan,Madhuravan,director,1,BGGD
+madhurima-ghosh,Madhurima Ghosh,director,1,BYSK
+madhusudan,Madhusudan,director,1,BDIR
+madhusudhan,Madhusudhan,director,1,BEGN
+magunta-dayakar,Magunta Dayakar,director,2,"BGFU, BDHX"
+maha-venkatesh,Maha Venkatesh,director,1,CDXU
+mahadev,Mahadev,director,1,AWUG
+mahanandi-reddy,Mahanandi Reddy,director,1,BEHO
+mahendar-kududula,Mahendar Kududula,director,1,BXZW
+mahendra-gali,Mahendra Gali,director,1,BRWP
+mahesh,Mahesh,director,2,"SFQ, CUBE"
+mahesh-b-umamaheswaram,Mahesh (B. Umamaheswaram),director,1,TFD
+mahesh-bhatt,Mahesh Bhatt,director,4,"AINM, BJRP, BFJB, BJZY"
+mahesh-chandra,Mahesh Chandra,director,1,AYAO
+mahesh-dattani,Mahesh Dattani,director,1,ATJV
+mahesh-kanakala,Mahesh Kanakala,director,1,CZKW
+mahesh-kathi,Mahesh Kathi,director,1,BDFF
+mahesh-kumar,Mahesh Kumar,director,3,"BFSP, BFTG, AUEG"
+mahesh-manjrekar,Mahesh Manjrekar,director,1,BGYP
+mahesh-p,Mahesh P.,director,1,BQIJ
+mahesh-reddy,Mahesh Reddy,director,1,CEUB
+mahesh-surapaneni,Mahesh Surapaneni,director,1,CASH
+mahesh-surya,Mahesh Surya,director,1,BXHJ
+mahesh-upputuri,Mahesh Upputuri,director,3,"BRRI, BGBS, CCGY"
+mahesh-vettiyar,Mahesh Vettiyar,director,1,BAQH
+maheshbabu,Maheshbabu,director,1,BDHS
+maheshh,Maheshh,director,1,BDID
+mahi,Mahi,director,1,BGCO
+mahi-v-raghav,Mahi V. Raghav,director,2,"BIJI, BQXQ"
+mahi-v-raghav,Mahi v Raghav,director,1,BKVG
+mahindra,Mahindra,director,1,BKYA
+majji-krishna-prasad,Majji Krishna Prasad,director,1,BHWM
+major-sundar-rajan,Major Sundar Rajan,director,1,BIJB
+malati-rao,Malati Rao,director,1,EDYB
+malaysia-vasudevan,Malaysia Vasudevan,director,1,BJZF
+malladi-vinayaka,Malladi Vinayaka,director,1,BIZY
+mallam-ramesh,Mallam Ramesh,director,1,BFRX
+malli,Malli,director,1,ASXC
+malli-ankam,Malli Ankam,director,1,BYNI
+malli-k-chandra,Malli K. Chandra,director,1,CXJC
+mallik-ram,Mallik Ram,director,2,"CBRF, CGIF"
+mallikarjuna,Mallikarjuna,director,2,"CPTP, BPKP"
+mallikram,Mallikram,director,1,BKOF
+mamani,Mamani,director,1,BJOE
+mamidi-krishna,Mamidi Krishna,director,1,BGFT
+manan-katohora,Manan Katohora,director,1,ASOE
+manapuram-apparao,Manapuram Apparao,director,5,"KCP, KVZ, NBU, NQV, PDP"
+mandava-gopala-krishna,Mandava Gopala Krishna,director,1,BJGV
+mangalapalli-rangarao,Mangalapalli Rangarao,director,1,PSA
+mani-bharathi,Mani Bharathi,director,1,BGBL
+mani-nagaraj,Mani Nagaraj,director,1,BDZV
+mani-ratnam,Mani Ratnam,director,23,"BFKJ, BJWP, BJXE, BHVX, ADSB"
+mani-shankar,Mani Shankar,director,1,AEJK
+manikanta-varanasi,Manikanta Varanasi,director,1,CCRI
+manikyam,Manikyam,director,1,GBZ
+manimaran,Manimaran,director,1,BFGH
+manish,Manish,director,1,BHNU
+manish-jha,Manish Jha,director,1,BKFR
+manivannan,Manivannan,director,16,"YYF, AKAR, ZQB, YQP, ZWJ"
+manjoor,Manjoor,director,1,BJMW
+manju-swaraj,Manju Swaraj,director,1,BEFY
+manjula-ghattamaneni,Manjula Ghattamaneni,director,2,"BLAB, CFQP"
+manjula-naidu,Manjula Naidu,director,1,ASEP
+manmohan,Manmohan,director,2,"BGHA, BJAE"
+manne-radhakrishna,Manne Radhakrishna,director,1,AJTR
+mannepalli-srinivas,Mannepalli Srinivas,director,1,BJFM
+mano-bala,Mano Bala,director,1,AABF
+manobala,Manobala,director,6,"BJRI, BHFI, BHYX, BJYE, BHJV"
+manohar-chimmani,Manohar Chimmani,director,4,"BETK, BIBV, BSEP, BECP"
+manoj,Manoj,director,1,BIQK
+manoj-kumar,Manoj Kumar,director,9,"BFLZ, BDUW, BFBP, BHLB, BFMS"
+manoj-sri-harsha-divi,Manoj Sri Harsha Divi,director,1,DAUV
+manraj,Manraj,director,1,BGTW
+mansoor-khan,Mansoor Khan,director,1,BHXC
+manu,Manu,director,1,BJBY
+manukonda-subbareddy,Manukonda Subbareddy,director,1,BJMH
+manusuri,Manusuri,director,1,CEPL
+mara,Mara,director,1,BHSZ
+marcas-nispel,Marcas Nispel,director,1,BHXO
+mardhananda,Mardhananda,director,1,BFCS
+mark-foster,Mark Foster,director,1,BJGT
+mark-steven-johnson,Mark Steven Johnson,director,2,"BFMT, BDIO"
+marshal-ramana,Marshal Ramana,director,1,BBHH
+marthand-k-shankar,Marthand K. Shankar,director,2,"AWMZ, BDXV"
+martin-campbell,Martin Campbell,director,1,BFTV
+marudhuri-raja,Marudhuri Raja,director,1,CRZR
+maruduri-raja,Maruduri Raja,director,1,AVNV
+maruthi,Maruthi,director,6,"BDQR, AZVY, BDFV, BEBB, BFRN"
+maruthi-dasari,Maruthi Dasari,director,5,"CUGG, BSPI, BKWC, CGSS, DACV"
+max-and-dania,Max and Dania,director,1,BGXT
+maxx-walker-bolton,Maxx Walker-Bolton,director,1,BQIO
+mayank-sharma,Mayank Sharma,director,1,CDWW
+mc-g,Mc G,director,1,BHNJ
+md-nizam,Md. Nizam,director,1,BRWQ
+meera-kadhiravan,Meera Kadhiravan,director,1,BFKZ
+megoti-sanjeev-kumar,Megoti Sanjeev Kumar,director,4,"BHPD, BFFD, BJHQ, BINO"
+meher-ramesh,Meher Ramesh,director,5,"AVVO, AWJH, AZGJ, BBCC, BYSN"
+merlapaka-gandhi,Merlapaka Gandhi,director,3,"BDFA, BGXL, CFKD"
+michael-arslan,Michael Arslan,director,1,BFQD
+michael-e-lemick,Michael E. Lemick,director,1,BHGL
+michael-gondri,Michael Gondri,director,1,BITO
+midhun-manuel-thomas,Midhun Manuel Thomas,director,1,BKOH
+mike-nevel,Mike Nevel,director,1,BJOX
+milind-gadagkar,Milind Gadagkar,director,1,BHWS
+milind-rau,Milind Rau,director,1,CCOK
+mirjapuram-raja,Mirjapuram Raja,director,3,"FMX, GJK, GQT"
+mithran-c-jawahar,Mithran C. Jawahar,director,1,BGMV
+mitradas,Mitradas,director,1,BETO
+mohamad-issack,Mohamad Issack,director,1,BXZN
+mohammed-hussain,Mohammed Hussain,director,1,BFLY
+mohan,Mohan,director,2,"BFWC, COHB"
+mohan-alrk,Mohan Alrk,director,1,BSDX
+mohan-bandreddi,Mohan Bandreddi,director,1,CFMQ
+mohan-das,Mohan Das,director,1,YQM
+mohan-deekshith,Mohan Deekshith,director,1,BSCF
+mohan-kanth,Mohan Kanth,director,1,BPGW
+mohan-krishna-indraganti,Mohan Krishna Indraganti,director,1,BCUC
+mohan-kumar-valasala,Mohan Kumar Valasala,director,1,BRTT
+mohan-kupleri,Mohan Kupleri,director,1,BFZY
+mohan-mallapalli,Mohan Mallapalli,director,1,BDRV
+mohan-naidu,Mohan Naidu,director,1,CBNG
+mohan-nimmakayala,Mohan Nimmakayala,director,1,BGJQ
+mohan-prasad,Mohan Prasad,director,1,BSER
+mohan-rao,Mohan Rao,director,1,GRX
+mohan-ravipati,Mohan Ravipati,director,1,CZRL
+mohan-srivatsasa,Mohan Srivatsasa,director,1,CFLT
+mohan-thomas,Mohan Thomas,director,1,BDZW
+mohana-krishna-indraganti,Mohana Krishna Indraganti,director,12,"ATFX, AUOX, AVOO, AYQY, BODL"
+mohanjee,Mohanjee,director,1,AAHR
+monish-bhupathiraju,Monish Bhupathiraju,director,1,BSNY
+mouli,Mouli,director,28,"BEHV, WXE, XYU, ABFJ, ABNC"
+mourya,Mourya,director,2,"AQZE, BGVX"
+mrinal-sen,Mrinal Sen,director,1,SMC
+msg-nikhil,Msg Nikhil,director,1,BZOM
+msn-surya,Msn Surya,director,1,CHCS
+muddapu-rambabu,Muddapu Rambabu,director,1,BECF
+muddasani-raghupathi-reddy,Muddasani Raghupathi Reddy,director,1,BIYC
+mukherjee,Mukherjee,director,1,BWB
+mukkamala-krishna-murthy,Mukkamala Krishna Murthy,director,2,"GGA, KBR"
+mukkamala-ramakrishna,Mukkamala Ramakrishna,director,1,ABHX
+mukul-s-anand,Mukul S. Anand,director,1,BGRI
+mukund-pandey,Mukund Pandey,director,1,BWZN
+mullapudi-suryachandra,Mullapudi Suryachandra,director,1,BJXF
+mummadi-nagaraju,Mummadi Nagaraju,director,1,BHIZ
+mummy-century,Mummy Century,director,1,BICE
+munna-kasi,Munna Kasi,director,1,CYDV
+muppalaneni-siva-prasad,Muppalaneni Siva Prasad,director,19,"AIPH, AJWO, APND, BEIA, APVX"
+murali-appas,Murali Appas,director,1,BHXB
+murali-ganesh,Murali Ganesh,director,1,BFXS
+murali-kameti,Murali Kameti,director,1,BUCV
+murali-krishna,Murali Krishna,director,2,"BDRI, BIIS"
+murali-krishna-mudidani,Murali Krishna Mudidani,director,2,"BGWC, CDTP"
+murali-raju,Murali Raju,director,1,BDZY
+murari,Murari,director,1,BFQJ
+murari-atmakur,Murari Atmakur,director,1,BRDU
+murasoli-maran,Murasoli Maran,director,1,BEVE
+murthy-krishna,Murthy Krishna,director,1,BGHM
+murthy-sriram,Murthy Sriram,director,1,ARYE
+murugan-kumaran,Murugan Kumaran,director,1,RCC
+murugas,Murugas,director,1,BEHC
+muthumani,Muthumani,director,1,BENR
+muthupandi,Muthupandi,director,1,BIKB
+muthyala-ramdas,Muthyala Ramdas,director,1,ARGJ
+muthyala-subbaiah,Muthyala Subbaiah,director,54,"UYY, BDOE, BHYV, ABTT, ACSU"
+myshkin,Myshkin,director,3,"BFCX, BEQC, BGXH"
+n-azhagam-perumal,N. Azhagam Perumal,director,1,ARPB
+n-chandrasekhar,N. Chandrasekhar,director,1,BIOF
+n-damodaram,N. Damodaram,director,1,ZCW
+n-gopalakrishna,N. Gopalakrishna,director,5,"QYG, SRB, UAP, VNV, WJT"
+n-haribabu,N. Haribabu,director,2,"AHJT, AIFV"
+n-jagannatha-swamy,N. Jagannatha Swamy,director,1,BZI
+n-kondal-rao,N. Kondal Rao,director,2,"BDSA, BJXN"
+n-linguswamy,N. Linguswamy,director,7,"BKAA, BFFT, BEYC, BFDN, BHZH"
+n-lokanath,N. Lokanath,director,1,BDTJ
+n-maharajan,N. Maharajan,director,3,"BIKN, BJGG, BDNP"
+n-naga-srinivas,N. Naga Srinivas,director,1,BHVL
+n-narasimharao,N. Narasimharao,director,1,CGTZ
+n-naresh,N. Naresh,director,1,BJVC
+n-nityaraj,N. Nityaraj,director,1,BHPT
+n-om-prakash-rao,N. Om Prakash Rao,director,4,"BFNB, BJED, BENL, BGCJ"
+n-pandian,N. Pandian,director,1,BFOU
+n-ramesh,N. Ramesh,director,1,CZTW
+n-ravindra-reddy,N. Ravindra Reddy,director,4,"XDY, YUT, ABRL, BJGS"
+n-satya,N. Satya,director,1,APTR
+n-seetharam,N. Seetharam,director,1,BEBF
+n-shankar,N. Shankar,director,8,"BDCO, AQXS, AQZI, AREE, ARMQ"
+n-shankar-dayal,N. Shankar Dayal,director,1,BIIN
+n-shankar-nayar,N. Shankar Nayar,director,1,BHRU
+n-sreedhar,N. Sreedhar,director,1,CGWQ
+n-srinivasa-rao,N. Srinivasa Rao,director,1,BHQE
+n-swaraj,N. Swaraj,director,1,BHOV
+n-venkat-krishna,N. Venkat Krishna,director,1,BHHF
+n-venkatesh,N. Venkatesh,director,1,BIVD
+n-a-pendyala,N.A. Pendyala,director,1,XXU
+n-a-subbaraman,N.A. Subbaraman,director,1,BFMO
+n-a-tara-dance-master,N.A. Tara (Dance Master),director,1,BDYI
+n-b-chakravarthy,N.B. Chakravarthy,director,5,"ZDC, ZVY, BGNV, ABDY, ABZU"
+n-b-narayana,N.B. Narayana,director,1,CED
+n-c-chakravarthy,N.C. Chakravarthy,director,2,"BJXQ, BEAQ"
+n-c-rajan,N.C. Rajan,director,1,BEII
+n-d-vijaya-babu,N.D. Vijaya Babu,director,1,RYB
+n-h-chandra,N.H. Chandra,director,1,BGPK
+n-h-prasad,N.H. Prasad,director,1,BIRN
+n-k-sajiv-menon,N.K. Sajiv Menon,director,1,BFJL
+n-k-vishwanath,N.K. Vishwanath,director,5,"BDWC, BHNK, BDMV, BDVX, BIAC"
+n-l-rangaiah,N.L. Rangaiah,director,1,DGR
+n-p-sridhar,N.P. Sridhar,director,1,BIMW
+n-p-suresh,N.P. Suresh,director,2,"BHNC, BHTJ"
+n-p-swamy,N.P. Swamy,director,1,BJUY
+n-s-dhananjaya,N.S. Dhananjaya,director,1,BICN
+n-s-krishnan,N.S. Krishnan,director,1,GFW
+n-s-madhavan,N.S. Madhavan,director,1,BDUK
+n-s-mani,N.S. Mani,director,1,WAT
+n-s-maniyam,N.S. Maniyam,director,1,BFJW
+n-s-murthy,N.S. Murthy,director,1,BEJV
+n-s-raja,N.S. Raja,director,2,"BHVF, BDPF"
+n-s-raja-reddy,N.S. Raja Reddy,director,2,"CQZD, BGDL"
+n-s-rajbharath,N.S. Rajbharath,director,1,BHEM
+n-s-ramadas,N.S. Ramadas,director,1,BFBU
+n-s-ramesh-khanna,N.S. Ramesh Khanna,director,1,BEPD
+n-s-varma,N.S. Varma,director,1,BHEU
+n-s-r-prasad,N.S.R. Prasad,director,1,BITE
+n-v-krishna,N.V. Krishna,director,1,BDUH
+n-v-nirmal-kumar,N.V. Nirmal Kumar,director,1,CZJA
+n-v-subbaraju,N.V. Subbaraju,director,1,ASFI
+n-v-b-chowdary,N.V.B. Chowdary,director,1,BJGZ
+naaga-prabhakkar,Naaga Prabhakkar,director,1,DASR
+naani,Naani,director,1,BAMO
+naani-bandreddi,Naani Bandreddi,director,1,BNZS
+naani-krissh,Naani Krissh,director,1,BTKK
+nachiketh-reddy,Nachiketh Reddy,director,1,DAFH
+nag,Nag,director,2,"BEVA, BFOG"
+nag-ashwin,Nag Ashwin,director,3,"BFTW, BVFX, CFPR"
+nag-srivatsa,Nag Srivatsa,director,1,BFDD
+naga-saimakam,Naga Saimakam,director,1,CWZP
+nagabhusan,Nagabhusan,director,1,AUOS
+naganna,Naganna,director,1,BHMJ
+nagaraj,Nagaraj,director,1,BEPK
+nagaraju-rachakonda,Nagaraju Rachakonda,director,1,BYCQ
+nagarjuna-reddy,Nagarjuna Reddy,director,1,BUTG
+nagasri-rao,Nagasri Rao,director,1,BTRA
+nagendra,Nagendra,director,1,BFSJ
+nagendra-kumar-vepuri,Nagendra Kumar Vepuri,director,2,"BJNR, BIMQ"
+nagendra-prasad,Nagendra Prasad,director,2,"BDCT, BKVF"
+nagesh,Nagesh,director,2,"BJUG, DALZ"
+nagesh-babu,Nagesh Babu,director,2,"SKX, BGLZ"
+nagesh-kukunoor,Nagesh Kukunoor,director,2,"APWT, ATGJ"
+nagesh-nara-dasi,Nagesh Nara Dasi,director,1,CEFV
+nagesh-naradasi,Nagesh Naradasi,director,3,"BJGX, AXVZ, BFBX"
+nageswara-rao-mogili,Nageswara Rao Mogili,director,1,BFMQ
+nagu-gavara,Nagu Gavara,director,2,"BGLV, CFGK"
+nagul,Nagul,director,1,BIDS
+nallamethu-srinivasa-rao,Nallamethu Srinivasa Rao,director,1,ASPY
+nallibilli-venkatesh,Nallibilli Venkatesh,director,1,BXKE
+namala-ravindra-soori,Namala Ravindra Soori,director,1,BILN
+nambi,Nambi,director,1,BIWQ
+nanabhai-bhatt,Nanabhai Bhatt,director,1,BDHZ
+nanda,Nanda,director,1,BJOU
+nanda-kishore-emani,Nanda Kishore Emani,director,1,CEBC
+nandakumar,Nandakumar,director,2,"BDGE, BDGH"
+nandakumar-kavil,Nandakumar Kavil,director,1,BDFI
+nandam-harishchandra-rao,Nandam Harishchandra Rao,director,5,"XLN, XPV, ZDL, AHRL, BJAN"
+nandamuri-prasad,Nandamuri Prasad,director,1,PHY
+nandamuri-ramesh,Nandamuri Ramesh,director,4,"PBZ, SJR, UJI, ABNF"
+nandamuri-taraka-rama-rao,Nandamuri Taraka Rama Rao,director,16,"KCH, KHQ, MFG, NEH, ODP"
+nandi-venkata-reddy,Nandi Venkata Reddy,director,2,"BSEU, BYSO"
+nandini-reddy,Nandini Reddy,director,2,"BWUT, CBCG"
+nandu,Nandu,director,1,BJLW
+nandu-mallela,Nandu Mallela,director,1,YHW
+nanduri-gopal,Nanduri Gopal,director,1,ZRW
+nanduri-nammalvar,Nanduri Nammalvar,director,2,"KXL, KYU"
+nanduri-veeresh,Nanduri Veeresh,director,2,"BHMV, BGAQ"
+nandyala-ravi,Nandyala Ravi,director,1,BHFK
+nani-krishna,Nani Krishna,director,2,"CSRK, AZUO"
+nani-pramod,Nani Pramod,director,3,"BUGR, BVPQ, CCEB"
+nara-bindu-pavan-kumar,Nara Bindu Pavan Kumar,director,1,BDNU
+narasimha-nandi,Narasimha Nandi,director,4,"BDDM, BEWH, BDUN, BDOH"
+narayana-rao-dasari,Narayana Rao Dasari,director,3,"CKJD, ASJQ, BREM"
+narayana-rao-uppalapati,Narayana Rao Uppalapati,director,2,"CMVV, CPST"
+naren-kondepati,Naren Kondepati,director,1,AWPP
+narendra-bedi,Narendra Bedi,director,2,"BEYJ, BJRF"
+narendra-naidu,Narendra Naidu,director,1,AWVM
+naresh-chilumula,Naresh Chilumula,director,2,"CXDQ, DAMN"
+naresh-kumar,Naresh Kumar,director,1,CWGB
+narsimha-rao,Narsimha Rao,director,1,CGTZ
+nath-narendra,Nath Narendra,director,2,"BSQE, BTJZ"
+natraaj-apos-maha-apos-maharshi,Natraaj &apos;Maha&apos; Maharshi,director,1,BVHL
+natti-kumar,Natti Kumar,director,4,"BDGQ, BGPS, CQEO, BEBK"
+navatharam-unit,Navatharam Unit,director,2,"XYL, YDY"
+naveen-aadepu,Naveen Aadepu,director,1,BJEP
+naveen-gandhi,Naveen Gandhi,director,2,"BFGY, BQMW"
+naveen-kumar,Naveen Kumar,director,1,BAMK
+naveen-medaram,Naveen Medaram,director,1,BKSO
+naveen-nayani,Naveen Nayani,director,1,DBMI
+nazar,Nazar,director,1,BJWK
+nazeer-sk,Nazeer Sk,director,1,CXHW
+neelakanta,Neelakanta,director,1,CMPT
+neelambar,Neelambar,director,1,BDWE
+neelan-k-sekhar,Neelan K. Sekhar,director,1,BDVZ
+neeleesh-peyyeti,Neeleesh Peyyeti,director,1,BRMG
+neil-marshal,Neil Marshal,director,1,BFCF
+nellutla-praveen-chandar,Nellutla Praveen Chandar,director,1,BFSD
+nellutla-praveen-chander,Nellutla Praveen Chander,director,2,"BUUQ, BVRR"
+netaji,Netaji,director,3,"BJDC, BEJI, BFGV"
+neveldine-taylor,Neveldine Taylor,director,1,BITQ
+nidhi-prasad,Nidhi Prasad,director,1,CGEB
+nidhi-prasad-s-v-n-vara-prasad,Nidhi Prasad (S.V.N. Vara Prasad),director,5,"APZT, ASDF, ATCQ, AUII, AVXZ"
+nik-mastandriya,Nik Mastandriya,director,1,BDMB
+nikhil-advani,Nikhil Advani,director,1,BDKH
+nikhil-jogi,Nikhil Jogi,director,6,"CECL, CFNC, CGFA, CYYH, CYYI"
+nikhil-sinha,Nikhil Sinha,director,1,BUQC
+nikhilesh-thogari,Nikhilesh Thogari,director,1,DADI
+nikshit,Nikshit,director,1,BIWS
+nimmala-shankar,Nimmala Shankar,director,2,"CQZT, BKYY"
+niranjan-pal,Niranjan Pal,director,1,CSW
+nirdhesh-ners,Nirdhesh Ners,director,2,"BDQF, BHSF"
+nirnai-pallati,Nirnai Pallati,director,1,BFHI
+nishant-pudhari,Nishant Pudhari,director,1,BFOP
+nishanth-pudhari,Nishanth Pudhari,director,1,BVUQ
+nitesh-tiwari,Nitesh Tiwari,director,1,BWAW
+nitin-g,Nitin G.,director,1,CWJQ
+nizar-shafi,Nizar Shafi,director,1,DAPM
+noam-murro,Noam Murro,director,1,BDMG
+nowpada-charan,Nowpada Charan,director,1,CXIC
+o-s-avinash,O.S. Avinash,director,2,"BJPI, BIKR"
+o-s-r-anjaneyulu,O.S.R. Anjaneyulu,director,2,"PSG, UXD"
+obeli-n-krishna,Obeli N. Krishna,director,1,CYEE
+ogish-babu-danduboyina,Ogish Babu Danduboyina,director,1,BUAR
+om-prakash,Om Prakash,director,6,"BHIU, BGMT, BJPE, BIKQ, BGAC"
+om-prakash-martha,Om Prakash Martha,director,1,BFDT
+om-prakash-rao,Om Prakash Rao,director,1,CQBG
+om-sai-prakash,Om Sai Prakash,director,1,CQWZ
+om-shakthi-jagadisan,Om Shakthi Jagadisan,director,3,"BJOR, BIFG, BFBG"
+omkar,Omkar,director,4,"BIEL, BFVQ, BKWI, DAGO"
+omprakash-rao,Omprakash Rao,director,1,COED
+orsu-vikas,Orsu Vikas,director,1,BGLB
+oscar-krishna,Oscar Krishna,director,1,BGFI
+p-amarnath-reddy,P. Amarnath Reddy,director,1,BGKL
+p-balaji,P. Balaji,director,1,BFYX
+p-bhanu-shankar,P. Bhanu Shankar,director,2,"ASQR, BHTA"
+p-bhaskar,P. Bhaskar,director,1,BFPH
+p-bhaskaran,P. Bhaskaran,director,2,"BFDH, BIIK"
+p-chandra-kumar,P. Chandra Kumar,director,8,"ACYJ, BGKE, BHSI, BGZW, BHTL"
+p-chandrasekhara-reddy,P. Chandrasekhara Reddy,director,71,"OGG, OGN, OTZ, OWF, PAJ"
+p-chengaiah,P. Chengaiah,director,2,"IHM, JHQ"
+p-chinnappa-reddy,P. Chinnappa Reddy,director,2,"PTN, PVP"
+p-devaraj,P. Devaraj,director,1,ADFQ
+p-doondi,P. Doondi,director,1,QQJ
+p-durga-prasad,P. Durga Prasad,director,3,"BECH, BIPH, BJBP"
+p-jaya,P. Jaya,director,1,AADT
+p-kalaimani,P. Kalaimani,director,1,CLGK
+p-kinslin,P. Kinslin,director,1,BGMX
+p-kishore-kumar,P. Kishore Kumar,director,2,"BFGW, BJTK"
+p-lakshmi-deepak,P. Lakshmi Deepak,director,20,"OAP, OKL, OMA, OZS, PFI"
+p-lakshmi-narayana-deepti,P. Lakshmi Narayana (Deepti),director,1,AUGX
+p-lakshminarayana-deepthi,P. Lakshminarayana (Deepthi),director,1,BGAG
+p-madhavan,P. Madhavan,director,8,"BHAL, BEBJ, BDFT, BDHI, BDXG"
+p-maheshbabu,P. Maheshbabu,director,1,BIPM
+p-nanjudappa,P. Nanjudappa,director,1,BJYC
+p-narasimha-reddy,P. Narasimha Reddy,director,1,BFLN
+p-narayana,P. Narayana,director,1,BAIL
+p-neelakantan,P. Neelakantan,director,14,"BDKK, BDMW, BDOP, BEZO, BDPO"
+p-padmarajan,P. Padmarajan,director,1,BIYD
+p-prabhakar,P. Prabhakar,director,2,"BKWU, CDWP"
+p-pullaiah,P. Pullaiah,director,24,"CLB, CXW, DAT, DSW, EEW"
+p-purushottam-rao,P. Purushottam Rao,director,1,TFU
+p-ram-mohan,P. Ram Mohan,director,1,BJLI
+p-ramakrishna,P. Ramakrishna,director,10,"EWB, AKVO, GTO, HCU, HXA"
+p-ramesh-babul-reddy,P. Ramesh Babul Reddy,director,1,BFTK
+p-s-krishna-mohan-reddy,P. S. Krishna Mohan Reddy,director,1,ABEO
+p-sambasiva-rao,P. Sambasiva Rao,director,1,WMR
+p-santosh,P. Santosh,director,1,BEPG
+p-satya-reddy,P. Satya Reddy,director,2,"BFLU, BDXP"
+p-satyanand,P. Satyanand,director,1,ACTW
+p-sekhar,P. Sekhar,director,4,"RRC, BFBI, BEUZ, YRO"
+p-sridhar,P. Sridhar,director,1,GGE
+p-sridhar-rao,P. Sridhar Rao,director,1,BIDK
+p-srinivas,P. Srinivas,director,1,OEY
+p-subbarao,P. Subbarao,director,1,HWD
+p-subramanyam,P. Subramanyam,director,13,"BEYV, BJUI, BHAI, BJWS, BHYC"
+p-subramanyam-telugu-director,P. Subramanyam (Telugu director),director,4,"LND, OAW, SIM, BGKN"
+p-sunil-kumar-reddy,P. Sunil Kumar Reddy,director,10,"BDMT, BGXV, BFKV, AXAD, BDVC"
+p-surya-sekhar,P. Surya Sekhar,director,1,BFBN
+p-tirupathi-swamy,P. Tirupathi Swamy,director,3,"BHRZ, ARAI, BIEP"
+p-uday-bhaskar,P. Uday Bhaskar,director,4,"BEXR, BIHS, BDTV, BGQA"
+p-vasant-kumar-reddy,P. Vasant Kumar Reddy,director,1,PWP
+p-vasu,P. Vasu,director,21,"BFYO, BEXN, BFSE, BIBM, AGTO"
+p-vijay-varma,P. Vijay Varma,director,1,BECL
+p-a-arun-prasad,P.A. Arun Prasad,director,9,"AQPN, ARMY, ARVE, ATMN, ATVU"
+p-a-padmanaba-rao,P.A. Padmanaba Rao,director,1,JUS
+p-a-thomas,P.A. Thomas,director,1,BGWK
+p-b-manjunath,P.B. Manjunath,director,2,"BTSF, BIWK"
+p-c-aditya,P.C. Aditya,director,1,BHBQ
+p-c-mohan,P.C. Mohan,director,1,ACHJ
+p-c-satya-reddy,P.C. Satya Reddy,director,1,BECG
+p-c-sekhar,P.C. Sekhar,director,1,BJNO
+p-c-sriram,P.C. Sriram,director,2,"BJWJ, AJNJ"
+p-d-prasad,P.D. Prasad,director,6,"OSE, PYO, QHT, RMU, RST"
+p-g-mohan,P.G. Mohan,director,1,BJSN
+p-g-vishwambaran,P.G. Vishwambaran,director,3,"VEZ, BDRO, BFVH"
+p-h-vishwanath,P.H. Vishwanath,director,1,BGLF
+p-k,P.K,director,1,DGV
+p-k-s-mani-raj,P.K.S. Mani Raj,director,1,BHPU
+p-l-narayana,P.L. Narayana,director,1,ADHQ
+p-l-k-reddy,P.L.K. Reddy,director,1,DACN
+p-m-venkateswara-rao,P.M. Venkateswara Rao,director,1,BFSH
+p-n-arora,P.N. Arora,director,1,BDSS
+p-n-rai,P.N. Rai,director,1,BGDB
+p-n-ramachandra-rao,P.N. Ramachandra Rao,director,26,"WBU, YVX, AAMU, AANU, AASC"
+p-n-reddy,P.N. Reddy,director,1,BDSP
+p-n-srinivasan,P.N. Srinivasan,director,1,BFWK
+p-r-devaraj,P.R. Devaraj,director,2,"BDZB, BIDV"
+p-r-kaundinya,P.R. Kaundinya,director,1,BGTY
+p-r-nagaraju,P.R. Nagaraju,director,1,AVQH
+p-r-somasundar,P.R. Somasundar,director,5,"BGYM, BIEI, BIVJ, BFNQ, BJMQ"
+p-s-balu,P.S. Balu,director,1,BJVA
+p-s-kotnis,P.S. Kotnis,director,1,BGUI
+p-s-krishna-mohan-reddy,P.S. Krishna Mohan Reddy,director,1,ABYD
+p-s-mithran,P.S. Mithran,director,1,BLBZ
+p-s-murthy,P.S. Murthy,director,1,MYA
+p-s-nivas,P.S. Nivas,director,2,"BDJS, ANPY"
+p-s-prakash,P.S. Prakash,director,6,"BJEL, YVC, ZOA, AAEL, ZXQ"
+p-s-ramakrishna-rao,P.S. Ramakrishna Rao,director,4,"FNI, HKU, KCK, KEZ"
+p-s-ramu,P.S. Ramu,director,1,BTMJ
+p-s-srinivasa-rao,P.S. Srinivasa Rao,director,2,"DWD, KXV"
+p-s-vasan,P.S. Vasan,director,1,BEST
+p-s-vasudev,P.S. Vasudev,director,1,CFAV
+p-v-dasu,P.V. Dasu,director,1,CCF
+p-v-raju,P.V. Raju,director,1,VQJ
+p-v-ramana,P.V. Ramana,director,1,BGBU
+p-v-ramarao,P.V. Ramarao,director,2,"JUX, MRJ"
+p-v-satyanarayana-rao,P.V. Satyanarayana Rao,director,2,"BCFB, VFU"
+p-v-sundaram,P.V. Sundaram,director,1,BHEJ
+p-v-v-somaraju,P.V.V. Somaraju,director,1,BHBB
+pa-ranjith,Pa Ranjith,director,1,BERK
+pa-ranjith,Pa. Ranjith,director,2,"BWTR, BLCC"
+padala-siva-subramanyam,Padala Siva Subramanyam,director,1,BICK
+padala-sivasubramanyam,Padala Sivasubramanyam,director,1,BSEX
+padma-kumar,Padma Kumar,director,1,BDYE
+paidi-ramesh,Paidi Ramesh,director,1,CGRG
+palagummi-padmaraju,Palagummi Padmaraju,director,2,"JVB, NIE"
+palani,Palani,director,1,BKWW
+palnati-surya-pratap,Palnati Surya Pratap,director,1,BTRW
+paluvayi-bhanumathi,Paluvayi Bhanumathi,director,9,"GTR, OVQ, QAR, QBR, RPO"
+pamarthi-govinda-rao,Pamarthi Govinda Rao,director,1,AGKS
+pamu-srinu,Pamu Srinu,director,1,BKBY
+pandian-arivali,Pandian Arivali,director,1,BECK
+pandiraj,Pandiraj,director,3,"BECV, BWVX, BFPF"
+panna-royal,Panna Royal,director,1,BIEH
+pannaroyal,PannaRoyal,director,1,BEQX
+panneerselvam,Panneerselvam,director,1,BJIQ
+panuganti-sasidhar,Panuganti Sasidhar,director,1,BFKX
+panyam-jaychandra-mouli,Panyam Jaychandra Mouli,director,1,BDXB
+pappu,Pappu,director,2,"ATKR, BGGV"
+pappu-behruz,Pappu Behruz,director,1,BEXU
+parakoti-balaji,Parakoti Balaji,director,2,"BHZG, BDHP"
+parasuram,Parasuram,director,7,"AWHV, AZHI, BANK, BFUP, CEPY"
+parasuram-bujji,Parasuram (Bujji),director,1,AWGJ
+pars-mahendar,Pars Mahendar,director,1,AYAA
+partha-pratim-roy,Partha Pratim Roy,director,1,DBIB
+parthasarathi,Parthasarathi,director,1,ATXL
+parthi-bhaskar,Parthi Bhaskar,director,1,BDHR
+paruchuri-brothers,Paruchuri Brothers,director,9,"YRM, ZNU, AAJM, ADCA, ACEZ"
+paruchuri-murali,Paruchuri Murali,director,6,"BIFN, BDHM, ATRB, AWXP, AZNF"
+parvataneni-sambasiva-rao,Parvataneni Sambasiva Rao,director,24,"NFY, OCB, OXB, PJT, PVG"
+pasupuleti-venkata-ramarao,Pasupuleti Venkata Ramarao,director,1,AYUD
+patoli,Patoli,director,1,BFKQ
+patricia,Patricia,director,1,BDZG
+pattabhi,Pattabhi,director,1,FZV
+pattabhi-r-chilukuri,Pattabhi R. Chilukuri,director,1,CARG
+pattu,Pattu,director,2,"PWZ, QKO"
+paul-verhoeven,Paul Verhoeven,director,1,BERX
+paul-w-s-anderson,Paul W.S. Anderson,director,1,BHTO
+pavan,Pavan,director,1,BGTK
+pavan-kalyan,Pavan Kalyan,director,1,ASSP
+pavan-krupalani,Pavan Krupalani,director,1,BDTG
+pavan-kumar-gadde,Pavan Kumar Gadde,director,1,DAUU
+pavan-mallela,Pavan Mallela,director,1,BKXP
+pavan-rachepalli,Pavan Rachepalli,director,1,BTJO
+pavan-sadineni,Pavan Sadineni,director,5,"BOTV, BJMD, BJFC, CBRY, CEKF"
+pavan-wadeyar,Pavan Wadeyar,director,1,BFCT
+pavani-prasad-sivalenka,Pavani Prasad Sivalenka,director,1,CBUD
+pavanraj,Pavanraj,director,1,DAGR
+pavans-sridhar,Pavans Sridhar,director,1,ASGB
+pavithran,Pavithran,director,1,BHFE
+pavitran,Pavitran,director,6,"BEQU, BJYU, BJTW, BEZC, BFZX"
+pawan-kumar,Pawan Kumar,director,1,CHPO
+pedakakani-b-bhaskar-raja,Pedakakani B. Bhaskar Raja,director,1,BGVY
+pedhi-k-eshwar,Pedhi K. Eshwar,director,1,BDIT
+peerala,Peerala,director,1,AONV
+peketi-sivaram,Peketi Sivaram,director,4,"MVX, NGY, OMC, BFQB"
+pendyala-naganjaneyulu,Pendyala Naganjaneyulu,director,3,"OHV, QOR, RTL"
+pendyala-venkata-rama-rao,Pendyala Venkata Rama Rao,director,1,BFJH
+pep-figueiredo,Pep Figueiredo,director,3,"BOSQ, BOSS, BROT"
+perala-subramanyam,Perala Subramanyam,director,9,"BFPD, BGDZ, ACPQ, ADCK, AICC"
+perarasu,Perarasu,director,3,"BIDR, BDXD, BEBW"
+peter-berg,Peter Berg,director,2,"BILL, BDUO"
+petrik-tatolus,Petrik Tatolus,director,1,BHVK
+phani-prakash,Phani Prakash,director,1,BECO
+phani-ramachandra,Phani Ramachandra,director,1,AGVS
+phanindra-narsetti,Phanindra Narsetti,director,3,"BPPK, BVGW, CFRO"
+phaniraj,Phaniraj,director,2,"BEMC, BHAS"
+phanisree-paruchuri,Phanisree Paruchuri,director,1,CYZP
+phanisundar,Phanisundar,director,1,AHMQ
+philip-g-atwell,Philip G. Atwell,director,1,BJRD
+phillip-noyce,Phillip Noyce,director,1,BGJA
+pillai,Pillai,director,1,BDXM
+pinjala-bhaskar-rao,Pinjala Bhaskar Rao,director,1,ADOG
+pippalla-raj,Pippalla Raj,director,1,BPRF
+poj-arnon,Poj Arnon,director,1,BDNZ
+pokuru-sridhar,Pokuru Sridhar,director,1,CUEA
+polavarapu-brahmananda-rao,Polavarapu Brahmananda Rao,director,3,"QTQ, BHRJ, BIPJ"
+polavarapu-prudhvi,Polavarapu Prudhvi,director,1,CYCM
+polur-ghatikachalam,Polur Ghatikachalam,director,1,CPNM
+poluri-ghatikachalam,Poluri Ghatikachalam,director,2,"BIRX, ASXF"
+poluri-srinivasa-reddy,Poluri Srinivasa Reddy,director,1,BDOZ
+pon-kumaran,Pon Kumaran,director,1,CUGM
+pon-raman,Pon Raman,director,1,BGER
+ponkumaran,Ponkumaran,director,1,BGPB
+poorna-adapala-chandra,Poorna Adapala (Chandra),director,1,BIHQ
+poosala-radhakrishna,Poosala Radhakrishna,director,1,AUDX
+posa,Posa,director,1,BGKI
+posani-krishna-murali,Posani Krishna Murali,director,7,"AUDV, AVIM, BDXJ, AWTV, AWWR"
+pothuneedi-krishna,Pothuneedi Krishna,director,1,AEDC
+potina-srinivasa-rao,Potina Srinivasa Rao,director,1,BGM
+prabhakar,Prabhakar,director,1,BHKJ
+prabhakar-jaini,Prabhakar Jaini,director,3,"BFPA, BDUS, BGYE"
+prabhakar-rao-annabathini,Prabhakar Rao Annabathini,director,1,BEDI
+prabhakaran,Prabhakaran,director,3,"BEAW, BDDG, BDNT"
+prabhath-khanna,Prabhath Khanna,director,2,"BEDO, BKAQ"
+prabhu,Prabhu,director,1,BFRZ
+prabhu-deva,Prabhu Deva,director,5,"AUAY, AURC, AVKU, BFMH, BEFA"
+prabhu-solomon,Prabhu Solomon,director,7,"BHKK, BEKG, BBGQ, BFDZ, BEAG"
+prachya-pinknew,Prachya Pinknew,director,1,BGOU
+pradeep-chilukuri,Pradeep Chilukuri,director,1,BDMU
+pradeep-kalipurayath,Pradeep Kalipurayath,director,1,DALT
+pradeep-maddali,Pradeep Maddali,director,1,CGIG
+pradeep-manchala,Pradeep Manchala,director,1,CGKV
+pradeep-p-setty,Pradeep P. Setty,director,1,BJAR
+pradeep-shakthi,Pradeep Shakthi,director,1,AKAX
+pradeep-yakkala,Pradeep Yakkala,director,1,DBSI
+prakash,Prakash,director,1,AXWL
+prakash-kovelamudi,Prakash Kovelamudi,director,4,"AUIG, AZBB, BIIT, BUQD"
+prakash-raj,Prakash Raj,director,2,"AZUU, BEHR"
+prakash-tholeti,Prakash Tholeti,director,1,BAHK
+pramod-kumar,Pramod Kumar,director,2,"BDSV, BDQM"
+pramod-pappan,Pramod Pappan,director,1,BFRA
+praneet,Praneet,director,1,AVJL
+praneeth,Praneeth,director,1,CETG
+praneeth-bramandapally,Praneeth Bramandapally,director,1,DAWT
+prasad,Prasad,director,3,"BEHT, DBGX, DAYS"
+prasad-m-v,Prasad M.V.,director,1,CZEG
+prasad-ramar,Prasad Ramar,director,1,BGHZ
+prasad-rayala,Prasad Rayala,director,1,BETH
+prasad-swamy,Prasad Swamy,director,1,BDTA
+prasankar,Prasankar,director,2,"BOHU, BROP"
+prasannamoorathoti,Prasannamoorathoti,director,1,CALN
+prasanth-varma,Prasanth Varma,director,2,"CDPW, CYPJ"
+prashant-kumar,Prashant Kumar,director,1,CZJL
+prashanth-mandava,Prashanth Mandava,director,1,BGZH
+prashanth-neel,Prashanth Neel,director,1,CFDG
+pratap,Pratap,director,1,VGQ
+prathani-ramakrishna-goud,Prathani Ramakrishna Goud,director,3,"BESH, BGOT, BDWX"
+prathap-k-pothan,Prathap K. Pothan,director,2,"BJPH, AFPZ"
+prathap-pothan,Prathap Pothan,director,5,"BJOF, BJPJ, BEWF, BEBS, BHQU"
+praveen-gandhi,Praveen Gandhi,director,1,BJZP
+praveen-kanth,Praveen Kanth,director,2,"BIRV, BGSL"
+praveen-nayak,Praveen Nayak,director,1,BGSS
+praveen-pappan,Praveen Pappan,director,1,BHPQ
+praveen-sattaru,Praveen Sattaru,director,5,"AXRZ, BAML, BHCB, BIWM, BKWX"
+praveen-sri,Praveen Sri,director,1,AXMB
+prawaal-raman,Prawaal Raman,director,1,BJIA
+prawin-cheruku,Prawin Cheruku,director,1,CULN
+preetham,Preetham,director,1,BFOR
+prem-bhagirath,Prem Bhagirath,director,1,CWNF
+prem-chand,Prem Chand,director,1,CSBH
+prem-kumar,Prem Kumar,director,1,BDWU
+prem-raj,Prem Raj,director,1,AZAF
+premchand,Premchand,director,3,"BDFM, BJHX, BECA"
+premchand-areddy,Premchand Areddy,director,1,CDDZ
+premsai,Premsai,director,1,BEON
+pria-somiah,Pria Somiah,director,1,CYSA
+pridhvi-sunain-zoro,Pridhvi Sunain Zoro,director,1,CTFZ
+prithviraj,Prithviraj,director,1,BJKC
+priya-krishnaswamy,Priya Krishnaswamy,director,2,"CQFI, BKMH"
+priya-saran,Priya Saran,director,1,AXNA
+priyadarshan,Priyadarshan,director,8,"AGCA, BGLS, CVYT, AGLH, BDTX"
+priyadarshi,Priyadarshi,director,1,CUTE
+priyadarshini-ram,Priyadarshini Ram,director,2,"BJGD, AVMK"
+puli-amruth,Puli Amruth,director,1,BFMV
+puranam-subrahmanya-sharma,Puranam Subrahmanya Sharma,director,2,"OIN, TXI"
+puranam-surya,Puranam Surya,director,1,AJOV
+puratshidasan,Puratshidasan,director,1,YPV
+puri-jagannadh,Puri Jagannadh,director,4,"BKNV, BKVN, CBZI, DBVJ"
+puri-jagannath,Puri Jagannath,director,26,"ARAJ, ARAO, ARQS, ASDL, ASNT"
+purnesh-konathala,Purnesh Konathala,director,1,BAWT
+purushotham,Purushotham,director,1,BEAP
+pushpa-vasagan,Pushpa Vasagan,director,1,BGMR
+r-k,R K,director,1,CGYS
+r-ajay-gyanamuthu,R. Ajay Gyanamuthu,director,1,BGOF
+r-aravindraj,R. Aravindraj,director,5,"BGQT, BIVU, BHCH, BHLZ, BHTH"
+r-balki,R. Balki,director,1,BWXI
+r-balu,R. Balu,director,1,BIXB
+r-bhaskaran-dir,R. Bhaskaran (Dir),director,1,BFID
+r-chandra,R. Chandra,director,1,BHNN
+r-chandru,R. Chandru,director,4,"BEFG, BPMM, BHOB, CYGG"
+r-ganapathi,R. Ganapathi,director,1,BEXZ
+r-indrasena,R. Indrasena,director,1,CHSA
+r-k-selvamani,R. K. Selvamani,director,1,BJXZ
+r-kannan,R. Kannan,director,5,"BJMU, BIDF, BHSN, BDIF, BIKV"
+r-krishna-maya,R. Krishna Maya,director,1,BGBF
+r-krishna-murthy,R. Krishna Murthy,director,1,BGCZ
+r-madan-kumar,R. Madan Kumar,director,1,BFHL
+r-manoj-babu,R. Manoj Babu,director,1,BITZ
+r-mohan,R. Mohan,director,1,BGXW
+r-nagendra-rao,R. Nagendra Rao,director,4,"GON, GVQ, IMK, BHJF"
+r-nani-krishna,R. Nani Krishna,director,1,BIOS
+r-narayana-murthy,R. Narayana Murthy,director,30,"AAQL, ACLT, ADOH, AELY, AGII"
+r-padmanaban,R. Padmanaban,director,2,"FPR, GQB"
+r-pandyarajan,R. Pandyarajan,director,4,"BGCG, BHMZ, BEYM, BDOL"
+r-parthipan,R. Parthipan,director,4,"BGIF, BDNG, BEUI, BEKA"
+r-pattabhi-raman-pattu,R. Pattabhi Raman (Pattu),director,2,"BINA, BGAT"
+r-prakash,R. Prakash,director,1,GGF
+r-raghu,R. Raghu,director,2,"BJKS, BDPH"
+r-raghu-raj,R. Raghu Raj,director,1,ASEI
+r-raghuraj,R. Raghuraj,director,1,CWGV
+r-ramamurthy,R. Ramamurthy,director,1,BFDP
+r-ramesh-kumar,R. Ramesh Kumar,director,1,BJBB
+r-ranjith-kumar,R. Ranjith Kumar,director,1,BIBH
+r-samala,R. Samala,director,2,"BHPC, BSVZ"
+r-seetarama-raju,R. Seetarama Raju,director,1,BIVY
+r-selvam,R. Selvam,director,1,BEDF
+r-senthilnadan,R. Senthilnadan,director,1,BLDE
+r-shankar,R. Shankar,director,1,BENP
+r-srinivas,R. Srinivas,director,2,"BJLY, CPOT"
+r-srinivasa-rao,R. Srinivasa Rao,director,1,BJLO
+r-srinu,R. Srinu,director,1,BEVP
+r-sukh-bhatt,R. Sukh Bhatt,director,1,BHVA
+r-sundar-rajan,R. Sundar Rajan,director,8,"BGHO, BFVI, BJIT, BJQK, BJSD"
+r-sundaram,R. Sundaram,director,3,"MWV, BKBJ, BGOJ"
+r-sundarrajan,R. Sundarrajan,director,1,BJZN
+r-surya-kiran,R. Surya Kiran,director,5,"ASYU, ATUF, AUYW, AVJI, BGHX"
+r-tharani-rao,R. Tharani Rao,director,1,BIPS
+r-thyagarajan,R. Thyagarajan,director,17,"BHYG, THU, TPI, BJNI, UNW"
+r-tulasi-kumar,R. Tulasi Kumar,director,2,"BHMO, BGGE"
+r-udaykanth,R. Udaykanth,director,1,ARSF
+r-velraj,R. Velraj,director,1,BGPF
+r-venu,R. Venu,director,2,"BEJA, BGYA"
+r-vital,R. Vital,director,1,ZAJ
+r-c-shakthi,R.C. Shakthi,director,5,"BFIU, BESK, BFZF, BEKF, BGPH"
+r-j-prasad,R.J. Prasad,director,1,BGPO
+r-k-babu,R.K. Babu,director,1,BEJW
+r-k-bathula,R.K. Bathula,director,2,"BHJI, BEFQ"
+r-k-kampally,R.K. Kampally,director,1,CBPM
+r-k-malineni,R.K. Malineni,director,2,"BSWZ, BGIQ"
+r-k-selvamani,R.K. Selvamani,director,9,"BFYC, AGPS, AIZP, BGMG, BJHL"
+r-m-krishnaswamy,R.M Krishnaswamy,director,1,IQF
+r-m-krishna-swamy,R.M. Krishna Swamy,director,2,"BEIW, KXL"
+r-m-krishnaswamy,R.M. Krishnaswamy,director,1,GVB
+r-m-kumar,R.M. Kumar,director,1,BJUB
+r-p-patnaik,R.P. Patnaik,director,5,"BDLS, BJJF, AXHV, BGEU, BHYY"
+r-r-jarugula,R.R. Jarugula,director,2,"BSJZ, BHHS"
+r-r-shinde,R.R. Shinde,director,2,"ARHE, BJDF"
+r-s-bhuvan,R.S. Bhuvan,director,1,BHWL
+r-s-durai-senthil-kumar,R.S. Durai Senthil Kumar,director,1,BKOB
+r-s-ilavarasan,R.S. Ilavarasan,director,1,BJZK
+r-s-jayagopal,R.S. Jayagopal,director,1,BGIK
+r-s-junnarkar,R.S. Junnarkar,director,1,ELD
+r-s-mani,R.S. Mani,director,2,"BJTY, BGUT"
+r-s-naidu,R.S. Naidu,director,1,CFZU
+r-s-prakash,R.S. Prakash,director,1,DMF
+r-s-raju,R.S. Raju,director,2,"BIUV, BGGA"
+r-s-ramaraju,R.S. Ramaraju,director,2,"AFPH, AIHR"
+r-t-narayana-murthy,R.T. Narayana Murthy,director,1,BFAR
+r-t-nesan,R.T. Nesan,director,1,BDBP
+r-v-subbu,R.V. Subbu,director,1,BGEV
+r-v-subrahmanyam,R.V. Subrahmanyam,director,1,BHSL
+r-v-subramanyam,R.V. Subramanyam,director,2,"BOMB, BKZO"
+r-v-uday-kumar,R.V. Uday Kumar,director,11,"BHQQ, BEWL, BHXE, BFLD, BJMI"
+r-x-sundar,R.X. Sundar,director,1,BFEP
+raadha,Raadha,director,1,CYSI
+raaja-kiran,Raaja Kiran,director,2,"CBAH, DBQO"
+raam-reddy,Raam Reddy,director,1,BAAC
+rachana-deshpande,Rachana Deshpande,director,1,BXKU
+rachard-fleisoner,Rachard Fleisoner,director,1,BGSW
+radha-bharathi,Radha Bharathi,director,2,"BIQB, BIWX"
+radha-krishna,Radha Krishna,director,1,BKYO
+radha-krishna-jagarlamudi,Radha Krishna Jagarlamudi,director,4,"BBCF, CAFF, CZOG, CZOH"
+radha-mohan,Radha Mohan,director,5,"BFDU, AWOW, AYQN, BFOO, BGAA"
+radhakrishna,Radhakrishna,director,3,"ARNR, BJIL, BIUS"
+radhakrishna-kumar,Radhakrishna Kumar,director,1,BHYO
+radhaswamy-avula,Radhaswamy Avula,director,1,BJCE
+rafi,Rafi,director,5,"BGVZ, BJVP, BEPJ, BFHK, BIFT"
+raghav-peri,Raghav Peri,director,3,"CUTK, BOTC, BNNF"
+raghava,Raghava,director,1,ADDB
+raghava-lawrence,Raghava Lawrence,director,7,"AUUE, AVAU, BFUN, BEVD, BALY"
+raghavendra-k-gollahalli,Raghavendra K. Gollahalli,director,2,"BXJZ, BYCJ"
+raghavendra-pusuluri,Raghavendra Pusuluri,director,1,CULC
+raghu,Raghu,director,1,CXQC
+raghu-jaya,Raghu Jaya,director,1,CXTU
+raghu-nandan,Raghu Nandan,director,1,BFLF
+raghunandan-gudur,Raghunandan Gudur,director,1,BNOQ
+raghunath,Raghunath,director,1,BHPI
+raghupati-surya-prakash,Raghupati Surya Prakash,director,3,"CZS, DAI, DLB"
+raghuram,Raghuram,director,1,BJLP
+rahi-anil-barve,Rahi Anil Barve,director,1,BLEV
+rahul,Rahul,director,1,BLBX
+rahul-kumara-swamy,Rahul Kumara Swamy,director,1,BDGW
+rahul-r-khagwal,Rahul R. Khagwal,director,1,CGAC
+rahul-raj-vanam,Rahul Raj Vanam,director,3,"CEOP, CHKC, CHEU"
+rahul-ram,Rahul Ram,director,1,BQMH
+rahul-ravindran,Rahul Ravindran,director,2,"CEAW, CZER"
+rahul-sankrityan,Rahul Sankrityan,director,2,"BIHC, CHEJ"
+rahul-singh-khagwal,Rahul Singh Khagwal,director,1,BIFV
+raj,Raj,director,1,BHCD
+raj-aditya,Raj Aditya,director,3,"ARQR, AVQP, BDPP"
+raj-bharath,Raj Bharath,director,5,"XEZ, BHJX, AAGD, AALX, BFJA"
+raj-kamal-guntuku,Raj Kamal Guntuku,director,1,BREG
+raj-kandukuri,Raj Kandukuri,director,2,"BNNH, BHGN"
+raj-kapoor,Raj Kapoor,director,4,"BIDD, BDKC, BEIB, BDGF"
+raj-kapoor-tamil-dir,Raj Kapoor (Tamil Dir),director,1,AVWN
+raj-kiran,Raj Kiran,director,1,DBQO
+raj-madhiraju,Raj Madhiraju,director,2,"BAHF, BHBN"
+raj-minkaf,Raj Minkaf,director,1,BJGF
+raj-narendra,Raj Narendra,director,2,"AZOR, BEKT"
+raj-pippalla,Raj Pippalla,director,2,"AWJR, BIFM"
+raj-rachakonda,Raj Rachakonda,director,1,CZDT
+raj-satya,Raj Satya,director,1,BLAF
+raj-sridhar,Raj Sridhar,director,1,BFVG
+raj-virat,Raj Virat,director,1,BZKK
+raja,Raja,director,1,BEJY
+raja-boyidi,Raja Boyidi,director,1,BRWS
+raja-chandra,Raja Chandra,director,25,"SWR, TZL, UBM, UXK, WZL"
+raja-kiran,Raja Kiran,director,1,BISB
+raja-kishore,Raja Kishore,director,2,"BJRC, BHDJ"
+raja-krishna,Raja Krishna,director,1,CXNL
+raja-krishnamurthy,Raja Krishnamurthy,director,1,BIOZ
+raja-naidu,Raja Naidu,director,6,"BEQQ, BJUQ, BEVR, BGGJ, BGZJ"
+raja-nawathe,Raja Nawathe,director,1,BJYS
+raja-nene,Raja Nene,director,1,BFWV
+raja-palepu,Raja Palepu,director,1,BXNY
+raja-rao-pagidipalli,Raja Rao Pagidipalli,director,6,"BRNG, BRNW, BUJG, BWLN, BYMT"
+raja-sandow,Raja Sandow,director,1,DGV
+raja-sing,Raja Sing,director,1,BROV
+raja-sridhar,Raja Sridhar,director,1,YMZ
+raja-tagore,Raja Tagore,director,1,BCDC
+raja-vamsi,Raja Vamsi,director,1,BEEO
+raja-vannem-reddy,Raja Vannem Reddy,director,10,"BHZE, ARFR, ARLR, ATJM, AUGF"
+rajababu,Rajababu,director,1,BGDY
+rajachandra,Rajachandra,director,1,BIXY
+rajakumar,Rajakumar,director,1,RQB
+rajakumaran,Rajakumaran,director,1,BGRR
+rajan,Rajan,director,2,"BGAY, BHKP"
+rajaram,Rajaram,director,1,BDTJ
+rajaram-dasu,Rajaram Dasu,director,1,BJNC
+rajarao,Rajarao,director,1,BWB
+rajasekhar,Rajasekhar,director,14,"AMOM, YSS, BJEZ, BJUX, BGKM"
+rajasekhar-maarisetty,Rajasekhar Maarisetty,director,1,CWGV
+rajasekhar-reddy,Rajasekhar Reddy,director,4,"YNZ, ZVK, ABZM, DATU"
+rajasena,Rajasena,director,2,"BFMC, BEMW"
+rajashekar,Rajashekar,director,1,CGAL
+rajashri,Rajashri,director,1,YQT
+rajasimha-tadinada,Rajasimha Tadinada,director,1,BJOC
+rajasri-writer,Rajasri (Writer),director,5,"QDQ, RRT, BIZS, BJDE, BHSA"
+rajeev-anchal,Rajeev Anchal,director,3,"BHSK, BIYR, BHEK"
+rajeev-kumar,Rajeev Kumar,director,1,AOSM
+rajeev-menon,Rajeev Menon,director,2,"BGTT, BDEQ"
+rajendra-dharshan,Rajendra Dharshan,director,2,"BIHG, BFHG"
+rajendra-kumar,Rajendra Kumar,director,3,"VCM, ARSN, AXLB"
+rajendra-prasad,Rajendra Prasad,director,1,AJQO
+rajendra-reddy,Rajendra Reddy,director,1,BERQ
+rajendra-singh,Rajendra Singh,director,1,BIBA
+rajesh,Rajesh,director,2,"PVF, BHIZ"
+rajesh-jagannadham,Rajesh Jagannadham,director,1,DBAU
+rajesh-lingam,Rajesh Lingam,director,1,BILA
+rajesh-m-selva,Rajesh M. Selva,director,2,"BDXS, CYOE"
+rajesh-nadendla,Rajesh Nadendla,director,1,CYRC
+rajesh-pillai,Rajesh Pillai,director,1,BOSN
+rajesh-puli,Rajesh Puli,director,2,"BFCV, BVSW"
+rajesh-raj,Rajesh Raj,director,1,BQME
+rajesh-touchriver,Rajesh Touchriver,director,6,"BEBU, BGFQ, BAKU, BOIQ, BHZW"
+rajireddy-gurram-dr,Rajireddy Gurram (Dr),director,1,BDZH
+rajiv-chilaka,Rajiv Chilaka,director,3,"CSBE, BNYE, BTXV"
+rajkiran-dir,Rajkiran (Dir),director,1,BEXT
+rajkrishna,Rajkrishna,director,1,AXUP
+rajkumar,Rajkumar,director,4,"BHJN, BJMA, AVDB, BEFO"
+rajkumar-ambati,Rajkumar Ambati,director,1,BIOW
+rajkumar-gudapati,Rajkumar Gudapati,director,2,"TIK, BEGB"
+rajnesh-domalpalli,Rajnesh Domalpalli,director,1,AQFF
+rajpathi,Rajpathi,director,1,BENO
+rajrajan,Rajrajan,director,1,CXYR
+rajshekhar-thangella,Rajshekhar Thangella,director,1,CZRF
+rajsudmon,Rajsudmon,director,1,CDSR
+raju,Raju,director,2,"CUGE, BPGS"
+raju-kumpatla,Raju Kumpatla,director,1,BIHI
+raju-rajendra-prasad,Raju Rajendra Prasad,director,2,"AVWD, BDCE"
+raju-sundaram,Raju Sundaram,director,1,BGGC
+raju-vamsi,Raju Vamsi,director,1,BENN
+raju-voopati,Raju Voopati,director,1,ASPX
+rakesh-madhav,Rakesh Madhav,director,1,CWRV
+rakesh-prasad,Rakesh Prasad,director,3,"CSCJ, CSSH, CUGH"
+rakesh-raj,Rakesh Raj,director,1,CZVR
+rakesh-roshan,Rakesh Roshan,director,3,"BIME, BGUV, BGQK"
+rakesh-sashi,Rakesh Sashi,director,1,CHSW
+rakesh-sasi,Rakesh Sasi,director,1,BDMN
+rakesh-sawant,Rakesh Sawant,director,1,BFDY
+rakesh-srinivas,Rakesh Srinivas,director,1,BFWZ
+ram,Ram,director,3,"BJQI, BGFN, BLDD"
+ram-abbaraju,Ram Abbaraju,director,1,CXOA
+ram-chowdary,Ram Chowdary,director,1,DBHA
+ram-gopal-varma,Ram Gopal Varma,director,42,"AEGU, AFXN, AOIZ, AGFS, AHTP"
+ram-katru,Ram Katru,director,1,CBTI
+ram-kumar,Ram Kumar,director,1,CZRO
+ram-mohan-rao-gullapalli,Ram Mohan Rao Gullapalli,director,17,"USW, AMQL, BJPT, WOX, XKY"
+ram-satya,Ram Satya,director,1,BEUP
+ram-siva,Ram Siva,director,1,BEUQ
+ram-suri,Ram Suri,director,1,BGLM
+ram-laxman-fights,Ram-Laxman (Fights),director,1,BITM
+rama-chandurudu,Rama Chandurudu,director,1,CRWI
+ramachandra-takur,Ramachandra Takur,director,1,BFUF
+ramachandrudu,Ramachandrudu,director,2,"BILK, BDDF"
+ramadasu,Ramadasu,director,1,BHNZ
+ramakrishna,Ramakrishna,director,3,"CSPD, BIBO, BPHD"
+ramakrishna-bothsa,Ramakrishna Bothsa,director,1,BKNB
+ramakrishna-botsa,Ramakrishna Botsa,director,1,BWIO
+ramakrishna-machakanti,Ramakrishna Machakanti,director,2,"AWLH, BJAU"
+ramakrishna-reddy-guda,Ramakrishna Reddy Guda,director,2,"BHCC, BJLK"
+raman,Raman,director,1,BEYH
+ramana,Ramana,director,5,"APZZ, ARJI, CQMF, BDJH, BFPO"
+ramana-dumpala,Ramana Dumpala,director,2,"AZEH, DAMV"
+ramana-mogili,Ramana Mogili,director,3,"BGBX, BDUM, CYUN"
+ramana-salva,Ramana Salva,director,2,"AYVM, BDFZ"
+ramana-artbyramana,Ramana.artbyramana,director,1,CAYV
+ramanababu,Ramanababu,director,1,ABBA
+ramanandam,Ramanandam,director,1,BHK
+ramanarayana,Ramanarayana,director,2,"BIXE, BFWM"
+ramanarayanan,Ramanarayanan,director,34,"BIJU, BEBA, BJVE, YZE, BIAB"
+ramanaw-mallam,Ramanaw Mallam,director,1,CCWV
+ramanujapuram-shashank,Ramanujapuram Shashank,director,1,BPCN
+ramaraju,Ramaraju,director,2,"BERT, BFYR"
+rambabu,Rambabu,director,1,AXFZ
+ramchandar,Ramchandar,director,1,BJNA
+ramesh-ahuja,Ramesh Ahuja,director,1,BDES
+ramesh-ankamu,Ramesh Ankamu,director,1,BHKE
+ramesh-aravind,Ramesh Aravind,director,2,"BFFG, BVBW"
+ramesh-cheppala,Ramesh Cheppala,director,1,CDSZ
+ramesh-das,Ramesh Das,director,2,"BIMC, BFCI"
+ramesh-gopi,Ramesh Gopi,director,1,CEXO
+ramesh-krishna,Ramesh Krishna,director,4,"BIUN, BJSI, BJIR, BGSC"
+ramesh-muguda,Ramesh Muguda,director,1,BVKN
+ramesh-nuthalapati,Ramesh Nuthalapati,director,2,"BJHI, BVLS"
+ramesh-raja,Ramesh Raja,director,1,BFPS
+ramesh-raja-suganda,Ramesh Raja Suganda,director,1,BFMR
+ramesh-raparthy,Ramesh Raparthy,director,1,BIYV
+ramesh-sarangan,Ramesh Sarangan,director,1,AQOT
+ramesh-thummala,Ramesh Thummala,director,2,"BESX, COAF"
+ramesh-varma,Ramesh Varma,director,5,"AUAZ, AWXV, AZKP, BVLG, DAGV"
+ramesh-varma-kiran-poster-ads,Ramesh Varma (Kiran Poster Ads),director,1,BHKO
+ramineedu-gutha,Ramineedu Gutha,director,13,"JDX, JLH, KIO, KPA, LXK"
+ramineni-netaji,Ramineni Netaji,director,1,BGKB
+ramkumar,Ramkumar,director,4,"BGPC, AWEN, AXWJ, CZUL"
+ramnath,Ramnath,director,1,BHNE
+ramoji-suresh,Ramoji Suresh,director,1,CHBO
+ramprasad-gottimukkala,Ramprasad Gottimukkala,director,7,"ARBN, ASKK, ASTC, ATIH, AULG"
+rams-rathod,Rams Rathod,director,1,BEXD
+ramsetty,Ramsetty,director,1,BHTS
+ramu,Ramu,director,3,"BFEV, BJOO, BIBS"
+ramu-kariat,Ramu Kariat,director,1,TCR
+ramu-kona,Ramu Kona,director,1,BSLA
+ramu-koppula,Ramu Koppula,director,1,CEKD
+ran-haward,Ran Haward,director,1,BHVW
+ranganath,Ranganath,director,1,ATZU
+rangaraj,Rangaraj,director,1,BJVM
+ranji-phanikar,Ranji Phanikar,director,1,BDTB
+ranjith-belluri,Ranjith Belluri,director,2,"CTKG, BDLQ"
+ranjith-pasam,Ranjith Pasam,director,6,"CTOR, BBHT, AZNE, BAIN, BNIO"
+rao,Rao,director,1,CSHF
+rao-c-s-r,Rao C.S.R.,director,1,CJKV
+rao-rama,Rao Rama,director,1,BPTC
+rasamayi-balakishan,Rasamayi Balakishan,director,1,BFGF
+rashmi-mayur-koyyada,Rashmi Mayur Koyyada,director,1,CZBX
+rasool-alam,Rasool Alam,director,1,BEMI
+rasool-ellore,Rasool Ellore,director,3,"ASVV, ATSK, BHLU"
+ratna-chari-pammi,Ratna Chari Pammi,director,1,CGBE
+ratna-shekar,Ratna Shekar,director,1,CODD
+ratnachari-pammi,Ratnachari Pammi,director,1,BICY
+ratnakar-madhu,Ratnakar - Madhu,director,1,BIHD
+ratnakar-rao,Ratnakar Rao,director,1,CXYP
+raveendran,Raveendran,director,1,TUY
+ravi,Ravi,director,7,"NLA, BJRO, BDQX, BERN, BEKS"
+ravi-anand,Ravi Anand,director,1,CBJZ
+ravi-babu,Ravi Babu,director,4,"BPXD, BSMT, CDJR, CWLD"
+ravi-basrur,Ravi Basrur,director,1,CATX
+ravi-chakravarthy,Ravi Chakravarthy,director,1,BDWQ
+ravi-charan-meripo,Ravi Charan Meripo,director,1,BDHD
+ravi-chavali,Ravi Chavali,director,10,"BHKN, BFIX, BEAR, BIUO, BKBI"
+ravi-chennuri,Ravi Chennuri,director,1,BHBT
+ravi-chopra,Ravi Chopra,director,1,BEGE
+ravi-gundaboina,Ravi Gundaboina,director,1,CGTE
+ravi-kiran-kola,Ravi Kiran Kola,director,1,DAGG
+ravi-kiran-raju,Ravi Kiran Raju,director,1,CUZU
+ravi-kishore,Ravi Kishore,director,1,BRDS
+ravi-kishore-chandina,Ravi Kishore Chandina,director,1,CDNP
+ravi-kumar-palutla,Ravi Kumar Palutla,director,1,DBIY
+ravi-prakash,Ravi Prakash,director,1,BNAA
+ravi-rachi,Ravi Rachi,director,1,CYQB
+ravi-sen,Ravi Sen,director,1,BERU
+ravi-sharma,Ravi Sharma,director,2,"BDMA, BHGU"
+ravi-srivatsav,Ravi Srivatsav,director,1,BEXE
+ravi-teja-siripuram,Ravi Teja Siripuram,director,1,CYPA
+ravi-tenali,Ravi Tenali,director,1,BGLD
+ravi-varma,Ravi Varma,director,1,BDMD
+ravi-yadav,Ravi Yadav,director,1,BIGK
+ravichandran,Ravichandran,director,2,"AGHF, BFRT"
+ravikanth-nagaich,Ravikanth Nagaich,director,2,"NLH, BHQD"
+ravikanth-perepu,Ravikanth Perepu,director,1,BJNS
+ravikiran-venkata,Ravikiran Venkata,director,1,BWPS
+ravikumar-pediredla,Ravikumar Pediredla,director,1,CGKP
+ravindar,Ravindar,director,1,BIAR
+ravindra-boyapati,Ravindra Boyapati,director,1,CZNN
+ravindrababu,Ravindrababu,director,2,"AAHF, AATH"
+ravindranath,Ravindranath,director,1,BISH
+ravipalli-rambabu,Ravipalli Rambabu,director,1,BIHZ
+raviraja,Raviraja,director,1,BDCD
+raviraja-pinisetty,Raviraja Pinisetty,director,39,"ZIG, ZUV, AAZD, ABGJ, ABQE"
+raviteja-akula,Raviteja Akula,director,1,BQJY
+raviteja-bharath,Raviteja Bharath,director,1,CYCS
+reddem-yadha-kumar,Reddem Yadha Kumar,director,1,BDUR
+regu,Regu,director,1,BSMD
+relangi-mallik,Relangi Mallik,director,2,"BKBW, AGWJ"
+relangi-narasimha-rao,Relangi Narasimha Rao,director,68,"BGJN, VXN, WKO, WNF, WOW"
+remo-d-souza,Remo D. Souza,director,1,BIOX
+renny-harlin,Renny Harlin,director,2,"BDIY, BJJJ"
+renuka-sharma,Renuka Sharma,director,5,"BFOY, BDDX, AHFA, CMKS, BDOC"
+revuri-nageswara-rao,Revuri Nageswara Rao,director,1,BGRX
+rian-johnson,Rian Johnson,director,1,BGRS
+richard-attenborough,Richard Attenborough,director,1,BELU
+ridley-scott,Ridley Scott,director,1,BFRH
+rif-coogan,Rif Coogan,director,1,BISZ
+ringo-lam,Ringo Lam,director,1,BFML
+rintu-thomas,Rintu Thomas,director,1,CUZR
+rishi,Rishi,director,2,"BEHZ, BKXL"
+rishikeshwar-yogi,Rishikeshwar Yogi,director,1,CYAZ
+ritesh-rana,Ritesh Rana,director,1,CZGA
+rithvik-reddy,Rithvik Reddy,director,1,BOOE
+rixon-xavier,Rixon Xavier,director,1,BSKE
+rob-cohen,Rob Cohen,director,1,BGRL
+robert-clouse,Robert Clouse,director,1,BIWG
+robert-ginty,Robert Ginty,director,1,BFKC
+robert-hayes,Robert Hayes,director,1,BDDO
+robert-kurtzman,Robert Kurtzman,director,1,BJAF
+robert-rajasekhar,Robert Rajasekhar,director,1,BJQO
+rockeshh-reddy,Rockeshh Reddy,director,1,BWUK
+rocksen,Rocksen,director,1,BFBO
+rohit-jugraj,Rohit Jugraj,director,1,BEIJ
+rohit-nandakumar,Rohit Nandakumar,director,1,CFFC
+rohit-penumatsa,Rohit Penumatsa,director,4,"BYZG, CCIN, CDKL, CGBZ"
+roland-emmerich,Roland Emmerich,director,1,BIYB
+rom-bhimana,Rom Bhimana,director,2,"AYIZ, BKQR"
+roman-law,Roman Law,director,1,BDJY
+ron-howard,Ron Howard,director,1,BHFR
+ronny-yu,Ronny Yu,director,1,BFYB
+roy,Roy,director,1,BNWI
+rudrapatla-venugopal,Rudrapatla Venugopal,director,2,"CWTB, CZIR"
+ruggero-deodato,Ruggero Deodato,director,1,BHLE
+rupesh-paul,Rupesh Paul,director,2,"BFJL, BUBI"
+rushi-krishna,Rushi Krishna,director,1,CGCE
+s-chidambaram,S Chidambaram,director,1,BHJJ
+s-amirjan,S. AmirJan,director,6,"AAFQ, BFVC, BJOL, BIDX, BJZZ"
+s-anil,S. Anil,director,1,BDJF
+s-babu,S. Babu,director,2,"BGWD, BFXB"
+s-balachandar,S. Balachandar,director,1,HXU
+s-elil,S. Elil,director,4,"BHSG, BIEA, BJPD, BGKG"
+s-fattelal,S. Fattelal,director,1,BGEO
+s-gopalreddy,S. Gopalreddy,director,1,ATKD
+s-gopichand,S. Gopichand,director,3,"AJPE, APDE, BDEZ"
+s-harish-shankar,S. Harish Shankar,director,5,"AUTO, AYYN, AZXT, BFWO, BIQP"
+s-jagadish,S. Jagadish,director,2,"BDYQ, BHMN"
+s-jagannath,S. Jagannath,director,2,"DGJ, BCDE"
+s-janakiram,S. Janakiram,director,1,PEX
+s-kailash,S. Kailash,director,1,BDUP
+s-koti,S. Koti,director,1,BINR
+s-krishna-kumar,S. Krishna Kumar,director,1,BXSF
+s-krishnam-raju,S. Krishnam Raju,director,1,ABBJ
+s-kumar,S. Kumar,director,1,BJCV
+s-mahendar,S. Mahendar,director,1,BGSI
+s-mahesh-surya,S. Mahesh Surya,director,1,BGYR
+s-manikantan,S. Manikantan,director,1,BDZT
+s-manivasan,S. Manivasan,director,1,BGTI
+s-marella,S. Marella,director,1,BDKS
+s-murali-mohan,S. Murali Mohan,director,1,BJPM
+s-nagarajan,S. Nagarajan,director,1,BFXP
+s-narayan,S. Narayan,director,2,"BEDD, BFOM"
+s-nivas,S. Nivas,director,1,BHKW
+s-noushad,S. Noushad,director,1,BXCC
+s-rajanikanth,S. Rajanikanth,director,6,"HUT, HZM, IGP, JLN, KCE"
+s-rajendra,S. Rajendra,director,1,BFVY
+s-rajendran,S. Rajendran,director,1,BHVT
+s-ramanathan,S. Ramanathan,director,1,PGZ
+s-rangaswamy,S. Rangaswamy,director,1,CAV
+s-rao-kodukula,S. Rao Kodukula,director,1,BFAJ
+s-ravi,S. Ravi,director,1,BDRY
+s-ravi-teja,S. Ravi Teja,director,2,"AANL, BGNA"
+s-saravanan,S. Saravanan,director,1,BISI
+s-sasi-kumar,S. Sasi Kumar,director,1,BITB
+s-senthilnathan,S. Senthilnathan,director,1,BDHG
+s-shankar,S. Shankar,director,10,"BJTH, BJZB, BFTS, BFAZ, BIIY"
+s-shankar-dir,S. Shankar (Dir),director,1,BBCE
+s-shyam-prasad,S. Shyam Prasad,director,1,DAHQ
+s-soundararajan,S. Soundararajan,director,3,"DTD, FSS, GGT"
+s-srinivasa-reddy,S. Srinivasa Reddy,director,2,"BJAB, BEQY"
+s-umesh-kumar,S. Umesh Kumar,director,2,"BGCD, BHTI"
+s-v-krishna-reddy,S. V. Krishna Reddy,director,1,AOZS
+s-veerendra-reddy,S. Veerendra Reddy,director,2,"BEML, CDJN"
+s-a-chandramohan,S.A. Chandramohan,director,1,BJRJ
+s-a-chandrasekhar,S.A. Chandrasekhar,director,22,"VNP, WIW, XXL, YMA, YMQ"
+s-a-chandrashekhar,S.A. Chandrashekhar,director,2,"CKIC, CKIE"
+s-a-murugesh,S.A. Murugesh,director,1,BICU
+s-a-rajkannu,S.A. Rajkannu,director,1,BFUK
+s-a-subbaraman,S.A. Subbaraman,director,1,BDHO
+s-d-aravind,S.D. Aravind,director,1,BHES
+s-d-gousuddin,S.D. Gousuddin,director,1,BIKA
+s-d-lal,S.D. Lal,director,21,"JRK, LVZ, LXL, LZG, BJWM"
+s-d-ramesh-selvan,S.D. Ramesh Selvan,director,1,BEZZ
+s-d-sabha,S.D. Sabha,director,2,"BDJQ, BFZT"
+s-d-vijay-milton,S.D. Vijay Milton,director,1,BFAI
+s-i-mahendra,S.I. Mahendra,director,1,BJGK
+s-j-balu,S.J. Balu,director,1,BDHQ
+s-j-surya,S.J. Surya,director,3,"BFMM, ARRV, ATKF"
+s-k-bagavan,S.K. Bagavan,director,1,BEQA
+s-k-basheed,S.K. Basheed,director,2,"BEDX, CFOG"
+s-k-satya,S.K. Satya,director,1,BKQH
+s-m-anil-panja,S.M. Anil Panja,director,2,"BJGM, BJEN"
+s-m-santanam,S.M. Santanam,director,1,BDCL
+s-m-sriramulu-naidu,S.M. Sriramulu Naidu,director,4,"BEZS, HBC, JTM, BHSR"
+s-n-arjun,S.N. Arjun,director,1,BHEP
+s-n-s-sastry,S.N.S. Sastry,director,1,AMHZ
+s-p-chittibabu,S.P. Chittibabu,director,3,"VCP, AMQN, WEB"
+s-p-hosimin,S.P. Hosimin,director,1,BGKC
+s-p-jananathan,S.P. Jananathan,director,2,"AUKM, BIKY"
+s-p-muthuraman,S.P. Muthuraman,director,35,"BIKX, BJQT, BJGY, BJCZ, AMUD"
+s-p-rajaram,S.P. Rajaram,director,3,"UGK, AHLF, AJPP"
+s-p-shankar,S.P. Shankar,director,2,"BEDW, BDMY"
+s-p-r-prasad,S.P.R. Prasad,director,1,BEIL
+s-r-armugam,S.R. Armugam,director,1,BEIN
+s-r-charan-reddy,S.R. Charan Reddy,director,1,BIBQ
+s-r-pinisetty,S.R. Pinisetty,director,1,JPX
+s-r-prabhakaran,S.R. Prabhakaran,director,1,BIXO
+s-r-puttanna-kanagal,S.R. Puttanna Kanagal,director,6,"LSC, NWK, BHPF, BEKY, BDZD"
+s-r-selva-raj,S.R. Selva Raj,director,1,CQJT
+s-s-balan,S.S. Balan,director,4,"OYC, PSF, QRB, ROU"
+s-s-david,S.S. David,director,2,"BJKW, BFPW"
+s-s-devadas,S.S. Devadas,director,1,PZB
+s-s-dharwadkar,S.S. Dharwadkar,director,1,BGPR
+s-s-kanchi,S.S. Kanchi,director,2,"COSY, BYBR"
+s-s-kumar,S.S. Kumar,director,1,AXNN
+s-s-nivas,S.S. Nivas,director,1,AVGA
+s-s-raj-mitran,S.S. Raj Mitran,director,1,BGZF
+s-s-rajamouli,S.S. Rajamouli,director,11,"ARXD, ASYZ, ATOC, ATTL, AUVP"
+s-s-ravi-chandra,S.S. Ravi Chandra,director,10,"AATO, ABZE, ACJX, ADDU, ADMK"
+s-s-ravi-kumar,S.S. Ravi Kumar,director,1,BISX
+s-s-reddy,S.S. Reddy,director,2,"ADPF, BDLM"
+s-s-selva,S.S. Selva,director,1,BFCQ
+s-s-stanley,S.S. Stanley,director,4,"CQED, BDSK, BEXL, BKAX"
+s-s-vasan,S.S. Vasan,director,1,BDJR
+s-s-vikram-gandhi,S.S. Vikram Gandhi,director,2,"BIYJ, AWBC"
+s-s-k-shankar,S.S.K. Shankar,director,1,BDXX
+s-s-r-sharma,S.S.R. Sharma,director,1,NBH
+s-s-v-prasad-lakkana,S.S.V. Prasad Lakkana,director,1,BDLI
+s-t-raja,S.T. Raja,director,1,AGKI
+s-v-krishna-reddy,S.V. Krishna Reddy,director,40,"AOKI, AHZC, AIDV, AIVV, AJAQ"
+s-v-rajendra-singh-babu,S.V. Rajendra Singh Babu,director,9,"BDHF, BING, BIKK, BGAK, ACIJ"
+s-v-ramanan,S.V. Ramanan,director,1,BDWS
+s-v-ramanarao,S.V. Ramanarao,director,1,BHJS
+s-v-rangarao,S.V. Rangarao,director,2,"MJL, MUU"
+s-v-sateesh,S.V. Sateesh,director,1,BTWV
+s-v-suresh,S.V. Suresh,director,1,BOTR
+s-v-s-ramarao,S.V.S. Ramarao,director,2,"DQW, GLV"
+sa-baskaran,Sa Baskaran,director,1,CZHG
+saana-yadhireddy,Saana Yadhireddy,director,5,"APEK, BEYR, BGIT, ARWF, BHYI"
+saba-ayyappan,Saba Ayyappan,director,1,BIUF
+sabhapati,Sabhapati,director,1,BEWV
+sadasiva-rao-koya,Sadasiva Rao Koya,director,5,"AHEX, AHUZ, AIMB, AJEZ, APGU"
+sadha,Sadha,director,1,BOHM
+sadhu-kokila,Sadhu Kokila,director,2,"BGRQ, CTFF"
+sagar,Sagar,director,20,"YAA, YLS, ZXT, AOHZ, AHFE"
+sagar-chandra,Sagar Chandra,director,1,AZPG
+sagar-k-chandra,Sagar K. Chandra,director,1,BKPL
+sagar-r,Sagar R.,director,1,BRMC
+sagar-sailesh,Sagar Sailesh,director,1,DAGB
+sahaja-rao,Sahaja Rao,director,1,CGCY
+sahana-h-s,Sahana H.S.,director,1,BXPE
+sahithi,Sahithi,director,1,ANZK
+sai,Sai,director,1,BDPK
+sai-achyut-chinnari,Sai Achyut Chinnari,director,1,BSYB
+sai-achyuth-chinnari,Sai Achyuth Chinnari,director,1,BDFX
+sai-akshatha,Sai Akshatha,director,1,BKWO
+sai-balaji,Sai Balaji,director,3,"ARJL, ARUR, BNNQ"
+sai-bhanu,Sai Bhanu,director,1,BHTD
+sai-datta,Sai Datta,director,2,"BOUL, BUII"
+sai-ganesh,Sai Ganesh,director,1,BDNE
+sai-karthik,Sai Karthik,director,1,BJGI
+sai-kiran-adivi,Sai Kiran Adivi,director,1,CZVS
+sai-kishore-macha,Sai Kishore Macha,director,1,BIVA
+sai-krishna-k-v,Sai Krishna K.V.,director,1,CDMI
+sai-mohan,Sai Mohan,director,2,"BIKW, BJRV"
+sai-pradeep-mocherla,Sai Pradeep Mocherla,director,1,CDCF
+sai-prakash,Sai Prakash,director,25,"BFUS, BJWE, BGQL, BEMU, AJFN"
+sai-rajesh-neelam,Sai Rajesh Neelam,director,1,BPVJ
+sai-ramani,Sai Ramani,director,1,BEAK
+sai-raojee,Sai Raojee,director,1,TLS
+sai-ravi,Sai Ravi,director,1,ARZT
+sai-sagar,Sai Sagar,director,1,BFUR
+sai-sathyam,Sai Sathyam,director,1,BYYG
+sai-suneel-nimmala,Sai Suneel Nimmala,director,1,CHRC
+sai-venkat,Sai Venkat,director,2,"BIEF, CRLA"
+sai-k-prabhakar,Sai k Prabhakar,director,1,CDIX
+saibaba-sagar,Saibaba Sagar,director,2,"BQZU, BVUF"
+saikiran-adivi,Saikiran Adivi,director,3,"AWFS, AXCJ, BDRW"
+saikrishna-mungara,Saikrishna Mungara,director,1,BFIM
+saikumar-akema,Saikumar Akema,director,1,CZIV
+saiman-west,Saiman West,director,1,BIXL
+sairam-ijju,Sairam Ijju,director,1,CZAZ
+sairam-shanthakumar,Sairam Shanthakumar,director,1,BIWD
+sajid-kureshi,Sajid Kureshi,director,2,"BISY, BHTK"
+saleem-baba,Saleem Baba,director,1,BIFP
+salim-ahmed,Salim Ahmed,director,1,CWPN
+sam-j-chaitanya,Sam J. Chaitanya,director,1,DBUC
+sam-raimi,Sam Raimi,director,2,"BHDC, BIFW"
+sambasiva-rao-cherukuri,Sambasiva Rao Cherukuri,director,2,"AUIT, BJQB"
+sameer,Sameer,director,1,BHOO
+sameer-kumar-divi,Sameer Kumar Divi,director,1,CCVZ
+sameer-shaik,Sameer Shaik,director,1,BJAT
+sami,Sami,director,2,"BHRF, BGJU"
+sammad-mankad,Sammad Mankad,director,1,BIQX
+sampath-nandi,Sampath Nandi,director,4,"AYGU, BALL, BIXP, CAGT"
+sampath-rudra,Sampath Rudra,director,2,"CFAE, CXSA"
+sampath-v-kumar,Sampath V. Kumar,director,1,BKUP
+samudra-kani,Samudra Kani,director,5,"BEFH, BGPA, AYAI, BGZB, BJPN"
+samudrala-raghavacharya,Samudrala Raghavacharya,director,3,"IOU, JKN, LAH"
+samuel-bayer,Samuel Bayer,director,1,BEQE
+samuel-sujeet-paul,Samuel Sujeet Paul,director,1,DBQW
+sandeep-gunnam,Sandeep Gunnam,director,1,AWRS
+sandeep-raj,Sandeep Raj,director,1,CWJZ
+sandeep-reddy-vanga,Sandeep Reddy Vanga,director,1,BKVL
+sangeet-sivan,Sangeet Sivan,director,4,"BIYH, BHLF, BDSZ, BGCR"
+sanjana-reddy,Sanjana Reddy,director,1,BJRG
+sanjay-gupta,Sanjay Gupta,director,1,BDBM
+sanjay-kartik,Sanjay Kartik,director,1,CXJQ
+sanjay-ram,Sanjay Ram,director,1,BFJE
+sanjeev-k-kumar,Sanjeev K. Kumar,director,2,"BNKU, BNHL"
+sanjeev-kumar,Sanjeev Kumar,director,1,CBDX
+sanjeev-megoti,Sanjeev Megoti,director,1,BUID
+sanjeev-reddy,Sanjeev Reddy,director,1,CWJL
+sanjeeva,Sanjeeva,director,2,"BHEI, ATOB"
+sankalp-reddy,Sankalp Reddy,director,2,"CCNQ, CDNO"
+santana-bharathi,Santana Bharathi,director,3,"BDGO, BDNV, BDZM"
+santhi-swaroop,Santhi Swaroop,director,1,BXJX
+santhosh,Santhosh,director,2,"CGRD, DAGP"
+santhosh-p-jayakumar,Santhosh P. Jayakumar,director,1,CXGP
+santhossh-jagarlapudi,Santhossh Jagarlapudi,director,1,CHBO
+santosh,Santosh,director,1,BIVL
+santosh-eubulus,Santosh Eubulus,director,2,"BGCX, BXGC"
+santosh-nelanti,Santosh Nelanti,director,1,BKRP
+santosh-parlawar,Santosh Parlawar,director,3,"BGTV, BFPQ, BJAW"
+santosh-sivan,Santosh Sivan,director,2,"BFOW, BJFD"
+santosh-srinivas,Santosh Srinivas,director,3,"AYUC, BFNE, BQPZ"
+sapan-kumar,Sapan Kumar,director,1,BHIN
+sapan-pasuparthy,Sapan Pasuparthy,director,1,AXXG
+saran,Saran,director,4,"BDHW, BEBP, BGME, BFRS"
+sarath,Sarath,director,29,"AASQ, ABXM, ADKE, ADNS, ADRN"
+saravana-subbaiah,Saravana Subbaiah,director,2,"BJSK, BHOC"
+sardajmaan,Sardajmaan,director,1,BHNS
+saren,Saren,director,1,BEVM
+sargi-badron,Sargi Badron,director,1,BIBP
+sarkar,Sarkar,director,1,BHYN
+sarvabhowma-amanulla,Sarvabhowma-Amanulla,director,1,BERO
+sarvottam-badhami,Sarvottam Badhami,director,2,"BAU, BBY"
+sashi-kiran-tikka,Sashi Kiran Tikka,director,1,CERC
+sasi,Sasi,director,5,"AQXD, BGKK, BFET, BINM, DASQ"
+sasi-dir,Sasi (Dir),director,1,BFTA
+sasi-camp,Sasi Camp,director,5,"BXOZ, BYAY, BYZG, CCIN, CGBZ"
+sasi-mohan,Sasi Mohan,director,6,"BJSV, BHZY, BIPD, BHLY, BHDQ"
+sasi-preetam,Sasi Preetam,director,2,"BGLX, BHQP"
+sasi-shankar,Sasi Shankar,director,1,BHBG
+sasidhar,Sasidhar,director,1,BDUE
+sasikiran-narayana,Sasikiran Narayana,director,2,"BRLS, BIEX"
+sasikumar,Sasikumar,director,1,AAJQ
+sasisekhar,Sasisekhar,director,1,BHOY
+sateesh-chandra-nadella,Sateesh Chandra Nadella,director,1,DBPX
+sathish-kumar,Sathish Kumar,director,1,BSET
+sathvik-thadakamalla,Sathvik Thadakamalla,director,1,CHGI
+sathyan-anthikad,Sathyan Anthikad,director,2,"BJIP, BKWK"
+sathyanarayana-ekari,Sathyanarayana Ekari,director,1,DAVT
+sathyasiva,Sathyasiva,director,1,CFPJ
+satish,Satish,director,1,AAJG
+satish-bathula,Satish Bathula,director,1,DBQH
+satish-chandra,Satish Chandra,director,3,"CULJ, BNGG, BTDI"
+satish-chandrasekharan,Satish Chandrasekharan,director,1,BFNP
+satish-karthikeya,Satish Karthikeya,director,1,BFFF
+satish-kasetty,Satish Kasetty,director,3,"AWQF, BYGX, BHVR"
+satish-kumar,Satish Kumar,director,2,"BGDC, BFHA"
+satish-rai,Satish Rai,director,1,BIIZ
+satish-vegesna,Satish Vegesna,director,6,"AVRU, CUOA, BJBD, BALQ, CCET"
+satti-srinivasa-reddy,Satti Srinivasa Reddy,director,1,BNSY
+satya,Satya,director,5,"AHEW, AJFI, BJHG, BNGO, BJFS"
+satya-prabhas-pinisetty,Satya Prabhas Pinisetty,director,1,BGHW
+satya-prasad,Satya Prasad,director,1,AOPN
+satya-reddy,Satya Reddy,director,11,"AAUL, BFYQ, ACYN, ADIE, ADNY"
+satya-varanasi,Satya Varanasi,director,1,BDKU
+satyadeva,Satyadeva,director,1,BHST
+satyam,Satyam,director,2,"AUTN, BGOG"
+satyam-babu,Satyam Babu,director,1,ARMN
+satyam-bellamkonda,Satyam Bellamkonda,director,2,"AWZY, BDPZ"
+satyam-chollakoti,Satyam Chollakoti,director,1,BKWD
+satyam-dwarapudi,Satyam Dwarapudi,director,1,AWAN
+satyanarayana-dwarapudi,Satyanarayana Dwarapudi,director,1,BIQR
+satyaraj,Satyaraj,director,1,BGVN
+satyavarapu-venkateswararao,Satyavarapu Venkateswararao,director,1,BLAT
+savithri-ganesan,Savithri Ganesan,director,4,"MVU, NHW, NLZ, OUF"
+scott-stewart,Scott Stewart,director,1,BGAI
+seegampatti-rajgopal,Seegampatti Rajgopal,director,1,ADSK
+seeman,Seeman,director,2,"BGJE, BGQM"
+seenu,Seenu,director,1,BGRC
+seetaram,Seetaram,director,1,LAZ
+sekhar-chandra,Sekhar Chandra,director,2,"BHCJ, BGCP"
+sekhar-kammula,Sekhar Kammula,director,9,"ARCM, ATCP, AULL, AVCX, AXRV"
+sekhar-kandula,Sekhar Kandula,director,1,BDEE
+sekhar-raja,Sekhar Raja,director,1,BAST
+sekhar-reddy,Sekhar Reddy,director,1,CWHN
+sekhar-suri,Sekhar Suri,director,5,"ARZF, BFTQ, AWEL, BDBQ, BJEA"
+sekhar-yalamanchi,Sekhar Yalamanchi,director,1,BJTE
+selva,Selva,director,9,"BJBN, BGOS, BEZX, BILB, BJEE"
+selva-kumar,Selva Kumar,director,1,BHBP
+selva-raghavan,Selva Raghavan,director,6,"BFRY, BHXF, AUWL, BHSU, BEIU"
+selva-vinayagam,Selva Vinayagam,director,1,BHJW
+selvakannan,Selvakannan,director,1,CZQW
+selvendran,Selvendran,director,1,AUPZ
+sengutuvan,Sengutuvan,director,1,BILF
+senri-char,Senri Char,director,1,BFYL
+senthil-kumar,Senthil Kumar,director,2,"BJCP, BJGC"
+senthilnathan,Senthilnathan,director,10,"BIFC, BFLV, BJUT, BJHD, BHBF"
+seshu-m-j,Seshu M.J.,director,1,BRED
+seth-stark,Seth Stark,director,1,AYNE
+shafi,Shafi,director,1,ATZC
+shaheed-kader,Shaheed Kader,director,1,BHCZ
+shaheed-lal,Shaheed Lal,director,1,PHZ
+shailesh-suvarna,Shailesh Suvarna,director,1,CABO
+shaji,Shaji,director,1,BIEY
+shaji-kailash,Shaji Kailash,director,18,"BGOI, BGIV, BGSM, BJSB, BDLC"
+shaji-surendar,Shaji Surendar,director,1,BEUG
+shajiyam,Shajiyam,director,1,BGLI
+shajoon-kariyal,Shajoon Kariyal,director,1,BHQO
+shakthi-chidambaram,Shakthi Chidambaram,director,6,"BJUU, BGIE, BHCY, BJZO, BIDL"
+shakthi-paramesh,Shakthi Paramesh,director,1,BDLA
+shakthi-soundar-rajan,Shakthi Soundar Rajan,director,1,BIPU
+shakthi-kannan,Shakthi-Kannan,director,2,"BIMO, BJYV"
+shakti-paramesh,Shakti Paramesh,director,1,CRVD
+shamim-sarif,Shamim Sarif,director,1,BETF
+shammeer-sultan,Shammeer Sultan,director,1,CZGT
+shankar,Shankar,director,2,"BLAI, CWQN"
+shankar-bhanu,Shankar Bhanu,director,1,DAFJ
+shanmuga-priyan,Shanmuga Priyan,director,1,BEEW
+shanmuga-raj,Shanmuga Raj,director,1,BDYN
+shanmuga-srinivas,Shanmuga Srinivas,director,1,BHAZ
+shanmugam,Shanmugam,director,1,BGBZ
+shanthi-kumar,Shanthi Kumar,director,1,AUQL
+shanthi-kumar-chilumula,Shanthi Kumar Chilumula,director,2,"AUMR, BHJE"
+shanthilal-sony,Shanthilal Sony,director,1,KKJ
+shantilal-soni,Shantilal Soni,director,2,"BJUA, BHHW"
+sharan-koppisetty,Sharan Koppisetty,director,1,CFJD
+shareef-sheik-baba,Shareef Sheik Baba,director,1,BQXA
+sharma,Sharma,director,1,BDJK
+sharrath-narwade,Sharrath Narwade,director,1,CGXW
+shashank,Shashank,director,1,BIXF
+shashank-mallojjala,Shashank Mallojjala,director,1,BYZN
+shashanka-ghosh,Shashanka Ghosh,director,1,AWXD
+shashi-pritam,Shashi Pritam,director,1,CQZL
+shashikanth-ramawat,Shashikanth Ramawat,director,3,"CTVS, BNQJ, BPJN"
+shekhar-chandra,Shekhar Chandra,director,1,CXLD
+sheraz,Sheraz,director,1,BKVO
+sheshu-valuva,Sheshu Valuva,director,1,BTYK
+shiva-ganesh,Shiva Ganesh,director,1,DAMC
+shiva-gangadhar,Shiva Gangadhar,director,1,CFYR
+shiva-nirvana,Shiva Nirvana,director,2,"BKUF, CZCZ"
+shiva-raj-kanumuri,Shiva Raj Kanumuri,director,1,BKOP
+shiva-shakti-datta,Shiva Shakti Datta,director,1,AUZK
+shiva-sri,Shiva Sri,director,1,BJBA
+shiva-teja,Shiva Teja,director,1,CSHL
+shivaji,Shivaji,director,4,"BHWY, BGGX, AVFE, BIEM"
+shivakumar-bvr,Shivakumar Bvr,director,1,BYXD
+shoban-rao,Shoban Rao,director,1,JDO
+shree,Shree,director,1,BFJO
+shree-ranjani,Shree Ranjani,director,1,BKZM
+shreyas-kabadi,Shreyas Kabadi,director,1,DANZ
+shridhar-marri,Shridhar Marri,director,1,BLAK
+shyam-benegal,Shyam Benegal,director,1,AMGE
+shyam-prasad,Shyam Prasad,director,3,"BGEY, AUTG, BNXU"
+sibi-chakravarthy,Sibi Chakravarthy,director,1,BDZC
+sibi-malayil,Sibi Malayil,director,6,"BGRF, BFFS, CRLL, BIAY, BHTW"
+siddharth-anand,Siddharth Anand,director,2,"BGEJ, BKFS"
+siddharth-thatholu,Siddharth Thatholu,director,2,"CDTM, CWOO"
+siddheshwar-manoj,Siddheshwar Manoj,director,1,BPMZ
+siddik,Siddik,director,1,AYWZ
+siddik-sameer,Siddik Sameer,director,1,BJFX
+siddique,Siddique,director,1,BISV
+silambarasan,Silambarasan,director,1,BJDX
+simbudevan,Simbudevan,director,4,"BJCB, BDRT, BIWE, BGKW"
+simerjit-singh,Simerjit Singh,director,1,CHBN
+simha-sri-midde,Simha Sri Midde,director,1,BEJF
+singam-sudhakar-reddy,Singam Sudhakar Reddy,director,1,BELG
+singampuli,Singampuli,director,1,BGGY
+singeetham-srinivasa-rao,Singeetham Srinivasa Rao,director,39,"PEV, RGS, RHR, RRY, SAV"
+siraj-kalla,Siraj Kalla,director,1,BAXF
+sirumugai-ravi,Sirumugai Ravi,director,2,"AAFI, BFQQ"
+sitarama-raju-dhanthuluri,Sitarama Raju Dhanthuluri,director,1,AYXB
+sitaramaiah,Sitaramaiah,director,1,CDQB
+siva,Siva,director,7,"BDKJ, AWDL, AWYX, AZUC, BPIW"
+siva-chandran,Siva Chandran,director,4,"BIGW, BFEX, BFQF, BFTJ"
+siva-ganapathi,Siva Ganapathi,director,1,BDNA
+siva-ganesh,Siva Ganesh,director,2,"BTNU, BEDA"
+siva-jonnalagadda,Siva Jonnalagadda,director,2,"BGCK, BFGB"
+siva-nagareddy,Siva Nagareddy,director,1,BEAJ
+siva-nageshwara-rao,Siva Nageshwara Rao,director,1,CCSV
+siva-shakthi-datta,Siva Shakthi Datta,director,1,BEYL
+siva-shankar,Siva Shankar,director,1,BFMJ
+sivaji-prasad,Sivaji Prasad,director,1,BFLI
+sivakumar,Sivakumar,director,1,AUJI
+sival,Sival,director,1,BFDR
+sivala-prabhakar,Sivala Prabhakar,director,1,BIUR
+sivamani,Sivamani,director,7,"BFGT, BDME, BIRP, BFAD, BHII"
+sivanagu,Sivanagu,director,4,"BDNH, BFPL, BJOW, BIZN"
+sivanand-yalala,Sivanand Yalala,director,3,"BJBO, BFSX, BEVC"
+sivaram,Sivaram,director,1,BHDP
+sivaram-yadav,Sivaram Yadav,director,2,"BEOM, BGGT"
+sngmoo-lee,Sngmoo Lee,director,1,BJIJ
+sobha,Sobha,director,1,BFGD
+sobhan,Sobhan,director,3,"ASAL, ATDY, ATPC"
+sobhanadri-rao,Sobhanadri Rao,director,3,"IOE, JNG, JOR"
+soma-vijay-prakash,Soma Vijay Prakash,director,1,ATCH
+sonti-venkateswara-rao,Sonti Venkateswara Rao,director,1,BHRH
+sonu,Sonu,director,2,"BSNY, BYSK"
+sooraj-r-barjatya,Sooraj R. Barjatya,director,4,"BFKO, BISG, BIRY, BIKI"
+soori,Soori,director,1,BFRG
+souda,Souda,director,1,BEOU
+soundarya-rajinikanth-ashwin,Soundarya Rajinikanth Ashwin,director,1,BGGR
+sourabh-usha-narang,Sourabh Usha Narang,director,1,BJHZ
+spencer-mathew,Spencer Mathew,director,1,CUXF
+sravan,Sravan,director,1,AZCZ
+sravan-bapatla,Sravan Bapatla,director,1,BHHU
+sravan-gajabhinkar,Sravan Gajabhinkar,director,2,"CBCC, CWFX"
+sravan-kumar-nalla,Sravan Kumar Nalla,director,1,BIMP
+sravan-pandrangi,Sravan Pandrangi,director,1,BVPK
+sravanth-gajula,Sravanth Gajula,director,1,BAIC
+sree-harsha-konuganti,Sree Harsha Konuganti,director,1,CEWQ
+sreedhar-k-rao,Sreedhar K Rao,director,2,"CDIS, DAAW"
+sreekanth,Sreekanth,director,1,CHBH
+sreekarababu,Sreekarababu,director,1,BKWF
+sreekumaran-thampi,Sreekumaran Thampi,director,1,BHPB
+sreenath-pulakuram,Sreenath Pulakuram,director,1,CYUS
+sreenivas-mamilla,Sreenivas Mamilla,director,1,CFHQ
+sreenivasa-reddy,Sreenivasa Reddy,director,1,BUPG
+sreenu-vaitla,Sreenu Vaitla,director,2,"BSRY, CDLO"
+sreerangam-satish-kumar,Sreerangam Satish Kumar,director,2,"CSLZ, CURN"
+sri-aarun,Sri Aarun,director,1,BDOK
+sri-chakravarthy,Sri Chakravarthy,director,2,"AEHZ, BITW"
+sri-kishore,Sri Kishore,director,4,"CUVL, BFNO, BFBM, BKXS"
+sri-mahesh,Sri Mahesh,director,1,BGRK
+sri-mallikarjun,Sri Mallikarjun,director,1,BHVI
+sri-mallikarjun-yeluri,Sri Mallikarjun Yeluri,director,1,AUPY
+sri-paada-viswak,Sri Paada Viswak,director,1,CWNK
+sri-pawar,Sri Pawar,director,1,CWGE
+sri-praveen,Sri Praveen,director,1,BILX
+sri-raju,Sri Raju,director,1,BEFJ
+sri-ramulu-naidu,Sri Ramulu Naidu,director,1,GXZ
+sri-surya,Sri Surya,director,1,BERP
+sri-vamsi,Sri Vamsi,director,1,CAXH
+sridev,Sridev,director,1,BFXD
+sridhar,Sridhar,director,1,SPN
+sridhar-allani,Sridhar Allani,director,2,"CSIY, CEBB"
+sridhar-beecharaju,Sridhar Beecharaju,director,1,BEUE
+sridhar-prasad,Sridhar Prasad,director,1,BGNK
+sridhar-reddy,Sridhar Reddy,director,1,BBGA
+sridhar-reddy-yarwa,Sridhar Reddy Yarwa,director,1,CGSE
+srihari-nanu,Srihari Nanu,director,2,"AVKL, AYDT"
+sriharsha-manda,Sriharsha Manda,director,1,DAHA
+srikanth,Srikanth,director,2,"NDL, PCS"
+srikanth-apos-sri-apos-appalaraju,Srikanth &apos;Sri&apos; Appalaraju,director,1,CEAJ
+srikanth-addala,Srikanth Addala,director,5,"AVWE, BANT, BITP, BVVB, BHHC"
+srikanth-appalaraju,Srikanth Appalaraju,director,1,BAUR
+srikanth-banala,Srikanth Banala,director,1,CHRD
+srikanth-chella,Srikanth Chella,director,1,BKUZ
+srikanth-kandragula,Srikanth Kandragula,director,4,"CSZP, CTSH, CUNV, CUTP"
+srikanth-lingod,Srikanth Lingod,director,1,BDCV
+srikanth-nayar,Srikanth Nayar,director,1,BDZD
+srikanth-polisetti,Srikanth Polisetti,director,1,DBIF
+srikanth-vbr,Srikanth Vbr,director,4,"BVNL, CELR, CWOA, CWSQ"
+srikanth-vemulapalli,Srikanth Vemulapalli,director,2,"BDNY, BFMI"
+srikiran,Srikiran,director,1,BGMN
+srikrishna-pothinidi,Srikrishna Pothinidi,director,1,BIZE
+srikuttan,Srikuttan,director,1,BIYR
+srimathi-alluri,Srimathi Alluri,director,1,BRWO
+srimuni,Srimuni,director,1,BKSI
+srinath-ramalingam,Srinath Ramalingam,director,1,BIFA
+srinivas,Srinivas,director,3,"BIOK, AUBV, BHCO"
+srinivas-arumilli,Srinivas Arumilli,director,1,BXNF
+srinivas-avasarala,Srinivas Avasarala,director,2,"BQGQ, BWTD"
+srinivas-balasundaram,Srinivas Balasundaram,director,1,CTPK
+srinivas-balla,Srinivas Balla,director,1,BDXW
+srinivas-bhashyam,Srinivas Bhashyam,director,1,BFIY
+srinivas-chakravarthi,Srinivas Chakravarthi,director,1,CFZZ
+srinivas-gavireddy,Srinivas Gavireddy,director,1,BEPS
+srinivas-gundareddy,Srinivas Gundareddy,director,1,DAKQ
+srinivas-guthula,Srinivas Guthula,director,1,BHYU
+srinivas-guttula,Srinivas Guttula,director,1,CUPL
+srinivas-kasturi,Srinivas Kasturi,director,1,AXIY
+srinivas-koneti,Srinivas Koneti,director,1,BPHA
+srinivas-krishna-gogineni,Srinivas Krishna Gogineni,director,2,"BGWV, BVAV"
+srinivas-mandapaka,Srinivas Mandapaka,director,1,BIRL
+srinivas-murthy,Srinivas Murthy,director,1,BIUW
+srinivas-nedhunuri,Srinivas Nedhunuri,director,1,BHKD
+srinivas-raga,Srinivas Raga,director,2,"AWQT, BFHP"
+srinivas-raju,Srinivas Raju,director,3,"BGRD, BFXR, BKUR"
+srinivas-reddy,Srinivas Reddy,director,3,"RXZ, UQW, BJJZ"
+srinivas-yadav-acchana,Srinivas Yadav Acchana,director,1,BEQN
+srinivasa-raju,Srinivasa Raju,director,2,"BFHY, BLAR"
+srinivasa-rao-bhimaneni,Srinivasa Rao Bhimaneni,director,2,"CGYL, CYUO"
+srinivasa-rao-jonnalagadda,Srinivasa Rao Jonnalagadda,director,3,"ARPD, BSYF, DADO"
+srinivasa-ravindra,Srinivasa Ravindra,director,1,BKQI
+srinivasa-reddy,Srinivasa Reddy,director,11,"BDTW, ATQN, AUUL, AVNJ, AVPO"
+srinu,Srinu,director,1,DBOM
+srinu-pandranki,Srinu Pandranki,director,9,"BSBP, BQAX, BTUT, BUHS, BVBN"
+srinu-vaitla,Srinu Vaitla,director,14,"AQUS, ARMC, ASLG, BFTP, ATPG"
+srinu-vytla,Srinu Vytla,director,1,ATRA
+sripada-ramachandra-rao,Sripada Ramachandra Rao,director,1,BJPY
+sripada-vishwakarma,Sripada Vishwakarma,director,1,BHZT
+sripathi-rangaswamy,Sripathi Rangaswamy,director,1,BGPX
+sripriya,Sripriya,director,5,"ZAP, BHLP, BOYE, BEYA, BKON"
+sripuram-kiran,Sripuram Kiran,director,1,BEXG
+sriraj,Sriraj,director,1,BILB
+sriraj-balla,Sriraj Balla,director,3,"BJBX, BDFQ, BKTS"
+srirajan,Srirajan,director,1,BIGF
+sriram,Sriram,director,2,"BKBM, AVYZ"
+sriram-adittya,Sriram Adittya,director,2,"CCEO, CEGD"
+sriram-balaji,Sriram Balaji,director,2,"ARNS, AUFM"
+sriram-eragamreddy,Sriram Eragamreddy,director,1,CCEO
+sriram-kumar,Sriram Kumar,director,1,BFYM
+sriram-vegaraju,Sriram Vegaraju,director,1,BGZM
+srirangam-satish-kumar,Srirangam Satish Kumar,director,6,"BGTP, BFFB, BENW, BISO, BDDI"
+srirangam-sridhar,Srirangam Sridhar,director,1,XXR
+srisatya,Srisatya,director,1,BDYH
+srisekhar,Srisekhar,director,1,BFFR
+srivas,Srivas,director,5,"AVFM, AXZH, BFIP, BHOA, BDIP"
+sriwass,Sriwass,director,2,"BPLB, CGRW"
+stanley-tong,Stanley Tong,director,2,"BIVM, BJOA"
+stephen-hopkins,Stephen Hopkins,director,2,"BGPP, BHLS"
+steven-r-monro,Steven R. Monro,director,1,BGEZ
+steven-shankar,Steven Shankar,director,1,BHMH
+steven-spielberg,Steven Spielberg,director,2,"BIIR, BIGM"
+stewart-raffill,Stewart Raffill,director,1,BIJG
+subash-chandra,Subash Chandra,director,1,BSBY
+subbu,Subbu,director,2,"BECU, BQFX"
+subbu-james,Subbu James,director,1,BGQR
+subha-selvam,Subha Selvam,director,1,BFJS
+subhash-ambati,Subhash Ambati,director,1,BHKX
+subrahmanyam-paccha,Subrahmanyam Paccha,director,1,BGIN
+subrahmanyam-siva,Subrahmanyam Siva,director,1,BGAD
+sudershan-salendra,Sudershan Salendra,director,1,BKQU
+sudha,Sudha,director,1,BHER
+sudha-kongara,Sudha Kongara,director,1,BKRI
+sudhakar-naidu-g-v,Sudhakar Naidu (G.V),director,2,"AVUA, AXZM"
+sudhakar-vinukonda,Sudhakar Vinukonda,director,1,BGTL
+sudharsanam-sai-venkat,Sudharsanam Sai Venkat,director,1,BEYU
+sudharshan-bhattacharya,Sudharshan Bhattacharya,director,2,"AFFR, AGQP"
+sudheer-raju,Sudheer Raju,director,1,BGZN
+sudheer-varma,Sudheer Varma,director,2,"CAUP, DAHI"
+sudheer-varma-dir,Sudheer Varma (Dir),director,2,"BICB, BEJC"
+sudhesh-unniraman,Sudhesh Unniraman,director,1,BSGA
+sudhish-kamath,Sudhish Kamath,director,1,AZYL
+suhas-kadav,Suhas Kadav,director,1,CUQL
+suhasini-maniratnam,Suhasini Maniratnam,director,1,BIFF
+sujatha-bouriya,Sujatha Bouriya,director,1,BGWL
+sujeeth,Sujeeth,director,2,"BEOY, DAKZ"
+suji,Suji,director,1,BQFJ
+sukumar,Sukumar,director,4,"AWIH, BQNP, BXKM, BLBB"
+suman-pathuri,Suman Pathuri,director,1,AXOV
+suman-raju,Suman Raju,director,1,DAJN
+sumanth-dir,Sumanth (Dir),director,1,BJCS
+sumit-rai-king,Sumit Rai King,director,1,BFQW
+sumith,Sumith,director,2,"BHJL, BFST"
+sundar-c,Sundar C.,director,1,BNUY
+sundar-k-vijayan,Sundar K. Vijayan,director,1,BDVY
+sundar-surya,Sundar Surya,director,1,BLCW
+sundarrao-nadkarni,Sundarrao Nadkarni,director,2,"DAA, BJVS"
+sundeep-cheguri,Sundeep Cheguri,director,1,BYDW
+sundeep-mallipudi,Sundeep Mallipudi,director,2,"CUZJ, BRHD"
+suneel-kumar-reddy,Suneel Kumar Reddy,director,1,DAJZ
+suneeth-alladi,Suneeth Alladi,director,1,BSAZ
+suneeth-jampa,Suneeth Jampa,director,1,CXRG
+sunil,Sunil,director,2,"BIVK, BHEZ"
+sunil-bandi,Sunil Bandi,director,1,CDKX
+sunil-k-reddy,Sunil K. Reddy,director,1,BYOC
+sunil-kumar-desai,Sunil Kumar Desai,director,7,"BDNB, BDPN, BEUT, BEBZ, BIST"
+sunil-kumar-reddy,Sunil Kumar Reddy,director,1,BPGY
+sunil-reddy,Sunil Reddy,director,2,"BIVQ, BIQZ"
+sunny-pothula,Sunny Pothula,director,1,BRGX
+supriya-chekuri,Supriya Chekuri,director,2,"BSBY, CCEE"
+suraj,Suraj,director,2,"BGFF, BDFR"
+surati-durga-rao,Surati Durga Rao,director,1,PYO
+surendar-kapoor,Surendar Kapoor,director,1,BEOW
+surendar-reddy-patthi,Surendar Reddy Patthi,director,6,"ATRO, AUHM, AWRE, BHDN, BGWQ"
+surender-reddy,Surender Reddy,director,1,DAXG
+surendra-reddy,Surendra Reddy,director,1,AVCT
+suresh,Suresh,director,6,"BJKI, BJXT, BGAS, BIGA, BEWD"
+suresh-dir,Suresh (Dir),director,1,BFRK
+suresh-bujji,Suresh Bujji,director,1,BELP
+suresh-charan,Suresh Charan,director,1,ATGL
+suresh-geervani,Suresh Geervani,director,1,CTYH
+suresh-govind,Suresh Govind,director,1,CCKT
+suresh-heblikar,Suresh Heblikar,director,1,BKCF
+suresh-jain,Suresh Jain,director,1,BDKX
+suresh-krishna,Suresh Krishna,director,29,"BKAN, ADTN, AEDL, AENF, AHGN"
+suresh-kumar,Suresh Kumar,director,2,"BIDZ, BGEK"
+suresh-menon,Suresh Menon,director,1,BHSH
+suresh-varma,Suresh Varma,director,9,"BJWQ, BIUP, BJHN, BHHV, ASKY"
+suresh-yadavalli,Suresh Yadavalli,director,1,CCCO
+surrender-reddy,Surrender Reddy,director,2,"BPVS, BWCU"
+surya,Surya,director,3,"BEMD, BHAR, BFTZ"
+surya-injamuri,Surya Injamuri,director,1,BIOA
+surya-prakash,Surya Prakash,director,2,"ASAH, BDNQ"
+surya-prasad,Surya Prasad,director,1,AVVT
+surya-pratap,Surya Pratap,director,2,"BGZX, BEIZ"
+surya-raju,Surya Raju,director,2,"BGRT, CUQZ"
+surya-s-j,Surya S.J.,director,1,AXRB
+surya-teja,Surya Teja,director,3,"ASVI, BJTG, CSCS"
+suseenthiran,Suseenthiran,director,1,BUET
+sushanth,Sushanth,director,1,CBGZ
+sushanth-reddy,Sushanth Reddy,director,1,BUSD
+sushmit-ghosh,Sushmit Ghosh,director,1,CUZR
+susi-ganesan,Susi Ganesan,director,3,"BIGL, BJPU, BFRL"
+susindran,Susindran,director,4,"BFGI, BDJP, BHUI, BGVQ"
+swamy,Swamy,director,1,BERD
+swamy-mahesh,Swamy-Mahesh,director,1,BFEH
+swarna-subba-rao,Swarna Subba Rao,director,1,ATPK
+swaroop-rsj,Swaroop Rsj,director,1,CWMV
+syed-imran,Syed Imran,director,1,BOWN
+syed-rafi,Syed Rafi,director,1,BHBS
+sylvester-stallone,Sylvester Stallone,director,1,BHBJ
+t-ashok-kumar-reddy,T. Ashok Kumar Reddy,director,1,BGOW
+t-gopala-krishna,T. Gopala Krishna,director,2,"SSA, AEAP"
+t-guru-prasad,T. Guru Prasad,director,1,CGID
+t-janakiram,T. Janakiram,director,1,BJNZ
+t-kranthi-kumar,T. Kranthi Kumar,director,19,"YHP, ZAR, AAHM, BHUD, ABJB"
+t-krishna,T. Krishna,director,10,"MST, PSS, RQP, TEA, BFCP"
+t-krishna-thottempudi-krishna,T. Krishna (Thottempudi Krishna),director,6,"XWH, ZPS, ZPU, AAFK, AAMR"
+t-madhava-rao,T. Madhava Rao,director,4,"ODQ, PBP, QTP, ABFE"
+t-madhu,T. Madhu,director,1,BDPW
+t-mahalingam,T. Mahalingam,director,1,BGCQ
+t-marcony,T. Marcony,director,1,CVH
+t-nagarajan,T. Nagarajan,director,1,BJCH
+t-prabhakar,T. Prabhakar,director,10,"AIEH, AISA, AJII, APLW, APTE"
+t-prakash-rao,T. Prakash Rao,director,1,CLVO
+t-prashanth,T. Prashanth,director,1,BEEU
+t-rajendar,T. Rajendar,director,9,"BJYW, BDEM, BJQH, BGKJ, BERV"
+t-ravi-babu,T. Ravi Babu,director,12,"BGCS, BGOR, AUDU, AUQY, AUXG"
+t-santhosh,T. Santhosh,director,1,CWRG
+t-sriram-aditya,T. Sriram Aditya,director,1,BHTC
+t-venkatesh,T. Venkatesh,director,1,BEVU
+t-venugopal,T. Venugopal,director,1,BEWC
+t-a-raman,T.A. Raman,director,1,BRI
+t-c-s-reddy,T.C.S. Reddy,director,1,BDXZ
+t-k-mohan,T.K. Mohan,director,1,BDEV
+t-k-rajeev-kumar,T.K. Rajeev Kumar,director,3,"BKFI, BIAX, BFBH"
+t-k-rajendran,T.K. Rajendran,director,1,BFEU
+t-l-v-prasad,T.L.V. Prasad,director,24,"TYD, UPK, WBA, BEXM, XDM"
+t-m-jayamurugan,T.M. Jayamurugan,director,1,BENA
+t-n-balu,T.N. Balu,director,3,"OXR, BCEZ, BJQZ"
+t-n-raju,T.N. Raju,director,2,"ATFE, BDKY"
+t-p-gajendra,T.P. Gajendra,director,1,BEJD
+t-p-sundaram,T.P. Sundaram,director,4,"FXU, GQU, BFEF, BJUO"
+t-r-raghunath,T.R. Raghunath,director,8,"AKZL, BGDN, BFJF, BITI, BHZD"
+t-r-ramanna,T.R. Ramanna,director,17,"ISS, BJCJ, BINX, KUE, BISM"
+t-r-sundaram,T.R. Sundaram,director,2,"GIL, BDOT"
+t-s-dorai-rajan,T.S. Dorai Rajan,director,1,BFBS
+t-s-johar,T.S. Johar,director,1,BFFW
+t-s-kamal,T.S. Kamal,director,1,BGAB
+t-s-krishna-kumar,T.S. Krishna Kumar,director,1,BIJO
+t-s-mani,T.S. Mani,director,1,CWF
+t-s-muralidharan,T.S. Muralidharan,director,1,BJHH
+t-s-nagabharana,T.S. Nagabharana,director,6,"BITR, BIUT, BKAI, BKBB, BEKK"
+t-s-sivaji,T.S. Sivaji,director,4,"BGAH, BJTC, BJSF, BJTN"
+t-s-suresh-babu,T.S. Suresh Babu,director,1,BIVS
+t-v-sabu,T.V. Sabu,director,1,BDDY
+t-v-singh-takur,T.V. Singh Takur,director,1,BJEX
+t-v-sundaram,T.V. Sundaram,director,1,BHBZ
+takao-okawara,Takao Okawara,director,3,"BJII, BJDG, BHKT"
+tamilvannan,Tamilvannan,director,1,BJFH
+tapi-chanakya,Tapi Chanakya,director,18,"HBQ, HSP, IMG, IRK, IZY"
+tara,Tara,director,1,BOHP
+tarun-bhaskar,Tarun Bhaskar,director,1,BIVB
+tarun-gopi,Tarun Gopi,director,1,BEER
+tarun-sharma,Tarun Sharma,director,2,"CDLL, CGAM"
+tatineni-prakash-rao,Tatineni Prakash Rao,director,21,"GPC, GYL, HHG, HHQ, BELC"
+tatineni-rama-rao,Tatineni Rama Rao,director,30,"MCX, MVL, MVO, NAQ, NHC"
+tatineni-satya,Tatineni Satya,director,4,"BFEW, CSYN, BGLL, CCXR"
+teja,Teja,director,16,"BDPQ, ARPP, ARUK, ASDV, ASVO"
+tejas-dhanraj,Tejas Dhanraj,director,1,BFFY
+tekula-kripakar-reddy,Tekula Kripakar Reddy,director,1,CSZL
+tekula-krupakar-reddy,Tekula Krupakar Reddy,director,1,AXRD
+tesi-venkatesh,Tesi Venkatesh,director,1,BJZQ
+thalladi-sai-krishna,Thalladi Sai Krishna,director,1,CELN
+thambi-kannan,Thambi Kannan,director,3,"BEJZ, BISJ, BGRO"
+thammareddy-bharathwaja,Thammareddy Bharathwaja,director,20,"ACXI, AEMU, AFAZ, AEVS, AOHW"
+thammareddy-lenin-babu,Thammareddy Lenin Babu,director,6,"OYI, POR, QEI, QQR, TDE"
+thanachat-bunlah,Thanachat Bunlah,director,1,BGET
+thangirala-hanumantha-rao,Thangirala Hanumantha Rao,director,1,FBL
+thanikella-bharani,Thanikella Bharani,director,1,BIRF
+thanneeru-chiranjeevi,Thanneeru Chiranjeevi,director,1,BHHA
+tharani,Tharani,director,4,"ANVC, AETH, AGDB, AIVW"
+tharun-bhascker-dhaassyam,Tharun Bhascker Dhaassyam,director,2,"BXQE, CEKE"
+thathineni-satya-prakash,Thathineni Satya Prakash,director,1,BKNR
+theerta,Theerta,director,1,BDSE
+thejas-perumanna,Thejas Perumanna,director,1,CZBZ
+thesingu-rajendar,Thesingu Rajendar,director,1,CKPB
+thiru,Thiru,director,4,"BFWJ, BIQW, BFLJ, BGVJ"
+thirumala-kishore,Thirumala Kishore,director,2,"CCZI, CXHE"
+thirumalai,Thirumalai,director,1,XHE
+thiruvedi-gopal-krishna,Thiruvedi Gopal Krishna,director,1,CNFF
+thiruveedi-gopalakrishna,Thiruveedi Gopalakrishna,director,1,BGMP
+thiyagaraja,Thiyagaraja,director,1,CLWV
+thoram-subbarayudu,Thoram Subbarayudu,director,1,BIQO
+thota-krishna,Thota Krishna,director,11,"AQXY, BHFX, BEEM, BIJH, BJDU"
+thota-veera-venkata-sai-kumar,Thota Veera Venkata Sai Kumar,director,1,CXZG
+thriller-manju,Thriller Manju,director,11,"BDVW, BDMH, BIAO, BGVO, BEGO"
+thulasidas,Thulasidas,director,1,BKAH
+thumma-kiran,Thumma Kiran,director,1,BEFR
+thyagarajan-actor,Thyagarajan (Actor),director,2,"YIG, BHPG"
+tibor-takas,Tibor Takas,director,1,BHIG
+timur-bekmambetov,Timur Bekmambetov,director,1,BHTZ
+tinnu-verma,Tinnu Verma,director,1,BOEA
+tinu-varma,Tinu Varma,director,1,BJLA
+tirthankar-das,Tirthankar Das,director,2,"BROS, BFXE"
+tirumalasetty-kiran,Tirumalasetty Kiran,director,1,BELZ
+tobe-hooper,Tobe Hooper,director,1,BGAP
+tony-ching,Tony Ching,director,1,BFAH
+tony-ja,Tony Ja,director,1,BJOI
+tony-maa,Tony Maa,director,1,BDQG
+toshiya-gavara,Toshiya Gavara,director,1,BDBV
+transgressive-north,Transgressive North,director,1,BPKE
+trikaran,Trikaran,director,1,BSUT
+trikaran-reddy,Trikaran Reddy,director,1,BGBI
+trikoti,Trikoti,director,3,"BHCT, BQXW, BLAG"
+trinadha-rao-nakkina,Trinadha Rao Nakkina,director,5,"BPHB, BSVK, BKPX, CDQC, CEUN"
+trinath-kosuru,Trinath Kosuru,director,1,BHGW
+trinath-rao-nakkina,Trinath Rao Nakkina,director,4,"BHEE, BEGU, BHLX, BICJ"
+trinath-rao-palavelli,Trinath Rao Palavelli,director,2,"BIOC, ADWQ"
+trinetra,Trinetra,director,1,BIXN
+tripuraneni-gopichand,Tripuraneni Gopichand,director,3,"FXF, GHH, GPV"
+tripuraneni-maharadhi,Tripuraneni Maharadhi,director,1,SKG
+tripuraneni-sriprasad,Tripuraneni Sriprasad,director,1,AIYI
+tripuraneni-varaprasad,Tripuraneni Varaprasad,director,3,"ZDJ, BEXV, AGEQ"
+trivikram-srinivas,Trivikram Srinivas,director,11,"ASIA, ATRN, AVUU, AXQS, BABX"
+tulasi-ramesh,Tulasi Ramesh,director,1,BFCJ
+tulasiram-osho,Tulasiram Osho,director,2,"AVGI, BHGG"
+u-sivaji,U. Sivaji,director,1,BGIP
+u-venkannababu,U. Venkannababu,director,1,ACHP
+u-visweswara-rao,U. Visweswara Rao,director,5,"QOM, SJS, UWV, BERB, XRJ"
+u-s-v-pani,U.S.V. Pani,director,1,SHT
+u-v-babu,U.V. Babu,director,4,"BFWQ, BECY, BJKJ, AFGT"
+uday-nandanavanam,Uday Nandanavanam,director,1,BJBC
+uday-raj,Uday Raj,director,1,BDNR
+uday-shankar,Uday Shankar,director,8,"BIGP, BHYF, AREV, ARVG, BDUY"
+udaya-bhaskar,Udaya Bhaskar,director,2,"AGVR, CHSV"
+udaya-sankar,Udaya Sankar,director,1,BPPB
+udayan,Udayan,director,1,BFEB
+udaybhanu-maheswaran,Udaybhanu Maheswaran,director,1,BFIT
+udaykumar,Udaykumar,director,1,YGB
+udya-chandu,Udya Chandu,director,1,BIMX
+ugandhar-muni,Ugandhar Muni,director,1,BZXP
+ujwal-chaterji,Ujwal Chaterji,director,1,BECI
+uma-kanth,Uma Kanth,director,1,BJZU
+uma-maheshwara-rao,Uma Maheshwara Rao,director,1,ADPT
+umakanth-tumrugoti,Umakanth Tumrugoti,director,1,BFFO
+umesh-jadhav,Umesh Jadhav,director,1,BSMD
+umesh-mehra,Umesh Mehra,director,1,BHWT
+umesh-nagappagari,Umesh Nagappagari,director,1,BLAZ
+unni-krishnan,Unni Krishnan,director,1,BDZZ
+upendra,Upendra,director,6,"BKAR, BISU, BDKL, BJCY, BDQE"
+upendra-madhav,Upendra Madhav,director,1,CFQQ
+upendra-varma,Upendra Varma,director,1,CDQH
+uppalapati-narayana-rao,Uppalapati Narayana Rao,director,9,"AFVC, AIDX, AIKE, AJCJ, AJXZ"
+utthejh-gade,Utthejh Gade,director,1,CHGI
+uwe-boll,Uwe Boll,director,1,BHIH
+v-alagappan,V. Alagappan,director,6,"BDZK, BHOL, BJBU, BJWV, BDDB"
+v-ashok-kumar,V. Ashok Kumar,director,1,BJPP
+v-balakrishna,V. Balakrishna,director,1,BITF
+v-bose,V. Bose,director,1,BFKY
+v-dada-mirasi,V. Dada Mirasi,director,6,"LHL, BIWB, BHJC, MOY, MQJ"
+v-damle,V. Damle,director,1,BGEO
+v-deepak-kumar,V. Deepak Kumar,director,1,BHVH
+v-dorai-raj,V. Dorai Raj,director,1,AUVK
+v-eshwar-reddy,V. Eshwar Reddy,director,3,"AVGP, AWTM, BENT"
+v-hanuman-prasad,V. Hanuman Prasad,director,4,"RLG, TCL, TRX, TWY"
+v-jagadish,V. Jagadish,director,1,BFLH
+v-jagannatha-rao,V. Jagannatha Rao,director,2,"BKBL, BFAW"
+v-jyothi-kumar,V. Jyothi Kumar,director,1,ARFO
+v-krishna-teja,V. Krishna Teja,director,1,BIJN
+v-madhusudhana-rao,V. Madhusudhana Rao,director,65,"JHE, JJO, KDE, KEU, KET"
+v-manoj-kumar,V. Manoj Kumar,director,1,AVDG
+v-menon,V. Menon,director,1,BJUH
+v-prabhakar,V. Prabhakar,director,2,"WHI, BEZU"
+v-rajagopal,V. Rajagopal,director,1,BHKA
+v-rajan,V. Rajan,director,1,YKC
+v-rajgopal,V. Rajgopal,director,1,CRQF
+v-ramachandra-rao,V. Ramachandra Rao,director,17,"MNQ, MUG, NAY, NGB, NFR"
+v-ravichandran,V. Ravichandran,director,4,"BJYT, BFXK, BHHD, BGGK"
+v-ravikanth,V. Ravikanth,director,1,BPGX
+v-sagar,V. Sagar,director,1,CGGA
+v-sai-prasad,V. Sai Prasad,director,1,BEJR
+v-samudra,V. Samudra,director,14,"BFGG, ARWV, ASKW, ATAE, ATNW"
+v-sasi-bhushan,V. Sasi Bhushan,director,1,BKRB
+v-sasi-varma,V. Sasi Varma,director,1,BDRZ
+v-satish-kumar,V. Satish Kumar,director,1,BIZI
+v-shantaram,V. Shantaram,director,1,FIU
+v-sharma,V. Sharma,director,1,BIAA
+v-sobhanadri-rao,V. Sobhanadri Rao,director,1,NOG
+v-somanathan,V. Somanathan,director,1,BHGX
+v-somasekhar,V. Somasekhar,director,5,"BFGA, ACAD, BDCR, BIJF, BDYW"
+v-sri-jyothi-kumar,V. Sri Jyothi Kumar,director,1,BFZB
+v-srinivasan,V. Srinivasan,director,12,"BFAO, BDCN, BFIG, BJRX, BGHS"
+v-srivatsav,V. Srivatsav,director,1,BDBZ
+v-thyagarajan,V. Thyagarajan,director,1,AJOM
+v-umakanth,V. Umakanth,director,1,BIRG
+v-velu-raja,V. Velu Raja,director,1,BHMD
+v-vicky-varma,V. Vicky Varma,director,1,BHMQ
+v-vijayendra-prasad,V. Vijayendra Prasad,director,2,"AUTY, AZDP"
+v-b-rajendraprasad,V.B. Rajendraprasad,director,12,"OIS, OWN, QBW, QJG, RBV"
+v-b-l-v-prasad,V.B.L.V. Prasad,director,6,"AFLB, AFNX, AGOW, AGRY, AIEO"
+v-c-bhaskar-raj,V.C. Bhaskar Raj,director,1,BJKU
+v-c-guhanathan,V.C. Guhanathan,director,7,"SQX, UUW, BHOQ, BIRC, AOMG"
+v-c-ramani,V.C. Ramani,director,1,BIRQ
+v-d-amin,V.D. Amin,director,1,CFP
+v-d-r-kumar,V.D.R. Kumar,director,1,BHHI
+v-g-samant,V.G. Samant,director,1,BFAM
+v-g-thampi,V.G. Thampi,director,1,BHVB
+v-i-anand,V.I. Anand,director,2,"BEXQ, BKOO"
+v-j-reddy,V.J. Reddy,director,1,CGBC
+v-k-vijaykumar-reddy,V.K. Vijaykumar Reddy,director,1,BDLP
+v-m-c-hanifa,V.M.C. Hanifa,director,1,BHIP
+v-n-aditya,V.N. Aditya,director,9,"ARSW, ASLI, ATKK, BFXZ, AUIS"
+v-n-reddy,V.N. Reddy,director,4,"IRN, BGZA, JXD, BINB"
+v-p-mohammad,V.P. Mohammad,director,2,"BFIH, BHCM"
+v-p-sarathi,V.P. Sarathi,director,1,BEEQ
+v-p-t-sadasiva-brahmam,V.P.T. Sadasiva Brahmam,director,1,EVT
+v-r-dorai-raju,V.R. Dorai Raju,director,1,BEMS
+v-r-rishiraj,V.R. Rishiraj,director,1,BEUV
+v-s-bose,V.S. Bose,director,1,QAT
+v-s-raghavan,V.S. Raghavan,director,1,INJ
+v-s-reddy,V.S. Reddy,director,1,APBW
+v-s-vasu,V.S. Vasu,director,1,BEVI
+v-s-r-swamy,V.S.R. Swamy,director,1,BFQG
+v-v-narayana,V.V. Narayana,director,1,BGTH
+v-v-raju,V.V. Raju,director,1,ASSW
+v-v-raman,V.V. Raman,director,1,BHNH
+v-v-ramana,V.V. Ramana,director,1,AWNQ
+v-v-sagar,V.V. Sagar,director,1,BDYG
+v-v-sundaram,V.V. Sundaram,director,1,BGUU
+v-v-vinayak,V.V. Vinayak,director,12,"ARYV, ASAT, ASQD, ASZU, ATMJ"
+v-v-v-satyanarayana,V.V.V. Satyanarayana,director,2,"BHVN, BFDO"
+v-z-durai,V.Z. Durai,director,1,BHCE
+vachaspati-jonnalagadda,Vachaspati Jonnalagadda,director,1,BJJR
+vaddepalli-krishna,Vaddepalli Krishna,director,2,"BFSS, CAXQ"
+vadivudayan,Vadivudayan,director,1,BGRN
+vaikunta-lavya,Vaikunta Lavya,director,1,BGVH
+vakkantham-vamsi,Vakkantham Vamsi,director,1,BLBS
+vallabaneni-janardhan,Vallabaneni Janardhan,director,8,"XGS, YEZ, ZES, BIUX, AADL"
+vallamreddy-prasad,Vallamreddy Prasad,director,1,ABRR
+valmiki,Valmiki,director,1,AIIQ
+vamshi,Vamshi,director,1,CACY
+vamshi-krishna-nelapati,Vamshi Krishna Nelapati,director,1,BTUI
+vamshi-muniganti,Vamshi Muniganti,director,1,CBPH
+vamshi-paidipally,Vamshi Paidipally,director,1,CZCM
+vamsi,Vamsi,director,1,AAZT
+vamsi-dir,Vamsi (Dir),director,24,"WTK, ZEY, ZLT, AAFU, ANKB"
+vamsi-krishna,Vamsi Krishna,director,2,"BGZP, CAVN"
+vamsi-krishna-muddu,Vamsi Krishna Muddu,director,2,"CDHU, CGTJ"
+vamsi-paidipalli,Vamsi Paidipalli,director,4,"AVHG, AXHT, BBDO, BFPY"
+vamsi-varma-gadiraju,Vamsi Varma Gadiraju,director,1,CANP
+vandemataram-srinivas,Vandemataram Srinivas,director,2,"CTLL, BGAE"
+vani-kosaraju,Vani Kosaraju,director,1,BFXJ
+vankineni-ratna-pratap,Vankineni Ratna Pratap,director,5,"ARHH, BESF, ARUI, BJPC, AVTH"
+vara-mullapudi,Vara Mullapudi,director,3,"AUAJ, AWFT, BGQY"
+vara-prasad,Vara Prasad,director,1,BDXU
+varanasi,Varanasi,director,1,BGRX
+varma,Varma,director,1,BEKJ
+varun-arla,Varun Arla,director,1,CCJY
+vasant,Vasant,director,4,"BGXD, BDLJ, BHAB, BEVZ"
+vasant-kumar-jurru,Vasant Kumar Jurru,director,2,"CTKU, CTQM"
+vasanth,Vasanth,director,1,BETI
+vasanth-k-karanam,Vasanth K. Karanam,director,1,CZRG
+vasanth-sena,Vasanth Sena,director,1,VKR
+vasantha-kumar-reddy,Vasantha Kumar Reddy,director,1,MDC
+vasantkumar-reddy,Vasantkumar Reddy,director,1,JBA
+vasireddy,Vasireddy,director,1,AFQK
+vasireddy-vidyasagar,Vasireddy Vidyasagar,director,1,AZZZ
+vastav,Vastav,director,1,DAUM
+vasthav,Vasthav,director,1,BIDP
+vasu,Vasu,director,1,BUEX
+vasu-manthena,Vasu Manthena,director,1,BGCM
+vasu-varma,Vasu Varma,director,1,BWYS
+vayalar-madhavan,Vayalar Madhavan,director,1,AUFB
+vayunanda-rao,Vayunanda Rao,director,1,TVH
+ved-aitharaju,Ved Aitharaju,director,1,CWSJ
+vedantam-raghavaiah,Vedantam Raghavaiah,director,22,"AKUV, GQW, GUB, HBO, HLH"
+veera-devulapalli,Veera Devulapalli,director,1,BPVR
+veera-prasad-neelam,Veera Prasad Neelam,director,3,"AWHD, BGIM, BJNF"
+veera-shankar-bairisetty,Veera Shankar Bairisetty,director,5,"BJFV, ARHV, BEZD, ATFZ, BEZL"
+veerabadram-chowdary,Veerabadram Chowdary,director,4,"AYHV, BAKR, BAWK, BESO"
+veerendra-gobidesi,Veerendra Gobidesi,director,1,DBUB
+veeru-dwait,Veeru Dwait,director,1,AWYS
+veeru-potla,Veeru Potla,director,4,"AXGY, AXZB, BFYH, BKNC"
+veeru-k,Veeru. K.,director,1,BTWJ
+veeturi,Veeturi,director,1,QSU
+vejalla-satyanarayana,Vejalla Satyanarayana,director,15,"WMP, AMWD, XFU, XLQ, XLR"
+vejjalla,Vejjalla,director,1,AOGT
+vekky,Vekky,director,1,BSZP
+veligonda-srinivas,Veligonda Srinivas,director,1,BZEX
+vellanki-durga-prasad-chowdary,Vellanki Durga Prasad Chowdary,director,2,"BITX, AWDF"
+velu-prabhakar,Velu Prabhakar,director,5,"BGZV, AJIC, BIGN, BIQC, BJTX"
+vemareddy,Vemareddy,director,1,BIPG
+vemu,Vemu,director,3,"AQZT, BHLH, BGJG"
+vemuganti,Vemuganti,director,2,"BEYW, BDPR"
+vemuri-jyothi-kumar,Vemuri Jyothi Kumar,director,1,ARLZ
+vengal-bobby-rao-kanaparthi,Vengal 'Bobby' Rao Kanaparthi,director,1,BAMK
+venkannababu-epuganti,Venkannababu Epuganti,director,1,BABD
+venkat-kalyan,Venkat Kalyan,director,1,DAYL
+venkat-m,Venkat M,director,1,CZUN
+venkat-maguluri,Venkat Maguluri,director,1,BRDU
+venkat-pampana,Venkat Pampana,director,1,BIHJ
+venkat-prabhu,Venkat Prabhu,director,7,"BDMQ, AWCM, BGII, BHJG, BJBQ"
+venkat-pradeep-allu,Venkat Pradeep Allu,director,1,CWMU
+venkat-raghavan,Venkat Raghavan,director,2,"BQLS, BVZC"
+venkat-ramji,Venkat Ramji,director,1,CXTV
+venkat-reddy,Venkat Reddy,director,1,BNII
+venkat-reddy-nandi,Venkat Reddy Nandi,director,2,"BFVA, BEPC"
+venkat-sai-santosh,Venkat Sai Santosh,director,1,BYSC
+venkat-siddareddy,Venkat Siddareddy,director,1,BAWT
+venkata-ganesh,Venkata Ganesh,director,1,ATLD
+venkata-narayana,Venkata Narayana,director,1,BDRS
+venkata-pati,Venkata Pati,director,1,BJDN
+venkata-reddy-usirika,Venkata Reddy Usirika,director,1,BZRC
+venkata-suresh-gunnam,Venkata Suresh Gunnam,director,1,BJDK
+venkatamadhushankar,VenkataMadhuShankar,director,3,"CXHY, CXHZ, CXIA"
+venkatram-palla,Venkatram Palla,director,1,CDZE
+venky,Venky,director,4,"ASSV, BFIJ, ATZV, AVXL"
+venky-atluri,Venky Atluri,director,2,"BKZY, CZLX"
+venky-kudumula,Venky Kudumula,director,1,BKZT
+vennela-kishore,Vennela Kishore,director,4,"BJAH, CVAN, CVAO, BJGP"
+venu,Venu,director,2,"BIGJ, BHHJ"
+venu-b-nayar,Venu B. Nayar,director,1,BDWN
+venu-dawat,Venu Dawat,director,1,BNGC
+venu-nagavalli,Venu Nagavalli,director,1,BFSQ
+venu-nakshathram,Venu Nakshathram,director,1,BUGM
+venu-sriram,Venu Sriram,director,2,"AZAY, CBAR"
+venu-udugula,Venu Udugula,director,1,BLAZ
+venupal,Venupal,director,1,CGNZ
+verma-vivek,Verma Vivek,director,1,DAXC
+vetrimaaran,Vetrimaaran,director,1,BVDO
+vi-anand,Vi Anand,director,1,BKYW
+vibha-bakshi,Vibha Bakshi,director,1,AZIL
+vibhuti-das,Vibhuti Das,director,1,CKW
+vicky,Vicky,director,1,ASIU
+vicky-ranawat,Vicky Ranawat,director,1,BHZN
+victory-vasu,Victory Vasu,director,2,"BDZS, BEEB"
+vidwan-prasad,Vidwan Prasad,director,1,BIAK
+vidya,Vidya,director,1,BDJG
+vidya-sagar-raju,Vidya Sagar Raju,director,1,BLAC
+vidyadhar-kagita,Vidyadhar Kagita,director,2,"BVCM, CCXK"
+vietnamveedu-sundaram,Vietnamveedu Sundaram,director,1,PPU
+vighnesh-karumanchi,Vighnesh Karumanchi,director,2,"BRAX, BXTU"
+vigna-vinayaka,Vigna Vinayaka,director,1,BHQY
+vignan-kaushik,Vignan Kaushik,director,1,CFLG
+vignesh,Vignesh,director,1,BFVL
+vignesh-shivan,Vignesh Shivan,director,1,CHFF
+vijay,Vijay,director,18,"BJOB, OIC, BEQK, PCW, PCT"
+vijay-balaji,Vijay Balaji,director,1,BILC
+vijay-bhaskar,Vijay Bhaskar,director,1,WOT
+vijay-chandar,Vijay Chandar,director,1,CGZB
+vijay-chowdary-thripuraneni,Vijay Chowdary Thripuraneni,director,1,BTPU
+vijay-chowdary-tripuraneni,Vijay Chowdary Tripuraneni,director,1,BFME
+vijay-edara,Vijay Edara,director,1,BUOE
+vijay-gowtham-raju,Vijay Gowtham Raju,director,1,BSQT
+vijay-krishna-acharya,Vijay Krishna Acharya,director,1,BGPE
+vijay-kumar-konda,Vijay Kumar Konda,director,1,BNOC
+vijay-maddhala,Vijay Maddhala,director,1,BHYP
+vijay-peddakotla,Vijay Peddakotla,director,1,CHIK
+vijay-prakash,Vijay Prakash,director,1,BGYL
+vijay-r-anand,Vijay R. Anand,director,1,BEYG
+vijay-reddy,Vijay Reddy,director,5,"WMV, BIIO, ZSA, BJXB, BGRG"
+vijay-sekhar-sankranthi,Vijay Sekhar Sankranthi,director,1,BEHN
+vijay-sharma,Vijay Sharma,director,1,BEHW
+vijay-srinivas,Vijay Srinivas,director,1,BIQL
+vijay-surya,Vijay Surya,director,1,BGGI
+vijay-vemuri,Vijay Vemuri,director,1,AZOW
+vijay-yelakanti,Vijay Yelakanti,director,1,CHTW
+vijaya-narayanan,Vijaya Narayanan,director,1,BHUW
+vijaya-ratnam-gona,Vijaya Ratnam Gona,director,2,"VHJ, BDIM"
+vijayabapineedu,Vijayabapineedu,director,25,"XSW, YKS, YOT, YUG, ZQJ"
+vijayachandar,Vijayachandar,director,2,"XHE, ABRK"
+vijayan,Vijayan,director,1,AFYL
+vijayan-fight-master,Vijayan (Fight Master),director,2,"AVLO, BFZQ"
+vijayanand,Vijayanand,director,1,BJGB
+vijayanirmala,Vijayanirmala,director,40,"PUB, QEW, RLF, QXU, SMU"
+vijayaprakash,Vijayaprakash,director,1,BDCM
+vijayaraja,Vijayaraja,director,1,BHIB
+vijayendra-prasad,Vijayendra Prasad,director,2,"BEYL, BKVW"
+vijaykanth,Vijaykanth,director,1,BIOL
+vijaykumar-konda,Vijaykumar Konda,director,3,"BELO, BINK, BIXR"
+viji-thampi,Viji Thampi,director,4,"BFPB, BGFK, BJYD, BJAK"
+vikas-thippani,Vikas Thippani,director,9,"CDXC, CDXV, CHGO, CEJB, CEQP"
+vikas-vadhiraj,Vikas Vadhiraj,director,1,BGDV
+vikram-bhatt,Vikram Bhatt,director,3,"BJZL, BEOZ, BDVT"
+vikram-k-kumar,Vikram K. Kumar,director,8,"ARQR, BJJO, BDYB, BAAU, BHFB"
+vikram-sirikonda,Vikram Sirikonda,director,1,BKZS
+vikram-veturi,Vikram Veturi,director,1,BACX
+vikraman,Vikraman,director,6,"BFLG, BIOB, ATAR, BGXP, CRVT"
+vinay,Vinay,director,2,"ABFL, BIWU"
+vinay-sagar,Vinay Sagar,director,1,BQTD
+vinayak-v-v,Vinayak V.V.,director,4,"AXEF, AYJM, CAUQ, CEZL"
+vinayan,Vinayan,director,9,"BJYN, BEQH, BFXX, BJHE, BFNI"
+vincenzo-natali,Vincenzo Natali,director,1,BEQZ
+vinod,Vinod,director,2,"BEPX, BJDT"
+vinod-desai,Vinod Desai,director,1,BJWW
+vinod-kumar-boppudi,Vinod Kumar Boppudi,director,1,BWRC
+vinod-lingala,Vinod Lingala,director,1,BJIV
+vinod-pande,Vinod Pande,director,1,BJKP
+vinod-vijayan,Vinod Vijayan,director,1,BVBZ
+vinu-anand,Vinu Anand,director,1,BESL
+viplav,Viplav,director,1,BHPZ
+vipul,Vipul,director,1,BRGG
+virinchi-varma,Virinchi Varma,director,2,"BICH, BXEB"
+vishaka-thrillers-venkat,Vishaka Thrillers Venkat,director,1,BJIC
+vishal-purushotham,Vishal Purushotham,director,1,CZOJ
+vishnu-naga,Vishnu Naga,director,1,DBNQ
+vishnutejesh-peddireddy,Vishnutejesh Peddireddy,director,1,BZFW
+vishnuvardhan,Vishnuvardhan,director,6,"BDEB, BDQJ, BFNH, AZBR, BGMK"
+vishwak-sen,Vishwak Sen,director,1,CXUS
+vishwanath-arigela,Vishwanath Arigela,director,1,CYMB
+vishwanath-ayodhya-karthik,Vishwanath Ayodhya Karthik,director,1,CAMB
+vishwanath-maganti,Vishwanath Maganti,director,1,DBHZ
+vishwaprasad,Vishwaprasad,director,2,"BEDR, BJCF"
+visu,Visu,director,7,"CJPF, CKKF, BGCH, ACGS, ACLB"
+viswanath-kalavalapalli,Viswanath Kalavalapalli,director,1,BRMN
+vivek-athreya,Vivek Athreya,director,2,"BKXV, CXCE"
+vivek-krishna,Vivek Krishna,director,1,AYKI
+vs-phanindra,Vs Phanindra,director,1,DBJM
+welding-srinu,Welding Srinu,director,1,BHPE
+wes-craven,Wes Craven,director,1,BINI
+will-seth-sankhla,Will Seth Sankhla,director,1,AWOU
+wilson-yip,Wilson Yip,director,1,BDIB
+workybee-sai,Workybee Sai,director,1,BSIB
+y-eshwar-reddy,Y. Eshwar Reddy,director,3,"UFO, BDEY, XHL"
+y-jitendar,Y. Jitendar,director,3,"BDRG, BGYK, BAUK"
+y-koti-babu,Y. Koti Babu,director,1,BDMX
+y-nageshwara-rao,Y. Nageshwara Rao,director,13,"ACEU, ADQF, AERV, ADQP, AOHH"
+y-rangarao,Y. Rangarao,director,1,KXB
+y-sainivas,Y. Sainivas,director,1,BEYD
+y-venkata-reddy,Y. Venkata Reddy,director,1,BJBK
+y-venkatram,Y. Venkatram,director,1,AOZX
+y-r-babu,Y.R. Babu,director,2,"SIZ, UYX"
+y-r-swamy,Y.R. Swamy,director,8,"GYQ, HKO, KNO, BJMX, BEPB"
+y-s-naidu,Y.S. Naidu,director,1,BJCA
+y-v-ram,Y.V. Ram,director,1,ASGE
+y-v-rao,Y.V. Rao,director,8,"CVJ, DFH, DQQ, ECQ, GOD"
+y-v-s-chowdary,Y.V.S. Chowdary,director,10,"APDY, AQBW, BDBU, ARKZ, ASFJ"
+yaar-kannan,Yaar Kannan,director,1,BGMY
+yanamadala-kasi-vishwanath,Yanamadala Kasi Vishwanath,director,2,"ASIB, BGTG"
+yandamuri-veerendranath,Yandamuri Veerendranath,director,3,"ADKG, AFIL, CXRC"
+yannam-venkat-reddy,Yannam Venkat Reddy,director,2,"BEPT, BEHD"
+yarramsetti-sai-krishna,Yarramsetti Sai Krishna,director,1,BTUH
+yash-chopra,Yash Chopra,director,1,BKBA
+yeswanth,Yeswanth,director,1,BTEC
+yimou-zhang,Yimou Zhang,director,1,BHVY
+yip-wai-shun,Yip Wai Shun,director,1,BDSG
+yogee-qumaar,Yogee Qumaar,director,3,"BSIC, BXOM, BZAD"
+yogesh,Yogesh,director,4,"BJXX, AVQM, BICQ, BIOV"
+yogesh-hansraj,Yogesh Hansraj,director,1,DAKV
+yogesh-munisiddappa,Yogesh Munisiddappa,director,1,BXKE
+yogi,Yogi,director,1,UFD
+yogie,Yogie,director,1,BTMD
+yuen-woo-ping,Yuen Woo Ping,director,1,BJLG
+yuvan,Yuvan,director,1,BDZF
+yuvaraj,Yuvaraj,director,2,"BDVS, BPGT"
+zakir,Zakir,director,1,BFAV

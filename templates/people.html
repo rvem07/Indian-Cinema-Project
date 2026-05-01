@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Directors – Tollywood Timeline{% endblock %}
+
+{% block content %}
+
+<div class="page-header">
+  <a href="{{ url_for('index') }}" class="back-link">&larr; Timeline</a>
+  <h1>Directors</h1>
+  <p class="page-sub">Directors connected to the curated Tollywood film dataset.</p>
+</div>
+
+<form class="search-form" method="get" action="{{ url_for('people') }}">
+  <div class="form-row">
+    <input type="text" name="q" placeholder="Search director name..."
+           value="{{ query }}" class="search-input" />
+    <button type="submit" class="btn">Search</button>
+    {% if query %}
+      <a href="{{ url_for('people') }}" class="btn btn-outline">Clear</a>
+    {% endif %}
+  </div>
+</form>
+
+<p class="results-count">
+  Showing {{ shown }} of {{ total }} directors
+  {% if query %} matching "<strong>{{ query }}</strong>"{% endif %}
+</p>
+
+{% if people %}
+  <div class="table-wrapper">
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Films in Dataset</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for person in people %}
+        <tr>
+          <td>
+            <a href="{{ url_for('person_detail', person_id=person.person_id) }}">
+              {{ person.person_name }}
+            </a>
+          </td>
+          <td>{{ person.film_count if person.film_count else "—" }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p class="no-results">No directors found. Try a different search.</p>
+{% endif %}
+
+{% endblock %}

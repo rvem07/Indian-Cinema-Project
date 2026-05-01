@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}{{ person.person_name if person else "Person Not Found" }} – Tollywood Timeline{% endblock %}
+
+{% block content %}
+
+{% if person %}
+
+  <div class="detail-header">
+    <a href="{{ url_for('people') }}" class="back-link">&larr; Directors</a>
+    <h1>{{ person.person_name }}</h1>
+  </div>
+
+  <div class="detail-meta">
+    <div class="meta-item">
+      <span class="meta-label">Role</span>
+      <span class="meta-value">{{ person.role if person.role else "Director" }}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Films in Dataset</span>
+      <span class="meta-value">{{ person.film_count if person.film_count else "—" }}</span>
+    </div>
+  </div>
+
+  <h2>Filmography</h2>
+
+  {% if filmography %}
+    <div class="table-wrapper">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Film</th>
+            <th>Year</th>
+            <th>Role</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for entry in filmography %}
+          <tr>
+            <td>
+              <a href="{{ url_for('movie_detail', film_id=entry.film_id) }}">
+                {{ entry.title if entry.title else entry.film_id }}
+              </a>
+            </td>
+            <td>{{ entry.year if entry.year else "—" }}</td>
+            <td>{{ entry.role if entry.role else "—" }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  {% else %}
+    <p class="no-results">No filmography data available for this person.</p>
+  {% endif %}
+
+{% else %}
+  <h1>Person Not Found</h1>
+  <p>No person with that ID exists in the dataset.</p>
+  <a href="{{ url_for('people') }}" class="btn">&larr; Back to Directors</a>
+{% endif %}
+
+{% endblock %}

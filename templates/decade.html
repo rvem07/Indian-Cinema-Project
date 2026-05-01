@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block title %}{{ decade_str }} – Tollywood Timeline{% endblock %}
+
+{% block content %}
+
+{% if not valid %}
+  <h1>Unknown Decade</h1>
+  <p>"{{ decade_str }}" is not a valid decade for this timeline.</p>
+  <a href="{{ url_for('index') }}" class="btn">&larr; Back to Timeline</a>
+
+{% else %}
+
+<div class="page-header">
+  <a href="{{ url_for('index') }}" class="back-link">&larr; Timeline</a>
+  <h1>{{ decade_str }} Tollywood Cinema</h1>
+  <p class="page-sub">Telugu films from {{ decade_str[:4] }} to {{ 2024 if decade_str == '2020s' else (decade_str[:4]|int + 9) }}</p>
+</div>
+
+<!-- Search / Filter / Sort -->
+<form class="search-form" method="get" action="{{ url_for('decade', decade_str=decade_str) }}">
+  <div class="form-row">
+    <input type="text" name="q" placeholder="Search title..."
+           value="{{ query }}" class="search-input" />
+    <select name="genre" class="filter-input">
+      <option value="">All Genres</option>
+      {% for g in genres %}
+        <option value="{{ g }}" {% if g == genre %}selected{% endif %}>{{ g }}</option>
+      {% endfor %}
+    </select>
+    <button type="submit" class="btn">Filter</button>
+    {% if query or genre %}
+      <a href="{{ url_for('decade', decade_str=decade_str) }}" class="btn btn-outline">Clear</a>
+    {% endif %}
+  </div>
+
+  <!-- Sort buttons — preserve existing search/filter values -->
+  <div class="form-row sort-row">
+    <span class="sort-label">Sort:</span>
+    <input type="hidden" name="q" value="{{ query }}" />
+    <input type="hidden" name="genre" value="{{ genre }}" />
+    <a href="{{ url_for('decade', decade_str=decade_str, q=query, genre=genre, sort='year_asc') }}"
+       class="sort-btn {% if sort == 'year_asc' %}sort-active{% endif %}">Year ↑</a>
+    <a href="{{ url_for('decade', decade_str=decade_str, q=query, genre=genre, sort='year_desc') }}"
+       class="sort-btn {% if sort == 'year_desc' %}sort-active{% endif %}">Year ↓</a>
+    <a href="{{ url_for('decade', decade_str=decade_str, q=query, genre=genre, sort='alpha_asc') }}"
+       class="sort-btn {% if sort == 'alpha_asc' %}sort-active{% endif %}">A → Z</a>
+    <a href="{{ url_for('decade', decade_str=decade_str, q=query, genre=genre, sort='alpha_desc') }}"
+       class="sort-btn {% if sort == 'alpha_desc' %}sort-active{% endif %}">Z → A</a>
+  </div>
+</form>
+
+<p class="results-count">
+  Showing {{ shown }} of {{ total }} films
+  {% if query %} matching "<strong>{{ query }}</strong>"{% endif %}
+</p>
+
+{% if movies %}
+  <div class="movie-grid">
+    {% for m in movies %}
+    <div class="movie-card">
+      <div class="card-title">
+        <a href="{{ url_for('movie_detail', film_id=m.film_id) }}">{{ m.title }}</a>
+      </div>
+      <div class="card-year">{{ m.year }}</div>
+      {% if m.director %}
+        <div class="card-director">{{ m.director }}</div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+{% else %}
+  <p class="no-results">No films found for this decade with those filters.</p>
+{% endif %}
+
+{% endif %}
+{% endblock %}

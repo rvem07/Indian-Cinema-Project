@@ -1,0 +1,135 @@
+{% extends "base.html" %}
+{% block title %}{{ film.title if film else "Film Not Found" }} – Tollywood Timeline{% endblock %}
+
+{% block content %}
+
+{% if film %}
+
+  <div class="detail-header">
+    {% if film.decade %}
+      <a href="{{ url_for('decade', decade_str=film.decade) }}" class="back-link">
+        &larr; {{ film.decade }} Films
+      </a>
+    {% else %}
+      <a href="{{ url_for('films') }}" class="back-link">&larr; All Films</a>
+    {% endif %}
+    <h1>{{ film.title }}</h1>
+  </div>
+
+  <!-- Metadata row -->
+  <div class="detail-meta">
+
+    {% if film.year %}
+    <div class="meta-item">
+      <span class="meta-label">Year</span>
+      <span class="meta-value">{{ film.year }}</span>
+    </div>
+    {% endif %}
+
+    {% if film.decade %}
+    <div class="meta-item">
+      <span class="meta-label">Decade</span>
+      <span class="meta-value">
+        <a href="{{ url_for('decade', decade_str=film.decade) }}">{{ film.decade }}</a>
+      </span>
+    </div>
+    {% endif %}
+
+    {% if film.director %}
+    <div class="meta-item">
+      <span class="meta-label">Director</span>
+      <span class="meta-value">{{ film.director }}</span>
+    </div>
+    {% endif %}
+
+    {% if film.genres %}
+    <div class="meta-item">
+      <span class="meta-label">Genres</span>
+      <span class="meta-value">{{ film.genres }}</span>
+    </div>
+    {% endif %}
+
+    {% if film.language %}
+    <div class="meta-item">
+      <span class="meta-label">Language</span>
+      <span class="meta-value">{{ film.language }}</span>
+    </div>
+    {% endif %}
+
+    {% if film.country %}
+    <div class="meta-item">
+      <span class="meta-label">Country</span>
+      <span class="meta-value">{{ film.country }}</span>
+    </div>
+    {% endif %}
+
+    <div class="meta-item">
+      <span class="meta-label">Source</span>
+      <span class="meta-value">
+        <a href="{{ film.source_url }}" target="_blank" rel="noopener">
+          indiancine.ma ↗
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <!-- Synopsis -->
+  <h2>Synopsis</h2>
+  {% if film.synopsis %}
+    <p class="synopsis-text">{{ film.synopsis }}</p>
+  {% else %}
+    <p class="synopsis-text no-content">No synopsis available for this film.</p>
+  {% endif %}
+
+  <!-- Plot (collapsible spoiler) -->
+  {% if film.plot %}
+  <details class="plot-details">
+    <summary class="plot-summary">
+      Full Plot <span class="spoiler-tag">⚠ spoilers</span>
+    </summary>
+    <div class="plot-body">
+      {{ film.plot }}
+    </div>
+  </details>
+  {% endif %}
+
+  <!-- Cast / Crew -->
+  {% if film.cast %}
+  <h2>Cast</h2>
+  <p class="synopsis-text" style="margin-bottom:1.5rem;">{{ film.cast }}</p>
+  {% endif %}
+
+  <!-- Directors (from movie_people) -->
+  <h2>Director(s)</h2>
+  {% if cast %}
+    <div class="table-wrapper">
+      <table class="data-table">
+        <thead>
+          <tr><th>Name</th><th>Role</th></tr>
+        </thead>
+        <tbody>
+          {% for member in cast %}
+          <tr>
+            <td>
+              <a href="{{ url_for('person_detail', person_id=member.person_id) }}">
+                {{ member.person_name }}
+              </a>
+            </td>
+            <td>{{ member.role }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  {% else %}
+    <p class="no-results">No director data available for this film.</p>
+  {% endif %}
+
+{% else %}
+  <h1>Film Not Found</h1>
+  <p>No film with that ID exists in the Tollywood dataset.</p>
+  <a href="{{ url_for('index') }}" class="btn">&larr; Back to Timeline</a>
+{% endif %}
+
+{% endblock %}

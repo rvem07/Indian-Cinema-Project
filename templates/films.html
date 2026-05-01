@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block title %}All Films – Tollywood Timeline{% endblock %}
+
+{% block content %}
+
+<div class="page-header">
+  <a href="{{ url_for('index') }}" class="back-link">&larr; Timeline</a>
+  <h1>All Tollywood Films</h1>
+  <p class="page-sub">Search across all decades. Or browse by decade from the home page.</p>
+</div>
+
+<form class="search-form" method="get" action="{{ url_for('films') }}">
+  <div class="form-row">
+    <input type="text" name="q" placeholder="Search film title..."
+           value="{{ query }}" class="search-input" />
+  </div>
+  <div class="form-row filters">
+    <input type="text" name="year" placeholder="Year (e.g. 1975)"
+           value="{{ year }}" class="filter-input" style="width:140px;" />
+    <select name="genre" class="filter-input">
+      <option value="">All Genres</option>
+      {% for g in genres %}
+        <option value="{{ g }}" {% if g == genre %}selected{% endif %}>{{ g }}</option>
+      {% endfor %}
+    </select>
+    <button type="submit" class="btn">Search</button>
+    {% if query or year or genre %}
+      <a href="{{ url_for('films') }}" class="btn btn-outline">Clear</a>
+    {% endif %}
+  </div>
+</form>
+
+<p class="results-count">
+  Showing {{ shown }} of {{ total }} results
+  {% if query %} for "<strong>{{ query }}</strong>"{% endif %}
+</p>
+
+{% if films %}
+  <div class="table-wrapper">
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Year</th>
+          <th>Decade</th>
+          <th>Director</th>
+          <th>Genres</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for film in films %}
+        <tr>
+          <td>
+            <a href="{{ url_for('movie_detail', film_id=film.film_id) }}">
+              {{ film.title }}
+            </a>
+          </td>
+          <td>{{ film.year }}</td>
+          <td>
+            <a href="{{ url_for('decade', decade_str=film.decade) }}">{{ film.decade }}</a>
+          </td>
+          <td>{{ film.director if film.director else "—" }}</td>
+          <td>{{ film.genres if film.genres else "—" }}</td>
+          <td>
+            <a href="{{ film.source_url }}" target="_blank" class="imdb-link">
+              indiancine.ma
+            </a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p class="no-results">No films found. Try a different search.</p>
+{% endif %}
+
+{% endblock %}

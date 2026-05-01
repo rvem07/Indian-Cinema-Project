@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}Tollywood Timeline{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+
+  <!-- Centered title at very top -->
+  <div class="site-title">
+    <a href="{{ url_for('index') }}">Tollywood Timeline</a>
+  </div>
+
+  <!-- Floating pill navbar centered below the title -->
+  <div class="navbar-wrap">
+    <nav class="navbar-blob">
+      <a href="{{ url_for('index') }}">Home</a>
+      <span class="nav-divider">|</span>
+      <a href="{{ url_for('films') }}">All Films</a>
+      <span class="nav-divider">|</span>
+      <a href="{{ url_for('people') }}">People</a>
+    </nav>
+  </div>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <p>
+      Data sourced from
+      <a href="https://indiancine.ma" target="_blank">Indiancine.ma</a>
+      — an open archive of Indian cinema. For educational use only.
+    </p>
+  </footer>
+
+</body>
+</html>
